@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-08T11:45:16.778Z",
+  "generated_at": "2026-09-08T18:01:39.156Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 15,
+    "watchlist": 19,
     "universe": 0,
-    "total": 15
+    "total": 19
   },
   "items": [
+    {
+      "id": "n1a9049a312a0",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Cyril Amarchand Mangaldas Advises on Amalgamation Between Larsen & Toubro and L&T Power Development, ETLegalWorld",
+      "url": "https://legal.economictimes.indiatimes.com/amp/news/industry/cam-advises-larsen-toubro-limited-on-the-proposed-scheme-of-amalgamation-amongst-lt-and-lt-power-development-limited/133316608",
+      "source": "legal.economictimes.indiatimes.com",
+      "date": "2026-09-08T18:01:24.807Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T merges with its subsidiary L&T Power Development.",
+      "enriched": true
+    },
     {
       "id": "n2868533c5cc0",
       "ticker": "BLISSGVS",
@@ -66,26 +85,6 @@
       "enriched": true
     },
     {
-      "id": "nf1d060993329",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T bags offshore development project order exceeding Rs 15,000 crore from Middle East client - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/lt-bags-offshore-development-project-order-exceeding-rs-15000-crore-from-middle-east-client-larsen-toubro-ltd-share-price/articleshow/133288346.cms",
-      "source": "economictimes.indiatimes.com",
-      "date": "2026-09-08T11:29:22.785Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins offshore development project order worth over Rs 15,000 crore from Middle East client.",
-      "sources_count": 8,
-      "enriched": true
-    },
-    {
       "id": "n1c2f62d41793",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -102,6 +101,27 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T secures ultra-mega order for strategic offshore development project in Middle East.",
+      "enriched": true,
+      "sources_count": 3
+    },
+    {
+      "id": "nf1d060993329",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T bags offshore development project order exceeding Rs 15,000 crore from Middle East client - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/lt-bags-offshore-development-project-order-exceeding-rs-15000-crore-from-middle-east-client-larsen-toubro-ltd-share-price/articleshow/133288346.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-08T11:29:22.785Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins offshore development project order worth over Rs 15,000 crore from Middle East client.",
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -260,6 +280,25 @@
       "enriched": true
     },
     {
+      "id": "n04e592a03485",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "BLISSGVS Q2 2026 Earnings: Robust Revenue Growth of 14.8% Drives Strong EPS Performance - Consensus Miss Rate",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRjJ3UDBnM2JzWXRjUlB5WGZjNF8tbm9HMHlEazZpdmdicUkzSzY5MW5VQUZMSkdpZ2oxZzFQSG84aUhSTHB3cWlXc3drOTJVdGtTQ3IwNUFGWDVPYWdYR3I5QkRwWDIyQ1NqOEpjQ2h1c3g1V19FaldpUjlsSXZCZndIaWVkZnFMNDZqQzRyR0E0ZmZfUDhXUkVhRVlPRmdGblJvWkxXZ280eV9wRTFZRldsSEt5bUp3YzZLNEZxOWZNNGVJ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-05T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Bliss GVS Pharma Q2 2026 revenue grew 14.8% with strong earnings per share.",
+      "enriched": true
+    },
+    {
       "id": "n9aaec5bc90ab",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -276,6 +315,44 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Deepak Builders and Engineers India wins ₹548.70 crore order.",
+      "enriched": true
+    },
+    {
+      "id": "n9cf5d0bc7694",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jayaswal Neco Industries Limited (JAYNECOIND.NS) Mar 2026 Earnings: Robust Performance with EPS of ₹1.97 - Dividend Increase Stocks",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVU5ZdlBMSUxzaldaZktzSXFYNFhYYU15SHRlaXhvZGhERkhRcVlRNHZ3Zmc1cHlCU2E5SWtZam5RU0hHTVlfMktmYXVVLVQta1FrLURzMUVmVGZGc3Zoakdkd3hKdE9EQVItazRRNjZFb3BqcWhKVjZ0bDBTeHc3b3BoWWpaZjJWdy1uVWh2bkd4cUJjSzlZN0V1Y19yRUlrRGM0NGtuY3JVd2pDNmF0WU1jRzk5MncxM2lpM3FFWDRXTmw0Rlk2elJIZldPUjdkbW5EQ0VR?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-30T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Jayaswal Neco posted March 2026 earnings of ₹1.97 per share with dividend increase.",
+      "enriched": true
+    },
+    {
+      "id": "n7a3a83102f57",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jayaswal Neco Industries (JAYNECOIND.NS) Mar 2026 Earnings: Steel Demand Lifts Revenue, Margin Watch Continues - Earnings Revision Upgrade",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdC1XYjNTVl9ieDk0MnJmaWotU2haallhOHprNGlZLUZIczRVWTBtdW5WYmZ0U1hETC1FOFptVTNucGRJM3ZMcDY0TjhiYU1EYUV2N2Z0Wmg4NjdtS3FVQ0JZbmg2UjBORXRsWjVQQmNnVUwzUERYOVNJN1oybmJIX2E4ZUJ1d1UzV0MzQkVvZ0pnVURyb1lMVlpFRUVkcDU3b2tmNmV5emN1ajd5dS1TSXhaRGpCa2luMzQtbjBnX2JsWGd3TFc2ODJmeHBKQmxnNWdXdUN6Y0xFSS1VckVB?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-25T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Jayaswal Neco March 2026 revenue rose on steel demand, margins under watch.",
       "enriched": true
     },
     {
