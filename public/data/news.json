@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-09-08T11:36:18.133Z",
-  "source": "google-news+munshot+claude",
+  "generated_at": "2026-09-08T11:45:16.778Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 3,
+    "watchlist": 15,
     "universe": 0,
-    "total": 3
+    "total": 15
   },
   "items": [
+    {
+      "id": "n2868533c5cc0",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma seeks shareholder approval for Santosh Parab director role",
+      "url": "https://scanx.trade/stock-market-news/companies/bliss-gvs-pharma-seeks-shareholder-approval-santosh-parab-director/48773527",
+      "source": "scanx.trade",
+      "date": "2026-09-08T11:44:50.754Z",
+      "topic": "Other",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval to appoint Santosh Parab as director.",
+      "enriched": true
+    },
+    {
+      "id": "n9804ba2250f6",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma Q1 FY27: Profit up 83%, revenue +21% | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/bliss-gvs-pharma-q1fy27-profit-cmsssl8m300lo0zpjmmbuqxx8",
+      "source": "multibagg.ai",
+      "date": "2026-09-08T11:44:50.754Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Bliss GVS Pharma Q1 FY27 profit jumped 83% and revenue grew 21%.",
+      "enriched": true
+    },
+    {
+      "id": "nd3d9f8100e9d",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma accepts resignation of GM Sachin Saboo",
+      "url": "https://scanx.trade/stock-market-news/companies/bliss-gvs-pharma-accepts-resignation-of-gm-sachin-saboo/46522377",
+      "source": "scanx.trade",
+      "date": "2026-09-08T11:44:50.754Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma accepts resignation of GM Sachin Saboo.",
+      "enriched": true
+    },
     {
       "id": "nf1d060993329",
       "ticker": "LT",
@@ -25,7 +82,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore development project order worth over Rs 15,000 crore from Middle East client.",
-      "sources_count": 4,
+      "sources_count": 8,
       "enriched": true
     },
     {
@@ -64,6 +121,180 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India Q1 net profit rises 55% driven by consultancy margin expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n25a44d696a23",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Indian engineering giant L&T’s order wins signal Middle East revival",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPN1hIY3lDSjB6LXhucVN1X3pLQmhCMUFUQ1dBMk1FOE9vbW9jYUF1ZUZKQUs4aWpEeDl1WkdMbGdGSUQzT0lQVG5lX0pVa2ZmZi1mS3V5M3NvWWQtN2hRTlFlcHVBMjJ3VnlqUzgwaHQtbV9udHJWSFhKX1U1VEprdnBDUUFlYnB4TzhtY0xoZjBZMTR3TWJma0hza191UHRxSnF3dVlsWFRXLTE2cUpOMld5YXBfZW9BRDF0enJCZG9uSVAwYnBCOUp6eHdwSDNpSXdUNG56cktxXzJUU0xpc21Dbi1xdUpGTkxWOHZHcVVvb2lYVU5ISFdlaHR2ZGd2NHozLTFFTlFXVTBQODNQbW95V1VRWGdkZ21Xb9IBogJBVV95cUxNNFFtX3R0VFFocXA3RHlVNzhJaHdhZ2owNHRTem1RTFJZV0ZIRzg5ZU1aUWJQa1l3TEVzQmIzbzZfaU1lRUR0UlVJUlUyTUZXTWxPdVg2TUJGMHh0OTY4X3BLbXRRRGx0YlNGTWUtQzFtSkQxdUVSWTB5WXlZWWRDbnIxQWFUaWlaa3pzMEVSTnYtNVdscDJDUldWNms4RWJ3a1hubC1takxnb1NHVEtxa3hjVUt5Tk9HY0FNbWtDdnlscXd2ZDRCdkFYaldjY0NoV0NsODJpUHlITkJ1akUzdTRzRF9xYTBZNDV1SlBGVmFJZjB5VTlJX0NXOV9vTVkyWGxxSUtUYjZPOW9UR19IazU3bkhWazZ2V0laYVB0SVF0QQ?oc=5",
+      "source": "economictimes.com",
+      "date": "2026-08-26T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T's order wins in Middle East signal regional business revival.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n2d878d2e7f75",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T wins ₹5,000-10,000 crore 'major' order to build 3 battery storage projects in Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSjZ6VnZwOVNxTURFTERHWjBSNERPS2thcVNNOGFXNHZNUkY1UlVLVW01NlNzYlRkR0ZUcFZHaGl1NlZSU1RzRXpyeWp3NHFRSnhTNTFwM01kTDI1dEZJMFZXR0lKcTZVSWRrZUN6SmNtYVk3TExMUTdSRkhzcHZWWGZrTkxrMFFvY1pHT0lYakxyWW81OEJMUkZBNWNoeFEwVS1heUVjRU1KRnJxYjdUYmdGbG9leHk1MFVXZkVtMEZWMmp1N1RkS0pSdkx5S0NTSkg3VlllWlhOYXZvbWswc21sTnFrdnFjdXM2a2djdUlmMVhPWEdkT9IB_gFBVV95cUxORFBqYTItcEw4eThnYURCM0NEM3NPc0J2TGhIVktNNUNMYVVNbmluQ3JGNUQtNDBxdGNZUWI5WjFiaWlWVk01Y01PMlBJM2V1bGVqUEFEcU83Ym5GWDBuaVZNWXNCekZROWFVMVRZRFZ6eDZyV3hncHFoYjRDN29RTmNpQTVQc3doYzJLYl9Ybks2MDMxdEdCSk05alBoWFhyOFJEb3hza1R2T1RxZkRkREZEN2dJODYta2lhUm9BZlFGbVU4QmlmU3hxRE1CT1dzdHVHVHN4eXNMNlV5UlJtcDRpX3gtY1Bna0VsSWp4cHFBTkk2TVhfWFNtb3VYdw?oc=5",
+      "source": "economictimes.com",
+      "date": "2026-08-25T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins major order worth ₹5,000-10,000 crore for three battery storage projects in Middle East.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ne6fdad270f2c",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Wins (Large*) Order for Automated People Mover System at Dubai’s Al Maktoum Airport",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkg4Yk5QNkhLck1rRVBDSlphX0FybkxMeVN2SUpia0thT0c1TWRFLVNrOW44UkpQRmNuaEY5Uzd3RENvOTdBcFVzdFFFcDA2alBpWDdHeTNTbk5XLXhzWlhLVFUwS0RsbU9ZVVNabGY3OWMzUklHVTVnRGhDWjFpZjJlc2lQOGY4T1JIU3B0Z0JhNkp2a21iSi1uZDdGLWZDeGRJZllGdXBRVTIzZUpYX1NtRy05ZlY4REgwYW5XQm1qNkR1VV8yQ2RQVnluR2E1SlcyMHlRUk5EUQ?oc=5",
+      "source": "Larsen & Toubro",
+      "date": "2026-08-20T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins large order for automated people mover system at Dubai's Al Maktoum Airport.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ncafc870d6448",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T-MHI consortium wins upto ₹5,000cr Al Maktoum Airport APM order",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFlyZkZ1YTNOUVRaU0NSSVJEOGZtRUM4ZWJ1MlVEQ21fZ0FHZDNpSmNaMTY4TURIcjNkaTJFeXZzV01abUpwMGJlcjZYXzZzV1hkdE9JNHZ6QkEyUjJKdnAySkstNF90bEZvc0lrVzd4bkhBTXpRbTFjaWMwREFfWEwxbnU2NnR6TUNOMGtNcDBqLTF3S1BNOHFHZnNTWnBCcFB2UkxSODFieTk4OWVHTWhTa1NvNjdj0gG_AUFVX3lxTFBZNU5RSGs5N1ZYOGFhWjdTZE1zVGxxUTRBTVNMUWFoM19EQ1lBNG90R1JDWko3TUtGZ1FzZm51U3JoVkRmUTE5XzJoYmtDdFluaE8yYzhGVF9YenFMZWVCWmNGU2UydUpab2gxWjBhd25LYmhBdDZJUEloOE9wLVZiYjhPV2VYRnN6S0Zwa2tFNE1POUljRXVQVmdxdlZ4Q1ZlNXNPSVhoaEhUZ1VnYmlndlVNZFFrdzRzTU1XREZN?oc=5",
+      "source": "The Hindu",
+      "date": "2026-08-20T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T-MHI consortium wins up to ₹5,000 crore Al Maktoum Airport people mover order.",
+      "enriched": true
+    },
+    {
+      "id": "n0c6ee6e1d2e2",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India Q1 Results: Earnings Call Scheduled for Aug 14",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMzJ0Q2dNZUQwNGVpRUl5MGoyY182N1FHM1h2cUpaQzAzUmpNWnkzNVdybWx5MUhLLXloeHVadFc5ODJKZDFmZXQ5a2p6Qk10TmlMQlJ3QndXMHY1VHBKb2VFdmxVczNJak4zZWhCZXQ5OHZYbHFLV0JvZVZnNUwxTk83bTRzUVJ6YmxoUlVuU2pQUUJkZzVtd0NCcmpZd19ReUFzQkhsTjAxUlNLdWhwYUVPNEF5OWg4NVE?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-08-07T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Engineers India scheduled earnings call for August 14 to discuss Q1 results.",
+      "enriched": true
+    },
+    {
+      "id": "nd5671a64c862",
+      "ticker": "PPEL",
+      "company": "Poojaa Precision Engg. Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Poojaa Precision Engg SME IPO Opens July 28, Company Plans Capacity Expansion With ₹160 Crore Issue",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRk0yWDFjVWx1ZTRQZG81VDVPXzA0QlZQaXlpcksyTk45MWlseVRERXdTcGtuR2dTc18zRGpjWkdCQURqRnkwRWZrWXhRR0kxMWdGNlZjUDRKVDN5Rm5rb3NHWlpYVXFRbm9FU1lQUzBQVEdOd1czLVdPX3JVdXBLdlk0a3Z4RlE5NUVJbjhWOTEwcnVZTjBZTHcwVlVOcktKeWwtcjRIT0RMcG5RSVVKbjhzT0pnZk1LakhtR3QwMXNlc21NcHNSenU1Yzhib2c1dTNNWNIB2gFBVV95cUxNYmNpR1VNekg0ZzB0TDl1TjJldjRFRUxGOWNtVEp0b3lmU2JTZmVCdkptYTE3VUxWaFZtdk8tVDItYmVNV0lyY2FPYThzbDlLSFFHTVNlajJyRUtsZVRmM0lDNGxaUjYxQVVJUXFXb19mNzA0aE9OZ2tVa0JIX0dvMU5fYnd2d3QzVERzUU1pTXVyZTh2OUZwdWpLMktteFZwWUlob0tudXBwQ1Z5WHZUXzJTYmpqZDlOSlREMjVlZzlZOF94N2FhSUc3eGZ6eHBvX2tvTDljX2VFdw?oc=5",
+      "source": "Free Press Journal",
+      "date": "2026-07-27T07:00:00.000Z",
+      "topic": "Growth",
+      "keyword": "Capacity Expansion",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Poojaa Precision opens IPO July 28 to raise ₹160 crore for capacity expansion.",
+      "enriched": true
+    },
+    {
+      "id": "n1b2488472746",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jayaswal Neco Industries accepts Ravi Gudi's resignation effective July 18, 2026",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUFTU2k4c1NiRmxtWDRENDlaeEhRN09aQW44LWVaY1g2bTM2bzRJSm5uUTJIcXFzVWMzSWFwbkZVYi1JZ19hbTZVYWxjMWRtZmhBeXVUMDc2aXh3R2Y2YURqYW4yeHN3S1M0eU9YT2JnS3p3MlZFVjhJemhxT1d1dXRXU2syZ0tmajFDWGpiYUNhVmpWdTQxcUpWeU03VGFwbEg0QVJiUHVydTd2ZGRDWC1aOA?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-09T07:00:00.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Jayaswal Neco accepts Ravi Gudi's resignation effective July 18, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n9aaec5bc90ab",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Deepak Builders and Engineers India Share Price After Company Bags Rs 548.70 Cr Order",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVF1QjFIQmRnUktBWUtpV2hwWlBOUkRuNzR0YWtMaU9sRUdLYjFrdjlISlU0U3otUkNwNUx0UWgwb2d4UmtMNDFmZTNxYl9JX3pWNFZlekhMZVVCc2d1MjFac2pab1FOZFR4VTllVldBSzk3c01OSTBfVDg4NDA4N1lEcG1uZ0haN0E2NWpMeG1aS1lqbHBTdUhR?oc=5",
+      "source": "Univest",
+      "date": "2026-07-03T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Deepak Builders and Engineers India wins ₹548.70 crore order.",
+      "enriched": true
+    },
+    {
+      "id": "n80f1dec92265",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan Targets 25–30% Revenue Recovery in FY27 Following Strategic Bliss GVS Pharma Acquisition",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlVlRGw4X0dJeEhQUUhIZkh0V19oMU5jUnY1UThqM0ljRjhacWJIZVRIeFVnUEdhSDNyRGctVWx2ZUlvdHJ5aDBiZWZYSmZJX2ltUmlBQVI4ZlNXRkNwVVBoWVlOT0otX1NsU21QSGphWktQOXRPdGJMOFJmVVlpd21CUzdaR05vVnBFSzlsLS1fWTdhbl9hRmpkcHZIaUxJRzJfNjlheGhIZG52eGxLeWZ5UlNRNDYzcE85WW9WX0RUQlV5?oc=5",
+      "source": "Trade Brains",
+      "date": "2026-06-04T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan targets 25-30% revenue recovery in FY27 after acquiring Bliss GVS Pharma.",
       "enriched": true
     }
   ]
