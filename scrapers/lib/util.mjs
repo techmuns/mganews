@@ -283,6 +283,10 @@ export function mentionsCompany(co, text) {
   const t = String(text || '').toLowerCase();
   if (!t) return false;
   if (t.includes(co.company.toLowerCase())) return true;
+  for (const a of co.aliases || []) {
+    const al = String(a || '').toLowerCase().trim();
+    if (al.length >= 3 && t.includes(al)) return true;
+  }
   const first = co.company.split(/\s+/)[0].toLowerCase().replace(/[^a-z0-9]/g, '');
   if (first.length >= 3 && !NAME_STOP.has(first) && new RegExp(`\\b${first}\\b`).test(t))
     return true;

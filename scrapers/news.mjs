@@ -50,7 +50,7 @@ const VALUEPICKR = process.env.VALUEPICKR !== '0'; // Valuepickr forum source (o
 // enrich.mjs do the real keep/drop; if not, keep the interim feed keyword-clean.
 const BRAIN_ON = !!(process.env.BEDROCK_API_KEY && process.env.BEDROCK_MODEL_ID);
 
-const PER_COMPANY_CAP = 8;
+const PER_COMPANY_CAP = 15;
 const UNIVERSE_PER_QUERY = 2;
 const MAX_UNIVERSE_QUERIES = 14;
 
@@ -84,6 +84,28 @@ function slugTicker(name) {
       .replace(/[^A-Z0-9]/g, '')
       .slice(0, 12) || 'CUSTOM'
   );
+}
+
+// Fundamental-news keyword group, ANDed into a second per-company query so
+// company news about real business events surfaces even when general coverage
+// is heavy. The AI (enrich.mjs) still makes the final keep/drop call — this only
+// widens what we fetch; it never force-keeps something just for matching.
+const NEWS_KEYWORD_GROUP =
+  '(order OR contract OR capex OR expansion OR capacity OR acquisition OR merger OR stake OR approval OR USFDA OR results OR profit OR dividend OR "fund raising" OR QIP OR commissioning OR "new plant" OR launch OR fire)';
+
+// Search name-group for a company: its aliases + full name, OR-ed and quoted, so
+// common short forms ("L&T", "Bliss GVS") match as well as the legal name.
+function nameGroup(co) {
+  const names = [...(co.aliases || []), co.company];
+  const seen = new Set();
+  const parts = [];
+  for (const n of names) {
+    const q = String(n || '').trim();
+    if (!q || seen.has(q.toLowerCase())) continue;
+    seen.add(q.toLowerCase());
+    parts.push(`"${q}"`);
+  }
+  return parts.length > 1 ? `(${parts.join(' OR ')})` : parts[0] || `"${co.company}"`;
 }
 
 function titleKey(it) {
@@ -263,21 +285,26 @@ async function main() {
   /* ---- per-company pass ---- */
   const perCompany = await mapLimit(companies, 4, async (co) => {
     const out = [];
-    try {
-      const g = await googleNews(`"${co.company}" when:90d`);
-      for (const raw of g) {
-        const it = toNewsItem(raw, co, matcher);
-        if (it) {
-          out.push(it);
-          stat.googleKept++;
+    const ng = nameGroup(co);
+    // Two Google passes: a broad company query + a keyword-focused one, so
+    // fundamental company news surfaces even when general coverage is heavy.
+    for (const q of [`${ng} when:90d`, `${ng} ${NEWS_KEYWORD_GROUP} when:90d`]) {
+      try {
+        const g = await googleNews(q);
+        for (const raw of g) {
+          const it = toNewsItem(raw, co, matcher);
+          if (it) {
+            out.push(it);
+            stat.googleKept++;
+          }
         }
+      } catch (e) {
+        stat.googleErrors++;
+        console.log(`[google] ${co.company}: ${e.message}`);
       }
-    } catch (e) {
-      stat.googleErrors++;
-      console.log(`[google] ${co.company}: ${e.message}`);
     }
     if (MUNS_TOKEN) {
-      const m = await munshotNews(co.company);
+      const m = await munshotNews((co.aliases && co.aliases[0]) || co.company);
       for (const raw of m) {
         const it = toNewsItem(raw, co, matcher);
         if (it) {
@@ -299,7 +326,7 @@ async function main() {
     }
     // Valuepickr forum threads (no key). Opinion-heavy — Claude filters in enrich.
     if (VALUEPICKR) {
-      const vp = await valuepickrSearch(co.company);
+      const vp = await valuepickrSearch((co.aliases && co.aliases[0]) || co.company);
       for (const raw of vp) {
         const it = toNewsItem(raw, co, matcher);
         if (it) {
