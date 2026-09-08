@@ -19,14 +19,11 @@ not_found_handling = "single-page-application"
 # KV "memory" for the add-stock / add-keyword boxes and email subscriptions,
 # which the scraper also reads (/api/custom, /api/subscribe).
 #
-# ONE-TIME SETUP — create your OWN namespace, then uncomment the block below:
-#   npx wrangler kv namespace create NEWSFLOW_KV
-# Paste the printed id into `id` and uncomment the three lines. Until you do,
-# the add-boxes fall back to per-browser localStorage and email subscriptions
-# won't persist (everything else works). Do NOT reuse another site's namespace.
-# [[kv_namespaces]]
-# binding = "NEWSFLOW_KV"
-# id = "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
+# The `binding` (NEWSFLOW_KV) is the name the Worker code uses — keep it exactly
+# as-is regardless of the namespace's display name in the Cloudflare dashboard.
+[[kv_namespaces]]
+binding = "NEWSFLOW_KV"
+id = "26921e8b48644e9ab2c714ef30029d10"
 
 # NOTE: the hourly digest is triggered by GitHub Actions (.github/workflows/
 # send-digests.yml), which POSTs to /api/run-digests every hour — no Cloudflare
