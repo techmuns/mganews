@@ -1,6 +1,1061 @@
 {
-  "generated_at": "2026-09-08T11:00:23.434Z",
-  "source": "pending",
-  "counts": {},
-  "items": []
+  "generated_at": "2026-09-08T11:29:23.689Z",
+  "source": "nse",
+  "counts": {
+    "NSE": 105,
+    "BSE": 0,
+    "total": 105
+  },
+  "items": [
+    {
+      "id": "fcb36a90f74bb",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-07T11:16:55.000Z",
+      "category": "Spurt in Volume",
+      "title": "Significant increase in volume has been observed in Jayaswal Neco Industries Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, had written to the company. Jayaswal Neco Industries Limited has submitted their response.",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_07092026111633_spurt_in_volume05092026_0001.pdf"
+    },
+    {
+      "id": "ff3d01019b8bc",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T19:21:16.000Z",
+      "category": "Disclosure",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about General Updates: Reply to NSE letter dated 4 September 2026 on Spurt in volume.",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_05092026192101_spurt_in_volume05092026_0001.pdf"
+    },
+    {
+      "id": "f94e12cc39413",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-05T19:07:23.000Z",
+      "category": "Disclosure",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_05092026190546_reg_30_0001.pdf"
+    },
+    {
+      "id": "f74d7efdcfb64",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-04T19:00:16.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding the ESOP Allotment Committee of the Company at its meeting held today i.e. September 04,2026 has approved the allotment of 55,250 equity shares of the face value Re 1/- to the eligible employees who have exercised their stock options under the Bliss GVS Pharma Limited- Employee Stock Option Plan (Bliss GVS ESOP - 2019)",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_04092026185925_Outcome_of_ESOP_Allotment_Committee.pdf"
+    },
+    {
+      "id": "f3bc15c8aae3e",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-04T18:58:50.000Z",
+      "category": "Spurt in Volume",
+      "title": "Significant increase in volume has been observed in Jayaswal Neco Industries Limited. The Exchange, in order to ensure that investors have latest relevant information about the company and to inform the market place so that the interest of the investors is safeguarded, has written to the company. The response from the company is awaited.",
+      "url": "-"
+    },
+    {
+      "id": "f8b184e763c4d",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-04T17:50:34.000Z",
+      "category": "Press Release",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding a press release dated September 04, 2026, titled \"Press Release on \"Clarification regarding Media Reports concerning DATASEL S.R.L., Italy.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_04092026175021_pressrelease04092026_Datasel_SRL.pdf"
+    },
+    {
+      "id": "f9fcd9695ad4b",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-09-04T17:32:57.000Z",
+      "category": "Credit Rating",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_04092026173240_SE_Intimation_Credit_Rating_CRISIL_0409.pdf"
+    },
+    {
+      "id": "f304b93fc078b",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-03T10:58:46.000Z",
+      "category": "Change in Directors",
+      "title": "Engineers India Limited has informed the Exchange regarding Change in Director(s) of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_03092026105837_xchangeDCextension.pdf"
+    },
+    {
+      "id": "f3ec8cafd3fa3",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-02T16:01:08.000Z",
+      "category": "Disclosure",
+      "title": "SBI Capital Markets Ltd has submitted to the Exchange a copy of Post offer advertisement in accordance with Regulation 18(12) of the SEBI (SAST) Regulations, 2011, as amended, for the attention of the public shareholders of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_02092026155222_BLISSGVS.pdf"
+    },
+    {
+      "id": "f905be5675949",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-09-01T18:47:41.000Z",
+      "category": "Acquisition",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Scheme of Arrangement",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_01092026184703_Reg30192026.pdf"
+    },
+    {
+      "id": "fb5555b36cecc",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-31T13:47:42.000Z",
+      "category": "Disclosure",
+      "title": "Engineers India Limited has informed the Exchange regarding 'Updates: Letter to shareholders Pursuant to Regulation 36(1)(b) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015'.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_31082026134729_xchangesharedholder.pdf"
+    },
+    {
+      "id": "f7e568c1712db",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-27T16:54:07.000Z",
+      "category": "Newspaper Publication",
+      "title": "Engineers India Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_27082026165341_xchangenews.pdf"
+    },
+    {
+      "id": "f5df0df2aa61a",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-26T15:28:02.000Z",
+      "category": "Shareholders meeting",
+      "title": "Engineers India Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 18, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_26082026152657_xchangenoticeandar.pdf"
+    },
+    {
+      "id": "fdd207affd34b",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-08-25T13:31:08.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication regarding Extension of Special Window for Re-Lodgement of Transfer Requests of Physical Shares",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_25082026133101_Special_Window_Publication.pdf"
+    },
+    {
+      "id": "f1475efde2021",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-08-25T09:34:05.000Z",
+      "category": "Receipt of Order",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_25082026093347_PressRelease25082026.pdf"
+    },
+    {
+      "id": "f9d5f63e03226",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-08-21T15:40:03.000Z",
+      "category": "Newspaper Publication",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about Copy of Newspaper Publication - Notice of Annual General Meeting",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_21082026153953_newspaperadvt21082026.pdf"
+    },
+    {
+      "id": "f27177ea4445d",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-08-21T15:23:51.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication regarding the Advertisement of the Postal Ballot Notice.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_21082026152335_PB_Advertisement.pdf"
+    },
+    {
+      "id": "f38121cf2287c",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-08-20T17:34:59.000Z",
+      "category": "Shareholders meeting",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Notice of Postal Ballot",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_20082026173204_PostalBallot_Notice_12082026.pdf"
+    },
+    {
+      "id": "fe73f37191d33",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-08-20T11:12:10.000Z",
+      "category": "Disclosure",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding 'Business Responsibility and Sustainability Report'.",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_20082026111159_BRSR_JNIL_31032026.pdf"
+    },
+    {
+      "id": "fb0198dbdea30",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-08-20T11:06:41.000Z",
+      "category": "Shareholders meeting",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on September 12, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_20082026110629_Notice_AGM_12092026.pdf"
+    },
+    {
+      "id": "fa17b4333b257",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-19T17:55:07.000Z",
+      "category": "Record Date",
+      "title": "Engineers India Limited has informed the Exchange that Record date for the purpose of Dividend is 24-Sep-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_19082026175456_agmintimation.pdf"
+    },
+    {
+      "id": "fba382af068d4",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-19T17:53:42.000Z",
+      "category": "Disclosure",
+      "title": "Engineers India Limited has informed the Exchange regarding '(i) Intimation of date of 61st Annual General Meeting for FY 2025-26(ii) Intimation of record date for Final Dividend for FY 2025-26'.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_19082026175327_agmintimation.pdf"
+    },
+    {
+      "id": "f9b424c3cf3ab",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-18T16:11:30.000Z",
+      "category": "Investor Presentation",
+      "title": "Engineers India Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_18082026160852_transcript.pdf"
+    },
+    {
+      "id": "fe960f28367ba",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-08-17T11:36:22.000Z",
+      "category": "Receipt of Order",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Bagging/Receiving of orders/contracts - L&T Secures Ultra-Mega* Order for Strategic Offshore Development Project in the Middle East",
+      "url": "https://nsearchives.nseindia.com/corporate/Subhodh_17082026113557_SEIntimation_Pressrelease_17082026.pdf"
+    },
+    {
+      "id": "f0c2b81513cce",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-14T21:42:34.000Z",
+      "category": "Disclosure",
+      "title": "Engineers India Limited has informed the Exchange about General Updates-Audio Link of Analyst call held on 14.08.2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_14082026214216_concall.pdf"
+    },
+    {
+      "id": "f01cf8bbe1205",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-14T21:39:40.000Z",
+      "category": "Change in Directors",
+      "title": "Engineers India Limited has informed the Exchange regarding Appointment of Mr as Independent Director of the company w.e.f. August 14, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_14082026213648_finaldirectorxchange.pdf"
+    },
+    {
+      "id": "f428120d8272b",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-14T21:39:40.000Z",
+      "category": "Change in Directors",
+      "title": "Engineers India Limited has informed the Exchange regarding Appointment of Shri Ashish Kumar Gupta as Independent Director of the company w.e.f. August 14, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_14082026213925_finaldirectorxchange.pdf"
+    },
+    {
+      "id": "f257235dccfa1",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-14T17:01:02.000Z",
+      "category": "Newspaper Publication",
+      "title": "Engineers India Limited has informed the Exchange about Copy of Newspaper Publication -Results Q1 FY 26-27",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_14082026170016_newspaper.pdf"
+    },
+    {
+      "id": "f1baa294dca8b",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-08-14T12:05:10.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication regarding the extract of the statement of un-audited standalone andconsolidated financial results for the quarter ended June 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_14082026120453_Advertisement_UFR_Blissgvs_12082026.pdf"
+    },
+    {
+      "id": "f9168e8701765",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-14T09:43:14.000Z",
+      "category": "Investor Presentation",
+      "title": "Engineers India Limited has informed the Exchange about Investor Presentation",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_14082026094253_investorpresentation.pdf"
+    },
+    {
+      "id": "f78fe0973171d",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-13T19:45:51.000Z",
+      "category": "Board Meeting",
+      "title": "Engineers India Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_13082026194128_covering.pdf"
+    },
+    {
+      "id": "f4829c11aba60",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-13T11:13:05.000Z",
+      "category": "Disclosure",
+      "title": "Engineers India Limited has informed the Exchange regarding 'Update on Appointment of Non-Official Independent Director '.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_13082026111238_ID13082026intim.pdf"
+    },
+    {
+      "id": "f6662d04ea0e5",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-08-12T19:59:14.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about General Updates regarding grant of options under Bliss GVS Pharma Limited - Employee Stock Options Plan 2019.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_12082026195905_ESOP_Grant_Outcome_.pdf"
+    },
+    {
+      "id": "f0b15ba340a23",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-08-12T19:38:24.000Z",
+      "category": "Board Meeting",
+      "title": "Bliss GVS Pharma Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026 along with the Limited Review Report and the draft of the Postal Ballot Notice seeking the approval of members of the Company for the appointment of Mr. Santosh Parab (DIN: 01622988) as a Director of the Company in the capacity of Non-Executive Non-Independent Director of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_12082026193659_BM_Outcome_12082026.pdf"
+    },
+    {
+      "id": "f403f91050069",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-08-11T17:57:28.000Z",
+      "category": "Allotment of Securities",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding allotment of 31250 securities pursuant to ESOP/ESPS at its meeting held on August 11, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_11082026175708_Outcome_of_ESOP_Allotment_Committee.pdf"
+    },
+    {
+      "id": "f76bc6d6fc2ab",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-08-11T15:58:55.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Execution of Business Transfer Agreement with Vyoma.AI Limited (Vyoma), Wholly owned Subsidiary of the Company and execution of Share Purchase Agreement towards sale of entire stake held in L&T Network Services Private Limited to Vyoma",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_11082026155835_Intimation11082026.pdf"
+    },
+    {
+      "id": "fafe834b743e7",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-08-11T14:06:34.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange about ESG Credit Rating",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_11082026140555_NSEESGRating11082026.pdf"
+    },
+    {
+      "id": "f72228cf3be65",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-08-10T15:04:02.000Z",
+      "category": "Investor Presentation",
+      "title": "Engineers India Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_10082026150312_earningcall10082026.pdf"
+    },
+    {
+      "id": "f763e5c814425",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-08-06T19:06:00.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding 're-filing of announcement in machine readable format'.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_06082026190416_Reply06082026.pdf"
+    },
+    {
+      "id": "fe4c971b56807",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-08-06T13:44:45.000Z",
+      "category": "Investor Presentation",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Schedule of meet",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_06082026134416_Intimation06082026.pdf"
+    },
+    {
+      "id": "f1a63ebf56e17",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-08-04T19:50:21.000Z",
+      "category": "Acquisition",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Scheme of Arrangement - Summary of Proceedings, Voting Results and Scrutinizer's Report of the NCLT convened meeting of equity shareholders of the Company held on August 4, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_04082026195008_OutcomeNCLTConvenedMeeting04082026_1.pdf"
+    },
+    {
+      "id": "f0bb337da909f",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-08-04T19:47:27.000Z",
+      "category": "Shareholders meeting",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding Proceedings of NCLT Convened Meeting held on August 04, 2026. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_04082026194655_OutcomeNCLTConvenedMeeting04082026_1.pdf"
+    },
+    {
+      "id": "f7b10b7f75906",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-08-03T18:17:45.000Z",
+      "category": "Investor Presentation",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_03082026181720_TranscriptJune2026.pdf"
+    },
+    {
+      "id": "ff2164edaba0e",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-08-01T15:41:31.000Z",
+      "category": "Newspaper Publication",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND2_01082026154043_CL_0001_merged.pdf"
+    },
+    {
+      "id": "f4ce0262d3060",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-31T09:30:22.000Z",
+      "category": "Press Release",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding a press release dated July 31, 2026, titled \"L&T Energy Hydrocarbon Onshore Signs Six-Year EPC Agreement with Petroleum Development Oman\".",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_31072026093000_PressRelease31072026.pdf"
+    },
+    {
+      "id": "fd0319a5176a6",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-29T16:40:05.000Z",
+      "category": "Newspaper Publication",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_29072026163945_NewspaperAdvtJune2026.pdf"
+    },
+    {
+      "id": "fd9be57e04dea",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-28T22:36:51.000Z",
+      "category": "Investor Presentation",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026223622_Intimation28072026.pdf"
+    },
+    {
+      "id": "ff0633009fe09",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-28T18:24:23.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026182357_AnalystPresentationJune2026.pdf"
+    },
+    {
+      "id": "f07233758aa6b",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-28T17:30:18.000Z",
+      "category": "Acquisition",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Amalgamation/Merger of L&T Power Development Limited, a wholly owned subsidiary of the Company, with the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026172853_LTJune2026.pdf"
+    },
+    {
+      "id": "f6ca50a22f104",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-28T17:18:41.000Z",
+      "category": "Board Meeting",
+      "title": "Larsen & Toubro Limited has submitted to the Exchange, the un-audited financial results for the period ended Jun 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026171704_LTJune2026.pdf"
+    },
+    {
+      "id": "f0078edacec13",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-28T13:33:43.000Z",
+      "category": "Allotment of Securities",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding allotment of 136908 securities pursuant to ESOP/ESPS at its meeting held on July 28, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026133313_ESOPAllotment28072026.pdf"
+    },
+    {
+      "id": "f2e03ef0732b6",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-28T11:10:22.000Z",
+      "category": "Change in Directors",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding Resignation of Mr. V. Sukumar Hebbar as Senior Management Personnel of the company w.e.f. July 27, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026110805_IntimationCessationHebbar.pdf"
+    },
+    {
+      "id": "fe32e3cd96992",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-27T16:44:40.000Z",
+      "category": "Disclosure",
+      "title": "SBI Capital Markets Ltd has submitted to the Exchange a copy of pre-offer advertisement in accordance with Regulation 18(7) of the SEBI (SAST) Regulations, 2011, as amended, and corrigendum to the detailed public statement for the attention of the public shareholders of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_27072026163619_BLISSGVS.zip"
+    },
+    {
+      "id": "fd235f7c890e8",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-27T12:30:55.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR) ESG Credit Rating'.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_27072026123028_SESESGRating27072026.pdf"
+    },
+    {
+      "id": "feb14c8936dff",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-24T19:52:47.000Z",
+      "category": "Change in Directors",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_ROID_92940_KMP_Doc.zip"
+    },
+    {
+      "id": "f33775438aced",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-24T19:51:19.000Z",
+      "category": "Change in Directors",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Cessation of Mr. Sachin Saboo as Other of the company w.e.f. July 24, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_24072026195112_Intimation_of_Cessation_of_Sachin_Saboo.pdf"
+    },
+    {
+      "id": "fbafcb573e5e9",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-23T15:20:51.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publications containing recommendation of the Committee of Independent Directors.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23072026152044_Intimation_of_Publication_of_Recommendations_.pdf"
+    },
+    {
+      "id": "f7942f458d3f5",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-23T13:02:44.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding '' Notice to Shareholders w.r.t. transfer of unclaimed Final Dividend 2018-2019 and its Corresponding Shares to Investor Education and Protection Fund (IEPF) Authority\".",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23072026130150_Intimation_IEPF_Notice.pdf"
+    },
+    {
+      "id": "f472f775f8ecb",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-22T19:13:17.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'the intimation of recommendations by the Committee of Independent Directors pursuant to Regulation 26(7) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 on Open Offer made by the Anupam Rasayan India Limited together with PAC to the Public Shareholders of the Bliss GVS Pharma Limited.'",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_22072026191309_Intimation_of_Recommendations_of_IDC.pdf"
+    },
+    {
+      "id": "ffdd4372953ac",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-22T13:20:56.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_22072026132045_IEPF_Advertisment_Shares_201819.pdf"
+    },
+    {
+      "id": "fcfce265977c3",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-21T19:55:40.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Letter of Offer dated July 18, 2026 received from SBI Capital Markets Limited, the manager to the Open Offer appointed by Anupam Rasayan India Limited along with PAC'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_21072026195533_Intimation_of_Letter_of_Offer.pdf"
+    },
+    {
+      "id": "f2cfc95f042c6",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-21T19:22:10.000Z",
+      "category": "Disclosure",
+      "title": "SBI Capital Markets Ltd has Submitted to the Exchange a copy of letter of offer.",
+      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_21072026192035_BLISSGVS.zip"
+    },
+    {
+      "id": "f4634fbee2a13",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-20T12:54:09.000Z",
+      "category": "Public Announcement-Open Offer",
+      "title": "SBI Capital Markets Limited has informed to the Exchange about Addendum to Public Announcement and Detailed Public Statement for the Open Offer made by Anupam Rasayan Limited, the acquirer for the addition of PAC",
+      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20072026121256_BLISSGVS.zip"
+    },
+    {
+      "id": "f1a1dcb08a663",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-19T20:47:13.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Addendum to Public Announcement and Detailed Public Statement for the Open Offer made by Anupam Rasayan Limited, the acquirer for the addition of PAC.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_19072026204637_Addendum_Submission__Bliss_GVS___Open_Offer.pdf"
+    },
+    {
+      "id": "f59abbd1ead18",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-07-17T16:35:09.000Z",
+      "category": "Change in Auditors",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding Change in Auditors of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17072026163433_Outcome17072026.pdf"
+    },
+    {
+      "id": "f0ab358521087",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-07-17T16:21:40.000Z",
+      "category": "Disclosure",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about General Updates : Intimation of convening of Annual General Meeting on Saturday, 12 th September 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17072026162128_Outcome17072026.pdf"
+    },
+    {
+      "id": "fc06625103d55",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-07-17T16:12:52.000Z",
+      "category": "Press Release",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding a press release dated July 17, 2026, titled \"Press Release on Unaudited Financial Results for the quarter ended 30th June,2026\".",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17072026161241_Presssrelease30062026.pdf"
+    },
+    {
+      "id": "f202aae607857",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-07-17T15:53:56.000Z",
+      "category": "Board Meeting",
+      "title": "Jayaswal Neco Industries Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17072026155234_Outcome17072026.pdf"
+    },
+    {
+      "id": "f5b3f14b50e8d",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-15T18:51:59.000Z",
+      "category": "Shareholders meeting",
+      "title": "Bliss GVS Pharma Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on July 15, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_15072026185145_AGM_VR_ScrutinizerReport_15072026.pdf"
+    },
+    {
+      "id": "f28e055bc9467",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-15T18:47:35.000Z",
+      "category": "Shareholders meeting",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 15, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_15072026184720_Proceedings_of_41st_AGM_15072026_signed.pdf"
+    },
+    {
+      "id": "f9e90767f9dd8",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-15T13:58:28.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Contact details of KMPs for reporting of Material Events to Stock Exchanges'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_15072026135819_Materiality_Disclosure.pdf"
+    },
+    {
+      "id": "fabd740905dd9",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-09T18:36:25.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
+      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_23062026123616_BLISS.pdf"
+    },
+    {
+      "id": "f1c51a68f503b",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-07-09T16:17:21.000Z",
+      "category": "Change in Directors",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND_ROID_91428_KMP_Doc.zip"
+    },
+    {
+      "id": "f9e6f87b42043",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-07-09T15:12:08.000Z",
+      "category": "Change in Directors",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about change in Management_Senior Management Personnel",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_09072026151156_REG3009072026.pdf"
+    },
+    {
+      "id": "faa99504891eb",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-07-09T12:23:19.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Engineers India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_09072026122306_Reg74.pdf"
+    },
+    {
+      "id": "f372194ea1873",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-08T12:29:03.000Z",
+      "category": "Press Release",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding a press release dated July 08, 2026, titled \"L&T Vyoma and Fortanix Partner to Deliver Confidential Computing with NVIDIA Technology\".",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_08072026122809_PressRelease08072026.pdf"
+    },
+    {
+      "id": "fb0d87eab265b",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-07T18:05:35.000Z",
+      "category": "Allotment of Securities",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding allotment of 187750 securities pursuant to ESOP/ESPS at its meeting held on July 07, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_07072026180521_Outcome_of_ESOP_Allotment_Committee.pdf"
+    },
+    {
+      "id": "f9a5b6f6fb783",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-07-07T15:41:32.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_07072026154042_REG74COMPCERT.pdf"
+    },
+    {
+      "id": "f79024ccd1f87",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-07T12:42:11.000Z",
+      "category": "Press Release",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding a press release dated July 07, 2026, titled \"Larsen & Toubro Secures Moody s Baa1 RatingTwo Notches Above India s Sovereign Grade\".",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_07072026124152_PressRelease07072026.pdf"
+    },
+    {
+      "id": "fe038e2996e03",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-07T12:39:55.000Z",
+      "category": "Credit Rating",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Credit Rating- New",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_07072026123936_PressRelease07072026.pdf"
+    },
+    {
+      "id": "f3435aba82da6",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-07-07T10:52:18.000Z",
+      "category": "Disclosure",
+      "title": "Neha Sharma, Ministry of Petroleum & Natural Gas, Section Officer (Oil Refinery) on behalf of President of India has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
+      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_02072026114350_50.PDF"
+    },
+    {
+      "id": "f16f897448b63",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-07-06T18:50:19.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_06072026185004_Intimation745June2026.pdf"
+    },
+    {
+      "id": "fa96d469fa5dc",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-03T19:03:51.000Z",
+      "category": "Change in Directors",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Appointment of Mr Santosh Parab as Non- Executive Director of the company w.e.f. July 03, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026190048_BMOutcome_03072026.pdf"
+    },
+    {
+      "id": "fe107fddb7d7d",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-03T19:03:51.000Z",
+      "category": "Change in Directors",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Resignation of Mr Narsimha Shibroor Kamath as Chief Executive Officer of the company w.e.f. July 14, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026190255_BMOutcome_03072026.pdf"
+    },
+    {
+      "id": "f349a7d44147a",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-03T19:03:51.000Z",
+      "category": "Change in Directors",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Appointment of Mr Rahul Adakmol as Chief Executive Officer of the company w.e.f. July 15, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026190148_BMOutcome_03072026.pdf"
+    },
+    {
+      "id": "fca62de98bf94",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-03T18:59:09.000Z",
+      "category": "Board Meeting",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Outcome of Board Meeting held on July 03, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026185834_BMOutcome_03072026.pdf"
+    },
+    {
+      "id": "fd669fa1d7923",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-07-03T13:06:43.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026130616_Regualtion74_5_30062026.pdf"
+    },
+    {
+      "id": "f6ec0842b22c8",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-07-01T09:55:13.000Z",
+      "category": "Retirement",
+      "title": "Engineers India Limited has informed the Exchange about Retirement",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_01072026095458_Managementreg30.pdf"
+    },
+    {
+      "id": "ff8643a3eb37d",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-06-29T15:50:52.000Z",
+      "category": "Trading Window",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_29062026155044_Intimation_of_Closure_of_Trading_Window.pdf"
+    },
+    {
+      "id": "fbd569d19fae3",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-06-27T19:14:31.000Z",
+      "category": "Shareholders meeting",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding Notice of Court Covened General Meeting to be held on August 04, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_27062026191223_LTEGMNOTICEANNEXURES27JUNE2026.pdf"
+    },
+    {
+      "id": "f169c5edbeb15",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-06-26T17:43:38.000Z",
+      "category": "Trading Window",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_26062026174312_tradingwindowcl26062026.pdf"
+    },
+    {
+      "id": "fc74e305213b2",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-06-26T12:08:00.000Z",
+      "category": "Trading Window",
+      "title": "Engineers India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_26062026120748_WC.pdf"
+    },
+    {
+      "id": "fccc21bab7e15",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-06-25T17:41:09.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Divestment of Nabha Power Limited",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_25062026174025_IntimationNABHA250626.pdf"
+    },
+    {
+      "id": "f27be1bf4c222",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-06-25T16:21:22.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR) Incorporation of a wholly owned step-down subsidiary.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_25062026162051_Intimation25062026.pdf"
+    },
+    {
+      "id": "f3cffafb403f9",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-06-25T13:39:07.000Z",
+      "category": "Trading Window",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_25062026133814_FixedClosedPeriod25062026.pdf"
+    },
+    {
+      "id": "f0e5892b5a2b8",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-06-24T17:13:55.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about a copy of the newspaper publication regarding the publication of the newspaper advertisement of the notice of the 41st Annual General Meeting, e-Voting, and Book Closure Information",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_24062026171307_Post_Adv_AGM_2026.pdf"
+    },
+    {
+      "id": "f6fdf01ebbbef",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-06-24T12:30:52.000Z",
+      "category": "Press Release",
+      "title": "Engineers India Limited has informed the Exchange regarding a press release dated Jun 24, 2026, titled \"Press Release - HCL and EIL Sign Memorandum of Agreement\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_24062026123038_MOU.pdf"
+    },
+    {
+      "id": "f7dfcb3cc25b3",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-06-23T18:47:45.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Please find enclosed herewith the intimation for the Book Closure for the purpose of 41st Annual General Meeting of the Company.'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23062026184731_Book_Closure_Record_Date_Intimation.pdf"
+    },
+    {
+      "id": "fb1b4ae43d0a5",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-06-23T18:46:17.000Z",
+      "category": "Record Date",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange that Record date for the purpose of DI is 08-Jul-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23062026184548_Book_Closure_Record_Date_Intimation.pdf"
+    },
+    {
+      "id": "f95e2e8709881",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-06-23T18:43:56.000Z",
+      "category": "Shareholders meeting",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on July 15, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23062026184348_AGM_Notice_2025_2026.pdf"
+    },
+    {
+      "id": "f51a7304326c0",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-06-21T00:04:23.000Z",
+      "category": "Disclosure",
+      "title": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR) Incorporation of a wholly owned step-down subsidiary",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_21062026000405_SEIntimationLTNCompute20062026.pdf"
+    },
+    {
+      "id": "f769f10619775",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-06-20T21:43:46.000Z",
+      "category": "Disclosure",
+      "title": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR) Incorporation of a wholly owned step-down subsidiary.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_20062026214334_Intimation_-_LTN_Compute.pdf"
+    },
+    {
+      "id": "f5e565d032bce",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-06-19T19:42:14.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'the communication sent to shareholders regarding Intimation of Tax Deduction on Dividend.'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_19062026194111_Intimation_of_TDS_Communication.pdf"
+    },
+    {
+      "id": "f1cd15152dc07",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-06-19T15:16:18.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication 41st Annual General Meeting of the Company",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_19062026151611_Pre_Advertisment_AGM_2026.pdf"
+    },
+    {
+      "id": "ff9fa8d1cc5db",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-06-11T17:24:18.000Z",
+      "category": "Allotment of Securities",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding allotment of 267250 securities pursuant to ESOP/ESPS at its meeting held on Jun 11, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_11062026172411_Outcome_of_ESOP_Allotment_Committee.pdf"
+    }
+  ]
 }
