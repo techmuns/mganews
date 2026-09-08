@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-09-08T11:00:23.434Z",
+  "portfolio": [],
+  "watchlist_exited": [
+    {
+      "company": "Bliss GVS Pharma Limited",
+      "ticker": "BLISSGVS",
+      "sector": "Healthcare"
+    },
+    {
+      "company": "Jayaswal Neco Industries Limited",
+      "ticker": "JAYNECOIND",
+      "sector": "Metals & Mining"
+    },
+    {
+      "company": "Poojaa Precision Engg. Limited",
+      "ticker": "PPEL",
+      "sector": "Automobile and Auto Components"
+    },
+    {
+      "company": "Engineers India Limited",
+      "ticker": "ENGINERSIN",
+      "sector": "Capital Goods"
+    },
+    {
+      "company": "Larsen & Toubro Limited",
+      "ticker": "LT",
+      "sector": "Capital Goods"
+    }
+  ]
+}

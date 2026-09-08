@@ -1,0 +1,36 @@
+name = "mganews"
+main = "worker/index.ts"
+compatibility_date = "2024-11-01"
+
+# Build the site before deploying. This runs automatically on `wrangler deploy`
+# (locally AND in Cloudflare Workers Builds), so the connected-repo deploy needs
+# no separate "build command" configured in the dashboard.
+[build]
+command = "npm run build"
+
+# Serve the built Vite site (dist/) as static assets. The Worker is the entry
+# point (see main above) so that /api/* routes are handled first.
+[assets]
+directory = "./dist"
+binding = "ASSETS"
+# Fall back to index.html for unknown paths (single-page app behaviour).
+not_found_handling = "single-page-application"
+
+# KV "memory" for the add-stock / add-keyword boxes and email subscriptions,
+# which the scraper also reads (/api/custom, /api/subscribe).
+#
+# ONE-TIME SETUP — create your OWN namespace, then uncomment the block below:
+#   npx wrangler kv namespace create NEWSFLOW_KV
+# Paste the printed id into `id` and uncomment the three lines. Until you do,
+# the add-boxes fall back to per-browser localStorage and email subscriptions
+# won't persist (everything else works). Do NOT reuse another site's namespace.
+# [[kv_namespaces]]
+# binding = "NEWSFLOW_KV"
+# id = "PASTE_YOUR_KV_NAMESPACE_ID_HERE"
+
+# NOTE: the hourly digest is triggered by GitHub Actions (.github/workflows/
+# send-digests.yml), which POSTs to /api/run-digests every hour — no Cloudflare
+# cron slot needed. The Worker still ships a scheduled() handler, so on a plan
+# with cron triggers you can re-enable a native trigger by uncommenting:
+#   [triggers]
+#   crons = ["0 * * * *"]
