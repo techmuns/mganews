@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-09-08T11:00:23.434Z",
-  "source": "pending",
-  "counts": {},
-  "items": []
+  "generated_at": "2026-09-08T11:36:18.133Z",
+  "source": "google-news+munshot+claude",
+  "counts": {
+    "portfolio": 0,
+    "watchlist": 3,
+    "universe": 0,
+    "total": 3
+  },
+  "items": [
+    {
+      "id": "nf1d060993329",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T bags offshore development project order exceeding Rs 15,000 crore from Middle East client - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/lt-bags-offshore-development-project-order-exceeding-rs-15000-crore-from-middle-east-client-larsen-toubro-ltd-share-price/articleshow/133288346.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-08T11:29:22.785Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins offshore development project order worth over Rs 15,000 crore from Middle East client.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "n1c2f62d41793",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T secures 'ultra-mega' order for strategic offshore development project in the Middle East | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/l-t-secures-ultra-mega-order-for-strategic-offshore-development-project-in-the-middle-east-126081700484_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-08T11:29:22.785Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secures ultra-mega order for strategic offshore development project in Middle East.",
+      "enriched": true
+    },
+    {
+      "id": "n5b65d66c5ed6",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India Q1FY27 net profit up 55% on consultancy margin expansion",
+      "url": "https://scanx.trade/stock-market-news/companies/engineers-india-q1-results-net-profit-surges-145-yoy-1-6b/48181508",
+      "source": "scanx.trade",
+      "date": "2026-09-08T11:29:20.167Z",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India Q1 net profit rises 55% driven by consultancy margin expansion.",
+      "enriched": true
+    }
+  ]
 }
