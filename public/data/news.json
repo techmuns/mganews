@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-09-08T18:01:39.156Z",
+  "generated_at": "2026-09-09T07:31:52.791Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 19,
+    "watchlist": 18,
     "universe": 0,
-    "total": 19
+    "total": 18
   },
   "items": [
+    {
+      "id": "nc4e14881d142",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T bags offshore order of up to Rs 5,000 cr from ONGC for India's west coast development projects - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/lt-secures-large-offshore-order-from-ongc-for-indias-west-coast-development-projects-5000-crores-larsen-toubro-share-price/articleshow/133952961.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-09T07:31:42.546Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins offshore order worth up to Rs 5,000 crore from ONGC for west coast projects.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n1a9049a312a0",
       "ticker": "LT",
@@ -102,7 +122,7 @@
       "mood": "positive",
       "takeaway": "L&T secures ultra-mega order for strategic offshore development project in Middle East.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 10
     },
     {
       "id": "nf1d060993329",
@@ -121,7 +141,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore development project order worth over Rs 15,000 crore from Middle East client.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -181,45 +201,6 @@
       "mood": "positive",
       "takeaway": "L&T wins major order worth ₹5,000-10,000 crore for three battery storage projects in Middle East.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "ne6fdad270f2c",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Wins (Large*) Order for Automated People Mover System at Dubai’s Al Maktoum Airport",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkg4Yk5QNkhLck1rRVBDSlphX0FybkxMeVN2SUpia0thT0c1TWRFLVNrOW44UkpQRmNuaEY5Uzd3RENvOTdBcFVzdFFFcDA2alBpWDdHeTNTbk5XLXhzWlhLVFUwS0RsbU9ZVVNabGY3OWMzUklHVTVnRGhDWjFpZjJlc2lQOGY4T1JIU3B0Z0JhNkp2a21iSi1uZDdGLWZDeGRJZllGdXBRVTIzZUpYX1NtRy05ZlY4REgwYW5XQm1qNkR1VV8yQ2RQVnluR2E1SlcyMHlRUk5EUQ?oc=5",
-      "source": "Larsen & Toubro",
-      "date": "2026-08-20T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins large order for automated people mover system at Dubai's Al Maktoum Airport.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "ncafc870d6448",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T-MHI consortium wins upto ₹5,000cr Al Maktoum Airport APM order",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFlyZkZ1YTNOUVRaU0NSSVJEOGZtRUM4ZWJ1MlVEQ21fZ0FHZDNpSmNaMTY4TURIcjNkaTJFeXZzV01abUpwMGJlcjZYXzZzV1hkdE9JNHZ6QkEyUjJKdnAySkstNF90bEZvc0lrVzd4bkhBTXpRbTFjaWMwREFfWEwxbnU2NnR6TUNOMGtNcDBqLTF3S1BNOHFHZnNTWnBCcFB2UkxSODFieTk4OWVHTWhTa1NvNjdj0gG_AUFVX3lxTFBZNU5RSGs5N1ZYOGFhWjdTZE1zVGxxUTRBTVNMUWFoM19EQ1lBNG90R1JDWko3TUtGZ1FzZm51U3JoVkRmUTE5XzJoYmtDdFluaE8yYzhGVF9YenFMZWVCWmNGU2UydUpab2gxWjBhd25LYmhBdDZJUEloOE9wLVZiYjhPV2VYRnN6S0Zwa2tFNE1POUljRXVQVmdxdlZ4Q1ZlNXNPSVhoaEhUZ1VnYmlndlVNZFFrdzRzTU1XREZN?oc=5",
-      "source": "The Hindu",
-      "date": "2026-08-20T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T-MHI consortium wins up to ₹5,000 crore Al Maktoum Airport people mover order.",
       "enriched": true
     },
     {
