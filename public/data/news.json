@@ -1,13 +1,89 @@
 {
-  "generated_at": "2026-09-09T07:31:52.791Z",
+  "generated_at": "2026-09-09T18:04:41.122Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 18,
+    "watchlist": 21,
     "universe": 0,
-    "total": 18
+    "total": 21
   },
   "items": [
+    {
+      "id": "ndc7d12698b91",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T wins large offshore order from ONGC for Ratna-I and NLM-14 development",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVMtVG9MY3JqZFNHb2JfSGxSS25hN194b0V1YXVwWXcwdWNTdHVzNUhReFZ3Z3dmdHlyWEllbmtGWUtYc3N0ZWR1NXRRSFlMRm0wakR5VnBDWFZ0WjIxT0pOYXhkZDVSeXJSeGZyMmJ1R1BnV3l4SFNHaEVxX2pWalV0SXNQUG1YRkZERGJVYUdXc2xKQmNPREVmblliSXJvQ3JJeEhpdjFJd9IBtwFBVV95cUxQMmNzUVluSkY1NFlDUWVkMC1HY2o3YVFMWmpvTUJYVHhBWE1pbTB3S3l5X1RoaWdPak8zblFjV2YwUUNDS2FXajBOTDZmaFN6UDBJRGctd29Yc2pwcHg2UjlaZl83ZGVsRmMzUGE5eEplWDFuTmF4eUVSZEZ3c1NFellfWXFoU0J6blk1alBtZEU5eHNiNG10S3BDb0VheXBRbzFzQnpSMldPWmI5MEwwdFJISVhpVFE?oc=5",
+      "source": "PSU Watch",
+      "date": "2026-09-09T16:21:59.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins large offshore order from ONGC for Ratna-I and NLM-14 development projects.",
+      "enriched": true
+    },
+    {
+      "id": "nadaa36808ff4",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Focus Lighting Secures ₹10-17 Crore L&T Order For Street Lighting Poles",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjZGU2VZMzhLZFEwLWlpRFc4Y3RyZzVoTXdYMGdSODN4czU0NjAyN2tUVXU4TWx6UEk5WnZwQnRYRTVUNm9TcGc4VW01OFFqLVNXcTVkWXVFb0Jrd2tMcWpTdlVMdkVvQ3JiX1o1S3NzdFNMcTk5MmIyTF9sQjI2MWRNeW5EX2ItWGdhdGVqa2NQZWpSR2x1MWdXYWNhcjgyWjZwUUh5cmxRQWJfSkE?oc=5",
+      "source": "sahi.com",
+      "date": "2026-09-09T12:14:46.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Focus Lighting secures small order worth ₹10-17 crore from L&T for street lighting poles.",
+      "enriched": true
+    },
+    {
+      "id": "n30cf36b23b52",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Hydrocarbon Secures Large ONGC Order for Well-Head Platforms and Riser Platform - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBPR2F5SlEyakJpUTJITXRNVjB2WUFrakZZSWNNMHloejF1ckZ6ZkZReWZ2QUM0SFE3Wm9tVndzdVhtZ2NZQlNQSmducUtjYmMyQm5JQ3BCU0s2b2pwdjYxNDViTWxpYnhJcDZDMTMybFA1Ykh0ZHpiQTA2aG9yTHd3TjItOUFWTE9UN19hd0JDR3pTcE1GR3docw?oc=5",
+      "source": "IndexBox",
+      "date": "2026-09-09T10:53:11.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T Hydrocarbon secures large ONGC order for well-head platforms and riser platform.",
+      "enriched": true
+    },
+    {
+      "id": "n44ae9e16b344",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Secures Major Offshore Order from ONGC to Boost India's Energy Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObm5qcm1DN2c2ZjNfVTFIbm5QWERvb3RWS09LbjBoR1JLYVE4VXpHV1RORzVvQXZnSHdQOWlheC1QelZ5X0Y1UHRtYXBrOXN6R0VNcHJrQ2xZUnp5azZiMklLLUh4Sk1POEJ2aWkxOGE4NXJxM3QtM19Sc1prTTE0clRCRkFUVEd5WDdHdXRoWXBPbGxjeWRWaFlPNi01eWJwTDhWTUgxVEN6SFRSZmpqVDhDQXZFbW5mWWkzQkJ6SkZpZ2xER0JpSFJvQWtLUdIB0wFBVV95cUxPZDNEV2FaQWk5OTNPVEx0V3VQcndwaHk4ZF9Mcm92YlNScWhHT3NvVnBjMnJwenFlQUxEQVc5U3pZMUQzRENtRE9xUmZ1elptSDVDQWpHa0lCMzFkRlhWZWtZTEpBWkNydjdzdEtZLS05UmYzOTFYTWpMRXQ1QXdDcXB0ZHVQNldvYjZaNHNuZHhLbURGRC1Bc0RWQ0xpUmw2eC13VFhRZ3F2YmFfbnZQQlVtb0dYdS1BNFpWRVFEWVIwVU4wUWZMV1lzZXNnM0JsWG5j?oc=5",
+      "source": "Devdiscourse",
+      "date": "2026-09-09T08:54:31.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secures major offshore order from ONGC to boost India's energy infrastructure.",
+      "enriched": true
+    },
     {
       "id": "nc4e14881d142",
       "ticker": "LT",
@@ -122,7 +198,7 @@
       "mood": "positive",
       "takeaway": "L&T secures ultra-mega order for strategic offshore development project in Middle East.",
       "enriched": true,
-      "sources_count": 10
+      "sources_count": 2
     },
     {
       "id": "nf1d060993329",
@@ -315,25 +391,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Jayaswal Neco posted March 2026 earnings of ₹1.97 per share with dividend increase.",
-      "enriched": true
-    },
-    {
-      "id": "n7a3a83102f57",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jayaswal Neco Industries (JAYNECOIND.NS) Mar 2026 Earnings: Steel Demand Lifts Revenue, Margin Watch Continues - Earnings Revision Upgrade",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdC1XYjNTVl9ieDk0MnJmaWotU2haallhOHprNGlZLUZIczRVWTBtdW5WYmZ0U1hETC1FOFptVTNucGRJM3ZMcDY0TjhiYU1EYUV2N2Z0Wmg4NjdtS3FVQ0JZbmg2UjBORXRsWjVQQmNnVUwzUERYOVNJN1oybmJIX2E4ZUJ1d1UzV0MzQkVvZ0pnVURyb1lMVlpFRUVkcDU3b2tmNmV5emN1ajd5dS1TSXhaRGpCa2luMzQtbjBnX2JsWGd3TFc2ODJmeHBKQmxnNWdXdUN6Y0xFSS1VckVB?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-25T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Jayaswal Neco March 2026 revenue rose on steel demand, margins under watch.",
       "enriched": true
     },
     {
