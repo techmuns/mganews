@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-09-08T18:05:35.095Z",
+  "generated_at": "2026-09-09T17:59:48.600Z",
   "source": "nse",
   "counts": {
-    "NSE": 106,
+    "NSE": 109,
     "BSE": 0,
-    "total": 106
+    "total": 109
   },
   "items": [
+    {
+      "id": "f236f79a565a2",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T20:10:07.000Z",
+      "category": "Change in Auditors",
+      "title": "Engineers India Limited has informed the Exchange regarding Change in Auditors of the company.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_09092026200951_xchangeauditor.pdf"
+    },
+    {
+      "id": "fc96e977c7e09",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T14:46:28.000Z",
+      "category": "Allotment of Securities",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding allotment of 50,000 Listed, Rated, Unsecured, Redeemable, Tokenised Non-Convertible Debentures at its meeting held on September 09, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_09092026144602_Intimation09092026.pdf"
+    },
+    {
+      "id": "fe76afc500068",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-09-09T13:18:38.000Z",
+      "category": "Press Release",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding a press release dated September 09, 2026, titled \"L&T Becomes India s First Private Sector Corporate to Issue Tokenised Bond\".",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_09092026131822_PressRelease090920261.pdf"
+    },
     {
       "id": "f9ec3a56d8f68",
       "ticker": "ENGINERSIN",
