@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T18:04:41.122Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-09-10T07:28:13.841Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 21,
+    "watchlist": 25,
     "universe": 0,
-    "total": 21
+    "total": 25
   },
   "items": [
     {
@@ -101,7 +101,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to Rs 5,000 crore from ONGC for west coast projects.",
-      "sources_count": 2,
+      "sources_count": 11,
       "enriched": true
     },
     {
@@ -280,6 +280,25 @@
       "enriched": true
     },
     {
+      "id": "ncc5a0b47fa3c",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India targets 10% revenue growth in FY27, eyes stronger order inflows",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNUXpLLW5LNzk3N2ZaVHQ4VENhZ0RwS1lvOVpwRzNvamhYRkdNbWhLRW1iMVZUa3h0WVVyTkZHM3Vqa2g0TUU5ZlZiR3MzVlNaeHMyeXU0V3RMMU8zaW9tWTNkWXVSZTl4S1RoRGkwWVFBeFZiTldzbU0wNXY5cUxTNnFJZ1gxZjBMWlA3OHZta3JQVFhDdmtnWWRiNUFwd2t4RzVIQVZTWUdBZm5YdzZpdGF1WVpuOFdKWHhBTXQxZmlMM1l6SnYwVWp4RncxRVZsWjNmSHd2Z2xYLUN3NEg3TGliNzJpdm9SYkhWeElUYWR2dHpYcW5mT2tLWlAzeTR4ZFNNTFJSaE83T1pFSXZGRVJmWWh2TUVSek1wa092dzhsdENQX1BFM1ZETmIwVGxhOF84UGpxT1BqQdIBvwJBVV95cUxNOHpOcFBuX1lRTkt2VFVWZ3A0SUhvTnNid2VUZEtxZ2hkWkdMSWZFQmJXaEdXYXBubmp6ZlhfZWNfZlZiQWU1LVBuTnBIYWNJVjNJSFZMb2htX2RMQUNUZm5INDRJV1FGYTVLWEF6NnJyTy1xTDdjZmFHNGRsM0lqUVZaQW5YYnIwR3M0VXhDd3B3ajZYTndyTURDNG1ocmJoQnpiTXlUV0NGY2dzaExobVlySDlZR2psWjUzLVBLLTRUYnExWWlBcDRMUFppdzItM084RWs0RGk3a1NMWUNOWFA1V01scG16QXNyT0JWYld5NGdFcXBCaFhsajJqTjc0WWtDdUljMnY1bktXQVVwUlU2ZU5Eb3J6UFk2Wmh6T3QtYUdDYnVETTdWSlR2WEFqcXdpR0dsTVFOMlctVzVV?oc=5",
+      "source": "CNBC TV18",
+      "date": "2026-08-15T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India targets 10% revenue growth in FY27 with focus on stronger order inflows.",
+      "enriched": true
+    },
+    {
       "id": "n0c6ee6e1d2e2",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -375,6 +394,26 @@
       "enriched": true
     },
     {
+      "id": "n2d5c9f66c431",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jayaswal Neco Industries Mar 2026 Earnings: Profitability Maintained Amid Stable Revenue - Earnings Revision Upgrade",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZk9hYXQ2SGNxVGRrcXZITldsQkxHWFRXMXRLNTA3UWhUd0lVMk43SGJ3eG0zaEpDcEJMT2VycHEwbDRIRFZaQmVNMjZodEZTOHM5ZmUzVnlwc2xSLUVZSVk4MVFyX1lnakFyR1JNNzlRODBlOW9WUGNwcnpaSGRZd1Q1a0s5NnRfLVNSSTIzaVJaNW4yNXNKX04yQjZHQkwzWGJSdmlPalhTNHFpRFY3VVAzY0Z1SkNYUGlnTmd3WVFwQlEzRFVj?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Jayaswal Neco Industries maintains profitability with stable revenue in March 2026 quarter.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
       "id": "n9cf5d0bc7694",
       "ticker": "JAYNECOIND",
       "company": "Jayaswal Neco Industries Limited",
@@ -391,6 +430,44 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Jayaswal Neco posted March 2026 earnings of ₹1.97 per share with dividend increase.",
+      "enriched": true
+    },
+    {
+      "id": "n0bb2e7e74577",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jayaswal Neco Industries Mar 2026 Earnings: Steady Performance with Revenue at ₹1,974 Crore and EPS of ₹1.97 - Quarterly Profit Report",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0ZydDdjekN4QmdjU1I4MDNZS3RPYXZhaEZaM3ZRLTU5eUVHMU9iZTVnaDdtcDZYTnBuUU1iQ2p3NEoyNDFYSVZYM0N0SFpieG9UXzB2bU1fWF9GY0o5cTVjcTNYUGtxSHpwSVBJVXo0ZUZNMlpTQ2UxQ1drSndIaERmTHdKSVNzR0pnc1MzWGpSbHVxT3Q5UjNpOHVYMmJsakFjeXVpZjhub3dBazZLN1JiLXFXNjB5bUpBemdzd29IQWsteURXTGc3blhRcDR4dURzRDRqaUFHTzVI?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-26T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Jayaswal Neco Industries reports steady March 2026 quarter with revenue of ₹1,974 crore and EPS of ₹1.97.",
+      "enriched": true
+    },
+    {
+      "id": "nbc1c679ce1c1",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma Q2 FY2026 Earnings: Strong Revenue Growth Amidst Operational Resilience - Management Guidance Update",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNTc1eGo5UC1jVDNldEJOU0VVV292c01lRlVhQ21STWxqVG54QXYzWWoyUEFHU0FPc2MweU1BZGhaNDViWVVtTnFPWWp3ZndTNlpVeFNLOGpackxfQmFjYjNuV0hPN0s4bkhmX0FGTWhHeEs5NE9fZ1FoeFQzc2RfTlh0U0t3VmVFQXRMdVpTRlhUTUFCZ0hlaTRTVTViTTV2LWFwbXpLeWR6M2hSUU9sRGpFekFOTnlHNWhYVFU0Zy1KRFpWUTVLOQ?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-06-16T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Bliss GVS Pharma shows strong revenue growth in Q2 FY2026 with operational resilience.",
       "enriched": true
     },
     {
