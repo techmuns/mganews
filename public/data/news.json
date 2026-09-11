@@ -1,32 +1,13 @@
 {
-  "generated_at": "2026-09-10T17:56:40.114Z",
+  "generated_at": "2026-09-11T07:26:33.812Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 25,
+    "watchlist": 23,
     "universe": 0,
-    "total": 25
+    "total": 23
   },
   "items": [
-    {
-      "id": "ndc7d12698b91",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T wins large offshore order from ONGC for Ratna-I and NLM-14 development",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYVMtVG9MY3JqZFNHb2JfSGxSS25hN194b0V1YXVwWXcwdWNTdHVzNUhReFZ3Z3dmdHlyWEllbmtGWUtYc3N0ZWR1NXRRSFlMRm0wakR5VnBDWFZ0WjIxT0pOYXhkZDVSeXJSeGZyMmJ1R1BnV3l4SFNHaEVxX2pWalV0SXNQUG1YRkZERGJVYUdXc2xKQmNPREVmblliSXJvQ3JJeEhpdjFJd9IBtwFBVV95cUxQMmNzUVluSkY1NFlDUWVkMC1HY2o3YVFMWmpvTUJYVHhBWE1pbTB3S3l5X1RoaWdPak8zblFjV2YwUUNDS2FXajBOTDZmaFN6UDBJRGctd29Yc2pwcHg2UjlaZl83ZGVsRmMzUGE5eEplWDFuTmF4eUVSZEZ3c1NFellfWXFoU0J6blk1alBtZEU5eHNiNG10S3BDb0VheXBRbzFzQnpSMldPWmI5MEwwdFJISVhpVFE?oc=5",
-      "source": "PSU Watch",
-      "date": "2026-09-09T16:21:59.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins large offshore order from ONGC for Ratna-I and NLM-14 development projects.",
-      "enriched": true
-    },
     {
       "id": "nadaa36808ff4",
       "ticker": "LT",
@@ -44,6 +25,26 @@
       "importance": "low",
       "mood": "positive",
       "takeaway": "Focus Lighting secures small order worth ₹10-17 crore from L&T for street lighting poles.",
+      "enriched": true
+    },
+    {
+      "id": "nead91271fa2b",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T secures up to ₹5,000 cr offshore order for west coast energy projects",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGtBUUNyZkcyR1R4SkpjQVZRd1pSU1pFSlZtN1ZSYnNzZkFPRnM1Y0ljRUJ4MTZFall1ZmducFlTMW1VdFYyNWNzR1Zmc0JDblZRdUVlRXFXd2QzalFoTms2SVFZOElxcjNfVUVmYjFHSDNJYlBxZ2VWOS1yRk1ucGh4dS1GNG11Z0QtY1pqSU5rNk9WZU5KSTAwMFZFTXJpUDlSOTNxanE3RWdQcml5WGhZZDI4Vy1rbDZaT0xhYzA3UUNsT1hvYXR1NVVTTkVNWFBjTnVsRDfSAd4BQVVfeXFMTkdVbHRFZ2VTMjdwX3c0RFJuSXBXa1pJdkM2S3Y5cmNGNDR1UGxtRjdvQ04yVFhzTUhWZ3gxRlVXTndBUGpMV2ZVcDE5SzFhN1lpWHQ4QzlKVHo2NHBhSHptZnluSUJEQ0tLd0FHRUZMQnoyQ19ndGxvLXlmV0dlSlo1OVNaM1FuSjNOMlFyVVd2Ul9BWFFZMnQxYVZqdUFwSTlRLVZBMGtfaHkwR0I0UnJwUlEwdmF2bjFocnVfVFVzVm1QMmN1LW5QNU5MR282UFNlQmxnWGlybUJ3Qk1B?oc=5",
+      "source": "Business Standard",
+      "date": "2026-09-09T12:06:55.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -82,26 +83,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T secures major offshore order from ONGC to boost India's energy infrastructure.",
-      "enriched": true
-    },
-    {
-      "id": "nc4e14881d142",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T bags offshore order of up to Rs 5,000 cr from ONGC for India's west coast development projects - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/lt-secures-large-offshore-order-from-ongc-for-indias-west-coast-development-projects-5000-crores-larsen-toubro-share-price/articleshow/133952961.cms",
-      "source": "economictimes.indiatimes.com",
-      "date": "2026-09-09T07:31:42.546Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins offshore order worth up to Rs 5,000 crore from ONGC for west coast projects.",
-      "sources_count": 6,
       "enriched": true
     },
     {
@@ -430,26 +411,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Jayaswal Neco Industries reports steady March 2026 quarter with revenue of ₹1,974 crore and EPS of ₹1.97.",
-      "enriched": true
-    },
-    {
-      "id": "n7a3a83102f57",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jayaswal Neco Industries (JAYNECOIND.NS) Mar 2026 Earnings: Steel Demand Lifts Revenue, Margin Watch Continues - Earnings Revision Upgrade",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdC1XYjNTVl9ieDk0MnJmaWotU2haallhOHprNGlZLUZIczRVWTBtdW5WYmZ0U1hETC1FOFptVTNucGRJM3ZMcDY0TjhiYU1EYUV2N2Z0Wmg4NjdtS3FVQ0JZbmg2UjBORXRsWjVQQmNnVUwzUERYOVNJN1oybmJIX2E4ZUJ1d1UzV0MzQkVvZ0pnVURyb1lMVlpFRUVkcDU3b2tmNmV5emN1ajd5dS1TSXhaRGpCa2luMzQtbjBnX2JsWGd3TFc2ODJmeHBKQmxnNWdXdUN6Y0xFSS1VckVB?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-25T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Jayaswal Neco Industries March 2026 earnings showed revenue growth driven by steel demand.",
-      "sources_count": 2,
       "enriched": true
     },
     {
