@@ -1,33 +1,13 @@
 {
-  "generated_at": "2026-09-11T17:50:54.394Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-09-12T07:18:43.470Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 24,
+    "watchlist": 22,
     "universe": 0,
-    "total": 24
+    "total": 22
   },
   "items": [
-    {
-      "id": "naf1eace7e67f",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Wins Large Offshore Order from ONGC for Ratna-I and NLM-14 Projects",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnY4Y25rcVVqWmxjMjVoZGZfOF95Nm85ZHYtWUdfUFYzdEdydjN1ZkREeVZramlDbFVHaVZEclRacXFlVlFKekdQc1dRa2lzdEF1N1hpblpDN0ZISkJiaW5CSUpmbHVkYktUcHA2UDlyOFdxUDk0ei11Z0N3NTgzdzdFeEFNcUdCSlptdnJJMTB4ZEVnSGtVTklTWVhyTlI0SGV4REN5TQ?oc=5",
-      "source": "Machine Maker",
-      "date": "2026-09-11T06:11:08.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T secured a large offshore contract from ONGC for Ratna-I and NLM-14 projects.",
-      "sources_count": 3,
-      "enriched": true
-    },
     {
       "id": "nadaa36808ff4",
       "ticker": "LT",
@@ -64,7 +44,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 5,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -450,25 +430,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Bliss GVS Pharma shows strong revenue growth in Q2 FY2026 with operational resilience.",
-      "enriched": true
-    },
-    {
-      "id": "n80f1dec92265",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan Targets 25–30% Revenue Recovery in FY27 Following Strategic Bliss GVS Pharma Acquisition",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNlVlRGw4X0dJeEhQUUhIZkh0V19oMU5jUnY1UThqM0ljRjhacWJIZVRIeFVnUEdhSDNyRGctVWx2ZUlvdHJ5aDBiZWZYSmZJX2ltUmlBQVI4ZlNXRkNwVVBoWVlOT0otX1NsU21QSGphWktQOXRPdGJMOFJmVVlpd21CUzdaR05vVnBFSzlsLS1fWTdhbl9hRmpkcHZIaUxJRzJfNjlheGhIZG52eGxLeWZ5UlNRNDYzcE85WW9WX0RUQlV5?oc=5",
-      "source": "Trade Brains",
-      "date": "2026-06-04T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan targets 25-30% revenue recovery in FY27 after acquiring Bliss GVS Pharma.",
       "enriched": true
     }
   ]
