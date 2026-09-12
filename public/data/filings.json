@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-09-09T17:59:48.600Z",
+  "generated_at": "2026-09-12T17:26:40.702Z",
   "source": "nse",
   "counts": {
-    "NSE": 109,
+    "NSE": 111,
     "BSE": 0,
-    "total": 109
+    "total": 111
   },
   "items": [
+    {
+      "id": "f546606398fab",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-12T19:25:58.000Z",
+      "category": "Shareholders meeting",
+      "title": "Jayaswal Neco Industries Limited has submitted the Exchange a copy Srutinizers report of undefined held on September 12, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_12092026192551_Votingresultsandscrutinizerreport_0001.pdf"
+    },
+    {
+      "id": "fa34dc36a33b0",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-09-12T17:12:17.000Z",
+      "category": "Shareholders meeting",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 12, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_12092026171154_outcomeandproceeding.pdf"
+    },
     {
       "id": "f236f79a565a2",
       "ticker": "ENGINERSIN",
