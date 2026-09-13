@@ -1,13 +1,72 @@
 {
-  "generated_at": "2026-09-13T07:37:02.478Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-09-13T17:34:11.030Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 22,
+    "watchlist": 27,
     "universe": 0,
-    "total": 22
+    "total": 27
   },
   "items": [
+    {
+      "id": "n02fdea25cba4",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler shareholders approve FY26 dividend and Gelhaus as CEO",
+      "url": "https://scanx.trade/stock-market-news/companies/gmm-pfaudler-shareholders-approve-fy26-dividend-at-63rd-agm/47405939",
+      "source": "scanx.trade",
+      "date": "2026-09-13T17:33:49.868Z",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shareholders approved dividend and appointed Gelhaus as CEO.",
+      "enriched": true
+    },
+    {
+      "id": "n3b6b1b2aaac4",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q1 2027 GMM Pfaudler Ltd Earnings Call Transcript",
+      "url": "https://www.gurufocus.com/news/9029409/q1-2027-gmm-pfaudler-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-09-13T17:33:49.868Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Q1 FY27 earnings call transcript available.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n1c2f62d41793",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T secures 'ultra-mega' order for strategic offshore development project in the Middle East | Capital Market News - Business Standard",
+      "url": "https://www.business-standard.com/markets/capital-market-news/l-t-secures-ultra-mega-order-for-strategic-offshore-development-project-in-the-middle-east-126081700484_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-13T17:33:49.254Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
+      "sources_count": 3,
+      "enriched": true
+    },
     {
       "id": "naf1eace7e67f",
       "ticker": "LT",
@@ -64,7 +123,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 13,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -354,6 +413,44 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Jayaswal Neco accepts Ravi Gudi's resignation effective July 18, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n26cd67937802",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler AGM on Aug 4, 2026; FY26 Revenue ₹3,524 Cr, Order Intake Up 20%",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXp3VVNrOTkyVXFhanRoVGZBRjhwcXdTb0k2RGZQZ1pqdUlZZGROVzZFR2hxaVJHUks4azl3d05rbjF2Zi1RQ0JBTFlQU1l1dmFxWFgzcm81V1ItME9FaWp3RTZZaU1FSjMtYnJ4OEdPc2dJc3lyUzRPblM3cEFLY3JUQUFhN3d3Zm96SFAwdDJyR09TWTkwTUdpYTM5WWJsVlBnX3FfeDJXaEY2aHJaTS1PRzcwMlhMYTdOaW9QSQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-07T14:17:15.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Order intake up 20% in FY26 with revenue of ₹3,524 crore.",
+      "enriched": true
+    },
+    {
+      "id": "nfa4ad9f88736",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2 2026 Earnings: Steady Revenue Growth Amid Margin Pressures - Estimate Accuracy",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXBQeXN2aGc4NWxodGxuMFNQRFRPdXdpajBVSXQ4dGdYMkJtal9rZThjUE8zc1ltSkF6UzZoZ3I2cWVKYV85LXB3LUlRX0pibkRYMWpQakFqa0JuUlhxM1N4OHVFTHh2TDJxQWlYMzVYTlhOSUhwcTc3S3VvZXFlRVBKV0pxbEp5RUx3ZUFMTXNudVFLWk53QXFzUlktUVNyTW5OWUpjRGZFcGVKcVpIWkNRd3E5bG8?oc=5",
+      "source": "vinanet.vn",
+      "date": "2026-07-07T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Q2 FY26 showed steady revenue growth but faced margin pressures.",
       "enriched": true
     },
     {
