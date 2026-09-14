@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-13T17:34:11.030Z",
+  "generated_at": "2026-09-14T08:04:48.660Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 27,
+    "watchlist": 30,
     "universe": 0,
-    "total": 27
+    "total": 30
   },
   "items": [
     {
-      "id": "n02fdea25cba4",
+      "id": "nd7f42020fec2",
       "ticker": "GMMPFAUDLE",
       "company": "GMM Pfaudler",
       "sector": "",
       "scope": [
         "watchlist"
       ],
-      "title": "GMM Pfaudler shareholders approve FY26 dividend and Gelhaus as CEO",
-      "url": "https://scanx.trade/stock-market-news/companies/gmm-pfaudler-shareholders-approve-fy26-dividend-at-63rd-agm/47405939",
-      "source": "scanx.trade",
-      "date": "2026-09-13T17:33:49.868Z",
+      "title": "GMM Pfaudler Q1 FY27 results on Aug 5: Key dates | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/gmm-pfaudler-q1fy27-results-aug-2026-cmsg1ypjn6fcn0zqmxlhu5cec",
+      "source": "multibagg.ai",
+      "date": "2026-09-14T08:04:32.514Z",
       "topic": "Money",
-      "keyword": "Approval",
-      "importance": "low",
+      "keyword": "Earnings",
+      "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Shareholders approved dividend and appointed Gelhaus as CEO.",
+      "takeaway": "GMM Pfaudler to announce Q1 FY27 results on August 5.",
       "enriched": true
     },
     {
@@ -45,6 +45,25 @@
       "mood": "neutral",
       "takeaway": "Q1 FY27 earnings call transcript available.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n02fdea25cba4",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler shareholders approve FY26 dividend and Gelhaus as CEO",
+      "url": "https://scanx.trade/stock-market-news/companies/gmm-pfaudler-shareholders-approve-fy26-dividend-at-63rd-agm/47405939",
+      "source": "scanx.trade",
+      "date": "2026-09-13T17:33:49.868Z",
+      "topic": "Money",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Shareholders approved dividend and appointed Gelhaus as CEO.",
       "enriched": true
     },
     {
@@ -84,6 +103,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T secured a large offshore order from ONGC for Ratna-I and NLM-14 projects.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nb651bcfe1dc8",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T bags large order from ONGC for project on west coast",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamdULXZkbl94M29zMTR4SDFES3JTNlRIaW9RTXFwMm9XVEpFZU1Fb2NsdTZENHRDQmo2d2lJcEZlb0YxWGhpeEMzeklRSlUxMUZTci05SmJrb1RTVnNvNERnbERZclFCZVlIdkQyS0Z5aXoxeno2UEpFcG1tNFRLT29DUHRDdw?oc=5",
+      "source": "biginfo.in",
+      "date": "2026-09-09T19:29:49.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins large order from ONGC for west coast project.",
       "sources_count": 2,
       "enriched": true
     },
@@ -123,7 +162,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 6,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -355,6 +394,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Engineers India scheduled earnings call for August 14 to discuss Q1 results.",
+      "enriched": true
+    },
+    {
+      "id": "n20b10b303a00",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q1FY27 Results on Aug 5, Earnings Call Scheduled for Aug 6",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2Q1cHN3WFBuRndSaFNQaVk4XzlZVktTbjBsaXd5dmZYNGU0TXFDZEo4dmh4NjE2V3ltbElkVFVYT2lMd0RVcmFrdFB3SmlXVDc2bVNFa3c5dnQzb1pzOGw1bkdFQmZ0ZlNWV19yZDh0ZjdzTWFEX0tDTk9fdVQtd2JUeGpZN09ZeTFOZ3N0TmNpTlZQTFIxTXMtMnVOdjNDc1A0NUxfY2NpLW9wSWVWVEI3U24yWms?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-28T13:39:19.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler Q1 FY27 results on Aug 5, earnings call on Aug 6.",
       "enriched": true
     },
     {
