@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T08:04:48.660Z",
+  "generated_at": "2026-09-14T19:32:51.845Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -83,7 +83,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -103,7 +103,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T secured a large offshore order from ONGC for Ratna-I and NLM-14 projects.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
