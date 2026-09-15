@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-09-15T07:58:38.801Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-09-15T18:24:39.739Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 29,
+    "watchlist": 31,
     "universe": 0,
-    "total": 29
+    "total": 31
   },
   "items": [
+    {
+      "id": "n5f124abb49d1",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Appoints Ankit Nayyar as New Group CFO, Accepts Poempner's Resignation",
+      "url": "https://www.investywise.com/gmm-pfaudler-management-changes-announced/",
+      "source": "investywise.com",
+      "date": "2026-09-15T18:24:26.363Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler appoints Ankit Nayyar as Group CFO following Poempner's resignation.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n72cae6f5cbde",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan India Credit Rating Remains on Watch Amid Bliss GVS Acquisition | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-India-Credit-Rating-Remains-on-Watch-Amid-Bliss-GVS-Acquisition/6a959398f2017017ae5854e0",
+      "source": "whalesbook.com",
+      "date": "2026-09-15T18:24:22.461Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Anupam Rasayan's credit rating on watch due to Bliss GVS acquisition.",
+      "enriched": true
+    },
     {
       "id": "nd7f42020fec2",
       "ticker": "GMMPFAUDLE",
@@ -103,7 +142,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins large order from ONGC for west coast project.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -142,7 +181,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -276,7 +315,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore development project order worth over Rs 15,000 crore from Middle East client.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
