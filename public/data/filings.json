@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-09-12T17:26:40.702Z",
+  "generated_at": "2026-09-15T18:28:46.991Z",
   "source": "nse",
   "counts": {
-    "NSE": 111,
+    "NSE": 112,
     "BSE": 0,
-    "total": 111
+    "total": 112
   },
   "items": [
+    {
+      "id": "ff4324a526182",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-09-15T17:31:17.000Z",
+      "category": "Allotment of Securities",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding allotment of 28,903 shares pursuant to ESOP/ESPS at its meeting held on September 15, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_15092026173026_ESOPAllotment15092026.pdf"
+    },
     {
       "id": "f546606398fab",
       "ticker": "JAYNECOIND",
