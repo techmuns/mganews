@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T19:32:51.845Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-09-15T07:58:38.801Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 30,
+    "watchlist": 29,
     "universe": 0,
-    "total": 30
+    "total": 29
   },
   "items": [
     {
@@ -84,26 +84,6 @@
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "naf1eace7e67f",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Wins Large Offshore Order from ONGC for Ratna-I and NLM-14 Projects",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcnY4Y25rcVVqWmxjMjVoZGZfOF95Nm85ZHYtWUdfUFYzdEdydjN1ZkREeVZramlDbFVHaVZEclRacXFlVlFKekdQc1dRa2lzdEF1N1hpblpDN0ZISkJiaW5CSUpmbHVkYktUcHA2UDlyOFdxUDk0ei11Z0N3NTgzdzdFeEFNcUdCSlptdnJJMTB4ZEVnSGtVTklTWVhyTlI0SGV4REN5TQ?oc=5",
-      "source": "themachinemaker.com",
-      "date": "2026-09-11T06:11:08.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T secured a large offshore order from ONGC for Ratna-I and NLM-14 projects.",
-      "sources_count": 4,
       "enriched": true
     },
     {
