@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T18:24:39.739Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-09-16T07:51:49.399Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 31,
+    "watchlist": 30,
     "universe": 0,
-    "total": 31
+    "total": 30
   },
   "items": [
     {
@@ -126,26 +126,6 @@
       "enriched": true
     },
     {
-      "id": "nb651bcfe1dc8",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T bags large order from ONGC for project on west coast",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNamdULXZkbl94M29zMTR4SDFES3JTNlRIaW9RTXFwMm9XVEpFZU1Fb2NsdTZENHRDQmo2d2lJcEZlb0YxWGhpeEMzeklRSlUxMUZTci05SmJrb1RTVnNvNERnbERZclFCZVlIdkQyS0Z5aXoxeno2UEpFcG1tNFRLT29DUHRDdw?oc=5",
-      "source": "biginfo.in",
-      "date": "2026-09-09T19:29:49.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins large order from ONGC for west coast project.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
       "id": "nadaa36808ff4",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -181,7 +161,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
