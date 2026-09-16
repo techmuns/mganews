@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-09-16T07:51:49.399Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-09-16T18:20:25.694Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 30,
+    "watchlist": 31,
     "universe": 0,
-    "total": 30
+    "total": 31
   },
   "items": [
+    {
+      "id": "n841ea2ca12ef",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan India Credit Rating: Bliss GVS acquisition ke baad rating watch par, kya hai investors ke liye update? | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/chemicals/Anupam-Rasayan-India-Credit-Rating-Remains-on-Watch-Amid-Bliss-GVS-Acquisition/6a959398f2017017ae5854e0",
+      "source": "whalesbook.com",
+      "date": "2026-09-16T18:20:03.970Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Anupam Rasayan's credit rating placed on watch following Bliss GVS acquisition.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n5f124abb49d1",
       "ticker": "GMMPFAUDLE",
@@ -26,25 +46,6 @@
       "mood": "neutral",
       "takeaway": "GMM Pfaudler appoints Ankit Nayyar as Group CFO following Poempner's resignation.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n72cae6f5cbde",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan India Credit Rating Remains on Watch Amid Bliss GVS Acquisition | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-India-Credit-Rating-Remains-on-Watch-Amid-Bliss-GVS-Acquisition/6a959398f2017017ae5854e0",
-      "source": "whalesbook.com",
-      "date": "2026-09-15T18:24:22.461Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Anupam Rasayan's credit rating on watch due to Bliss GVS acquisition.",
       "enriched": true
     },
     {
@@ -122,6 +123,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n170017b9f54c",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Energy Hydrocarbon Offshore has secured a large offshore order from the ONGC",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0dxVGpSaGF2OC15Nk5vemlwNjdTTG5nYWRxSEp3UTNwdXpXbDdhVUQwWmVocXNJcC1PN2gyVS03S0IyVGs1QVFVWC1tYWJ4NWwtWm5kTlVLVjhfVWk5bUw3bEtUYVJvRHh4cW9Va09PcjlFTVE0ZVdpWHFldWpjTHVvOWZEb0EzWThyLWh4VlNCSlZteDJCMUh2dXRrZTZLUVI2QjdzN3p0Y054bEllMUdYWGU4aXhHMjhEUkx3?oc=5",
+      "source": "Pipeline and Gas Journal",
+      "date": "2026-09-10T01:10:16.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T Energy Hydrocarbon Offshore wins large offshore order from ONGC.",
       "sources_count": 2,
       "enriched": true
     },
@@ -181,6 +202,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T Hydrocarbon secures large ONGC order for well-head platforms and riser platform.",
+      "enriched": true
+    },
+    {
+      "id": "n56da506bec69",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T bags major ONGC order for west coast projects",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2ZUNkprWUdjN2xIa0JjdHU5N3hrZmhiTFNTRW83RHk1bEREeUhvVmQ3RU5DZE5sZEZOS3FHS00wdVh3Y2xEY2wzNEZJRzF5MHFKSnJ5TGlSb0dwU2t6RFlaZ0FKejdGWW9oQWdJQ1RtRXprQzdCU2VKbHVtRWV1VEdIelp4OUXSAYwBQVVfeXFMTzBJQTRFeEVOUVRoOWJYNy1ENUJudVJBXzhlRFlsX2l5Wm8tcUt5elBRZmQ0N1QycDB5UFB5RWFXeVRCZ1Q2anhsdXNrckpuNFo0MUdudnhNT3o5X0ZrOWFrNEsxVldnY2ljczB6TUhidVVUdUg5Q1JqenR6NVRtZzRwdURGTVZfYm9NazM?oc=5",
+      "source": "The Siasat Daily",
+      "date": "2026-09-09T09:25:17.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secures major ONGC order for west coast projects.",
       "enriched": true
     },
     {
@@ -295,7 +335,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore development project order worth over Rs 15,000 crore from Middle East client.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -318,26 +358,6 @@
       "enriched": true
     },
     {
-      "id": "n25a44d696a23",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Indian engineering giant L&T’s order wins signal Middle East revival",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPN1hIY3lDSjB6LXhucVN1X3pLQmhCMUFUQ1dBMk1FOE9vbW9jYUF1ZUZKQUs4aWpEeDl1WkdMbGdGSUQzT0lQVG5lX0pVa2ZmZi1mS3V5M3NvWWQtN2hRTlFlcHVBMjJ3VnlqUzgwaHQtbV9udHJWSFhKX1U1VEprdnBDUUFlYnB4TzhtY0xoZjBZMTR3TWJma0hza191UHRxSnF3dVlsWFRXLTE2cUpOMld5YXBfZW9BRDF0enJCZG9uSVAwYnBCOUp6eHdwSDNpSXdUNG56cktxXzJUU0xpc21Dbi1xdUpGTkxWOHZHcVVvb2lYVU5ISFdlaHR2ZGd2NHozLTFFTlFXVTBQODNQbW95V1VRWGdkZ21Xb9IBogJBVV95cUxNNFFtX3R0VFFocXA3RHlVNzhJaHdhZ2owNHRTem1RTFJZV0ZIRzg5ZU1aUWJQa1l3TEVzQmIzbzZfaU1lRUR0UlVJUlUyTUZXTWxPdVg2TUJGMHh0OTY4X3BLbXRRRGx0YlNGTWUtQzFtSkQxdUVSWTB5WXlZWWRDbnIxQWFUaWlaa3pzMEVSTnYtNVdscDJDUldWNms4RWJ3a1hubC1takxnb1NHVEtxa3hjVUt5Tk9HY0FNbWtDdnlscXd2ZDRCdkFYaldjY0NoV0NsODJpUHlITkJ1akUzdTRzRF9xYTBZNDV1SlBGVmFJZjB5VTlJX0NXOV9vTVkyWGxxSUtUYjZPOW9UR19IazU3bkhWazZ2V0laYVB0SVF0QQ?oc=5",
-      "source": "economictimes.com",
-      "date": "2026-08-26T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "L&T's order wins in Middle East signal regional business revival.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n2d878d2e7f75",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -354,7 +374,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins major order worth ₹5,000-10,000 crore for three battery storage projects in Middle East.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
