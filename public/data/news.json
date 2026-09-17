@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-16T18:20:25.694Z",
+  "generated_at": "2026-09-17T08:10:17.698Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 31,
+    "watchlist": 30,
     "universe": 0,
-    "total": 31
+    "total": 30
   },
   "items": [
+    {
+      "id": "n191d929eb26a",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro Wins Major BESS Order in Middle East",
+      "url": "https://choiceindia.com/news/larsen-toubro-wins-major-bess-order-middle-east",
+      "source": "choiceindia.com",
+      "date": "2026-09-17T08:01:44.651Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T wins major battery energy storage system order in Middle East.",
+      "enriched": true
+    },
     {
       "id": "n841ea2ca12ef",
       "ticker": "BLISSGVS",
@@ -123,7 +142,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -182,7 +201,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 2,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -221,25 +240,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T secures major ONGC order for west coast projects.",
-      "enriched": true
-    },
-    {
-      "id": "n44ae9e16b344",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Secures Major Offshore Order from ONGC to Boost India's Energy Infrastructure",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObm5qcm1DN2c2ZjNfVTFIbm5QWERvb3RWS09LbjBoR1JLYVE4VXpHV1RORzVvQXZnSHdQOWlheC1QelZ5X0Y1UHRtYXBrOXN6R0VNcHJrQ2xZUnp5azZiMklLLUh4Sk1POEJ2aWkxOGE4NXJxM3QtM19Sc1prTTE0clRCRkFUVEd5WDdHdXRoWXBPbGxjeWRWaFlPNi01eWJwTDhWTUgxVEN6SFRSZmpqVDhDQXZFbW5mWWkzQkJ6SkZpZ2xER0JpSFJvQWtLUdIB0wFBVV95cUxPZDNEV2FaQWk5OTNPVEx0V3VQcndwaHk4ZF9Mcm92YlNScWhHT3NvVnBjMnJwenFlQUxEQVc5U3pZMUQzRENtRE9xUmZ1elptSDVDQWpHa0lCMzFkRlhWZWtZTEpBWkNydjdzdEtZLS05UmYzOTFYTWpMRXQ1QXdDcXB0ZHVQNldvYjZaNHNuZHhLbURGRC1Bc0RWQ0xpUmw2eC13VFhRZ3F2YmFfbnZQQlVtb0dYdS1BNFpWRVFEWVIwVU4wUWZMV1lzZXNnM0JsWG5j?oc=5",
-      "source": "Devdiscourse",
-      "date": "2026-09-09T08:54:31.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T secures major offshore order from ONGC to boost India's energy infrastructure.",
       "enriched": true
     },
     {
@@ -355,26 +355,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India Q1 net profit rises 55% driven by consultancy margin expansion.",
-      "enriched": true
-    },
-    {
-      "id": "n2d878d2e7f75",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T wins ₹5,000-10,000 crore 'major' order to build 3 battery storage projects in Middle East",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSjZ6VnZwOVNxTURFTERHWjBSNERPS2thcVNNOGFXNHZNUkY1UlVLVW01NlNzYlRkR0ZUcFZHaGl1NlZSU1RzRXpyeWp3NHFRSnhTNTFwM01kTDI1dEZJMFZXR0lKcTZVSWRrZUN6SmNtYVk3TExMUTdSRkhzcHZWWGZrTkxrMFFvY1pHT0lYakxyWW81OEJMUkZBNWNoeFEwVS1heUVjRU1KRnJxYjdUYmdGbG9leHk1MFVXZkVtMEZWMmp1N1RkS0pSdkx5S0NTSkg3VlllWlhOYXZvbWswc21sTnFrdnFjdXM2a2djdUlmMVhPWEdkT9IB_gFBVV95cUxORFBqYTItcEw4eThnYURCM0NEM3NPc0J2TGhIVktNNUNMYVVNbmluQ3JGNUQtNDBxdGNZUWI5WjFiaWlWVk01Y01PMlBJM2V1bGVqUEFEcU83Ym5GWDBuaVZNWXNCekZROWFVMVRZRFZ6eDZyV3hncHFoYjRDN29RTmNpQTVQc3doYzJLYl9Ybks2MDMxdEdCSk05alBoWFhyOFJEb3hza1R2T1RxZkRkREZEN2dJODYta2lhUm9BZlFGbVU4QmlmU3hxRE1CT1dzdHVHVHN4eXNMNlV5UlJtcDRpX3gtY1Bna0VsSWp4cHFBTkk2TVhfWFNtb3VYdw?oc=5",
-      "source": "economictimes.com",
-      "date": "2026-08-25T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins major order worth ₹5,000-10,000 crore for three battery storage projects in Middle East.",
-      "sources_count": 3,
       "enriched": true
     },
     {
