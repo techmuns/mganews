@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T08:10:17.698Z",
+  "generated_at": "2026-09-17T18:28:28.362Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 30,
+    "watchlist": 31,
     "universe": 0,
-    "total": 30
+    "total": 31
   },
   "items": [
     {
@@ -25,6 +25,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T wins major battery energy storage system order in Middle East.",
+      "enriched": true
+    },
+    {
+      "id": "n8e2064b94ee3",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Univastu wins Rs 24.36 lakh work order from L&T for MMRDA Line 4 E&M works",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmRwN0YzWnVTdGRscVhxamRVTkc0bkZUVFpRNThVLS1ZbW1MNzZfaTNPdXZiM0lmMmdlT3A5SndlVVQ5UVNwQ0dqbXAxMXloazJVTUN2cEY3R29vUTdYNjdBT0gySEZUWE1LeGNrRWFHcEQ5cGhlbnJzZHVNTndrSzdITUpkeEhub3FMRGR2cDRzeUFULUVoMU9TNmxoLWQzTHdsQ0RtcFVTRzFPeXhlVS1CSXFJam1RdnNsYUZtVQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-16T18:44:10.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Univastu secured a small Rs 24.36 lakh contract from L&T for MMRDA Line 4 electrical and mechanical works.",
       "enriched": true
     },
     {
@@ -201,7 +220,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 6,
+      "sources_count": 5,
       "enriched": true
     },
     {
