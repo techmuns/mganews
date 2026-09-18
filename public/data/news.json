@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-09-18T07:42:39.296Z",
+  "generated_at": "2026-09-18T17:48:32.537Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 30,
+    "watchlist": 31,
     "universe": 0,
-    "total": 30
+    "total": 31
   },
   "items": [
     {
-      "id": "n191d929eb26a",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
+      "id": "n7d133896b2b6",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Larsen & Toubro Wins Major BESS Order in Middle East",
-      "url": "https://choiceindia.com/news/larsen-toubro-wins-major-bess-order-middle-east",
-      "source": "choiceindia.com",
-      "date": "2026-09-17T08:01:44.651Z",
+      "title": "Engineers India Reports Order Book Of 170 Billion Rupees As Middle East Outlook Improves",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbkI3c3FiMnBiYTBpRXNGTm5QR3dzYkNleE5RcUpEb0NWck9VaHJFakM5VmEyUURBVjcxYnhxQVpZOUx6TzFtWWFRZjBaZV9DM2FoV0V5S3YzYW04eDkzYnJYeFlDVGJHZEprN2dnVjVoX0hkVlBuNllGcTdhWnZ6TEp5UUl2Ml80djZKd2dyUHNwdlNMWDAtanJLYzZRN3BWTHowSC1heUFFZnNYYnVLUDFUSXE?oc=5",
+      "source": "Sahi",
+      "date": "2026-09-18T13:09:54.000Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "L&T wins major battery energy storage system order in Middle East.",
+      "takeaway": "Engineers India reports order book of 170 billion rupees with improving Middle East outlook.",
       "enriched": true
     },
     {
@@ -200,7 +200,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 2,
+      "sources_count": 8,
       "enriched": true
     },
     {
@@ -354,6 +354,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India Q1 net profit rises 55% driven by consultancy margin expansion.",
+      "enriched": true
+    },
+    {
+      "id": "nad92220e74ca",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineering giant L&T’s over Rs 1 lakh crore order wins signal Middle East revival",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR0JsVERfWlRXQW0tZE9jb3FJeThNX1Z1Q0VjbUxsWDJJdlA4WFdvUnp2dHVrd3ZoU1psVmY0S3FIbmtXRVA4UmRyUm5uM1V3TGJ1SmNJZUJyRU1zalFDc0t6TElNYktURnI2MnpWZEc1dHZ6ZGplOFQwOGxYZXJhNFgwRk5LeEFid3hfMmpMUEQ2Z3Q2T3kyVlhKMXJBclR3dTlheWdBSV91ZGEzUVN2QXRwZU5obEp3UEtaSTZabURmQUNZNC1OQTVsWnUteXNtWDBmYTBJeXJwTjZQRTJUbjJ1VdIB6AFBVV95cUxNQktlcDFhbVpDRHNsVXBBdmJlVWlmSHVSOFdLT2thc3VGaW9XY0hYbTIwTzhWRWg3OFNac2R3Yl9RNmQ1aFEwcjhSV3drRVZVdWVzRHpza0U3WGNheThzemR1RFJNYWh3dlF4N296LW5yVFFUZEdZYzZ0TUFSS3hDX3Z1cnRCbUo5U1hLQmR0dUZGMDRFemlqSW5OSHlhVHNvVURsT2FXd3c2SWNCLXlMM3lRYlVyMUg3NFlncjdEdjZhYnFFaF9LNFlTNlk0WVBmMW42ZS1Ra1NmVC0zTDNpLUJJTnNfZXlD?oc=5",
+      "source": "Moneycontrol.com",
+      "date": "2026-08-26T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins orders worth over Rs 1 lakh crore, signaling Middle East market revival.",
+      "sources_count": 3,
       "enriched": true
     },
     {
