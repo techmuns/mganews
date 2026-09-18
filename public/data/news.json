@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T18:28:28.362Z",
+  "generated_at": "2026-09-18T07:42:39.296Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 31,
+    "watchlist": 30,
     "universe": 0,
-    "total": 31
+    "total": 30
   },
   "items": [
     {
@@ -165,26 +165,6 @@
       "enriched": true
     },
     {
-      "id": "n170017b9f54c",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Energy Hydrocarbon Offshore has secured a large offshore order from the ONGC",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0dxVGpSaGF2OC15Nk5vemlwNjdTTG5nYWRxSEp3UTNwdXpXbDdhVUQwWmVocXNJcC1PN2gyVS03S0IyVGs1QVFVWC1tYWJ4NWwtWm5kTlVLVjhfVWk5bUw3bEtUYVJvRHh4cW9Va09PcjlFTVE0ZVdpWHFldWpjTHVvOWZEb0EzWThyLWh4VlNCSlZteDJCMUh2dXRrZTZLUVI2QjdzN3p0Y054bEllMUdYWGU4aXhHMjhEUkx3?oc=5",
-      "source": "Pipeline and Gas Journal",
-      "date": "2026-09-10T01:10:16.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T Energy Hydrocarbon Offshore wins large offshore order from ONGC.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "nadaa36808ff4",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -220,7 +200,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 5,
+      "sources_count": 2,
       "enriched": true
     },
     {
