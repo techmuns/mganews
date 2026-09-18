@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-09-18T07:37:07.914Z",
+  "generated_at": "2026-09-18T17:52:45.784Z",
   "source": "nse",
   "counts": {
-    "NSE": 113,
+    "NSE": 115,
     "BSE": 0,
-    "total": 113
+    "total": 115
   },
   "items": [
+    {
+      "id": "f85128d17957f",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-18T18:40:51.000Z",
+      "category": "Shareholders meeting",
+      "title": "Engineers India Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on September 18, 2026. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_18092026184042_xchangevoting.pdf"
+    },
+    {
+      "id": "f727cdaf01175",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-18T17:05:00.000Z",
+      "category": "Shareholders meeting",
+      "title": "Engineers India Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on September 18, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_18092026170449_coveringproce.pdf"
+    },
     {
       "id": "f9e0890c918ec",
       "ticker": "LT",
