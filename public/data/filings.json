@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-09-15T18:28:46.991Z",
+  "generated_at": "2026-09-18T07:37:07.914Z",
   "source": "nse",
   "counts": {
-    "NSE": 112,
+    "NSE": 113,
     "BSE": 0,
-    "total": 112
+    "total": 113
   },
   "items": [
+    {
+      "id": "f9e0890c918ec",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-09-18T10:54:39.000Z",
+      "category": "Press Release",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding a press release dated September 18, 2026, titled \"L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026. Marks a major milestone with its first silicon carbide chips\".",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_18092026105408_PressRelease18092026.pdf"
+    },
     {
       "id": "ff4324a526182",
       "ticker": "LT",
