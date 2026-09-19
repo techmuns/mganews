@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-09-18T17:48:32.537Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-09-19T07:38:16.112Z",
+  "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 31,
+    "watchlist": 35,
     "universe": 0,
-    "total": 31
+    "total": 35
   },
   "items": [
+    {
+      "id": "n4f8b7edfac17",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India Ltd: Record breaking profit aur dividend ka double dhamaka! | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Engineers-India-Reports-Record-FY26-Profit-of-Rs-638-Crore-Declares-Dividend/6aad241df2017017ae6d71f7",
+      "source": "whalesbook.com",
+      "date": "2026-09-19T07:29:40.277Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India reported record-breaking profit and announced dividend.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n2a08de40e61e",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EIL expects order boost as Gulf seeks to bypass Strait of Hormuz | Industry News - Business Standard",
+      "url": "https://www.business-standard.com/industry/news/eil-expects-order-boost-as-gulf-seeks-to-bypass-strait-of-hormuz-126091900002_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-19T07:29:40.277Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India expects order boost from Gulf projects to bypass Strait of Hormuz.",
+      "enriched": true
+    },
     {
       "id": "n7d133896b2b6",
       "ticker": "ENGINERSIN",
@@ -161,7 +200,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -200,7 +239,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 8,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -239,6 +278,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T secures major ONGC order for west coast projects.",
+      "enriched": true
+    },
+    {
+      "id": "n44ae9e16b344",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Secures Major Offshore Order from ONGC to Boost India's Energy Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObm5qcm1DN2c2ZjNfVTFIbm5QWERvb3RWS09LbjBoR1JLYVE4VXpHV1RORzVvQXZnSHdQOWlheC1QelZ5X0Y1UHRtYXBrOXN6R0VNcHJrQ2xZUnp5azZiMklLLUh4Sk1POEJ2aWkxOGE4NXJxM3QtM19Sc1prTTE0clRCRkFUVEd5WDdHdXRoWXBPbGxjeWRWaFlPNi01eWJwTDhWTUgxVEN6SFRSZmpqVDhDQXZFbW5mWWkzQkJ6SkZpZ2xER0JpSFJvQWtLUdIB0wFBVV95cUxPZDNEV2FaQWk5OTNPVEx0V3VQcndwaHk4ZF9Mcm92YlNScWhHT3NvVnBjMnJwenFlQUxEQVc5U3pZMUQzRENtRE9xUmZ1elptSDVDQWpHa0lCMzFkRlhWZWtZTEpBWkNydjdzdEtZLS05UmYzOTFYTWpMRXQ1QXdDcXB0ZHVQNldvYjZaNHNuZHhLbURGRC1Bc0RWQ0xpUmw2eC13VFhRZ3F2YmFfbnZQQlVtb0dYdS1BNFpWRVFEWVIwVU4wUWZMV1lzZXNnM0JsWG5j?oc=5",
+      "source": "devdiscourse.com",
+      "date": "2026-09-09T08:54:31.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secured major offshore order from ONGC for India's energy infrastructure.",
       "enriched": true
     },
     {
@@ -354,6 +412,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India Q1 net profit rises 55% driven by consultancy margin expansion.",
+      "enriched": true
+    },
+    {
+      "id": "nda5331e2cca4",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Years after possession, MahaRERA tells L&T to fix leaks, fire safety at Parel’s Crescent Bay | Mumbai news",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbVBzNVdxUWxIaDFPZjBkZmZYNW5hWHJ2VGp3MXVwSEZpRGpJZDhTOUg5WHU3ZV9xdU1qMHM2TjQ1V1dzLU5zVEJUTmNGODVGTHFFTXpYQXNEcy1Ub1pTVlp2ZjNCRldHTHpPNGtfZFhYV3FabHVYdTg1YmVtQWQwUl9vWmtORG1NWmNyVHhUeXNfd3JwWnB2ajNpeW5IRnBiOTE1N19zdTVsUFpnSzRyRnVNbDZDRHpEYTBqbUtINVhteWRrRThQRkh0T3JwTDU0ajBrRjVYSU8zYXhYbnZ1YnV3SzgwckVRTlByOGpCeE1nM3fSAfgBQVVfeXFMT2dXZ3VzVDU3QlJTWXRqelEzY2xqd1FMMlJOb3JGOGNJM3BIX0lTdmRIWUNVY0ZtTk5idkZOR3Y1bDZzVGdvWEduZFBlMzBYQzdfQkJuM0Q1cVZNVUJsTFFUOHM5SW5ZVC03WlNwWkFRdEFmUnRKM2t5ZEROdVZWckkyYU5GRU1pemI1T3BKWmxHZDBuYlZfN0RpaWhPczctdTlNTk52Z1hXZTVBc2lNODJZOUcxZHY4WW5OZXpMdjVCX0xaMTh6NFVxMkVMRmg3eEF4dFhhMmJ0NjhlZTZ1VUxQSDBLMmNjZk4tMjFCbWtFUS1vc2pHdDE?oc=5",
+      "source": "Hindustan Times",
+      "date": "2026-09-07T07:00:00.000Z",
+      "topic": "Trouble",
+      "keyword": "Fire",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "MahaRERA orders L&T to fix leaks and fire safety issues at Parel's Crescent Bay project.",
       "enriched": true
     },
     {
