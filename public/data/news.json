@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-09-19T07:38:16.112Z",
+  "generated_at": "2026-09-19T17:22:27.895Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 35,
+    "watchlist": 38,
     "universe": 0,
-    "total": 35
+    "total": 38
   },
   "items": [
+    {
+      "id": "n06cd93d208a1",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro Looks To Capture $20-30 Bn Biz In Modularisation Space – Outlook Business",
+      "url": "https://www.outlookbusiness.com/corporate/larsen-toubro-looks-to-capture-20-30-bn-biz-in-modularisation-space",
+      "source": "outlookbusiness.com",
+      "date": "2026-09-19T17:22:10.274Z",
+      "topic": "Growth",
+      "keyword": "Joint Venture",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T targets $20-30 billion revenue opportunity in modularisation business segment.",
+      "enriched": true
+    },
+    {
+      "id": "n86e253583107",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India Limited Posts Record Turnover & Profit in FY 2025-26",
+      "url": "https://www.psuconnect.in/psu-news/engineers-india-limited-posts-record-turnover-profit-in-fy-2025-26",
+      "source": "psuconnect.in",
+      "date": "2026-09-19T17:22:07.082Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India reports record-high revenue and profit for fiscal year 2025-26.",
+      "enriched": true
+    },
+    {
+      "id": "n696a26087576",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EIL Eyes USD 1 Billion Pipeline and Storage Orders from Saudi Arabia and UAE Over Next 2-3 Years - https://indianmasterminds.com",
+      "url": "https://indianmasterminds.com/news/eil-1-billion-pipeline-storage-orders-saudi-arabia-uae-234884/",
+      "source": "indianmasterminds.com",
+      "date": "2026-09-19T17:22:07.082Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Engineers India targets $1 billion in pipeline and storage orders from Saudi Arabia and UAE over 2-3 years.",
+      "enriched": true
+    },
     {
       "id": "n4f8b7edfac17",
       "ticker": "ENGINERSIN",
@@ -200,7 +257,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -239,7 +296,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 5,
+      "sources_count": 6,
       "enriched": true
     },
     {
