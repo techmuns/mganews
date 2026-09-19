@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T17:52:45.784Z",
+  "generated_at": "2026-09-19T17:26:30.822Z",
   "source": "nse",
   "counts": {
-    "NSE": 115,
+    "NSE": 114,
     "BSE": 0,
-    "total": 115
+    "total": 114
   },
   "items": [
     {
@@ -1146,16 +1146,6 @@
       "category": "Newspaper Publication",
       "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication 41st Annual General Meeting of the Company",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_19062026151611_Pre_Advertisment_AGM_2026.pdf"
-    },
-    {
-      "id": "ff9fa8d1cc5db",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-11T17:24:18.000Z",
-      "category": "Allotment of Securities",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding allotment of 267250 securities pursuant to ESOP/ESPS at its meeting held on Jun 11, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_11062026172411_Outcome_of_ESOP_Allotment_Committee.pdf"
     }
   ]
 }
