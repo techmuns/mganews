@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-20T08:01:39.163Z",
+  "generated_at": "2026-09-20T17:36:07.421Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 39,
+    "watchlist": 40,
     "universe": 0,
-    "total": 39
+    "total": 40
   },
   "items": [
+    {
+      "id": "naa024d487fb8",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India Order Book Nears ₹17,000 Crore",
+      "url": "https://lapaasvoice.com/engineers-india-order-book",
+      "source": "lapaasvoice.com",
+      "date": "2026-09-20T17:35:45.597Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India's order book reaches nearly ₹17,000 crore.",
+      "enriched": true
+    },
     {
       "id": "n348317966ac4",
       "ticker": "ENGINERSIN",
@@ -47,6 +66,25 @@
       "enriched": true
     },
     {
+      "id": "n696a26087576",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EIL Eyes USD 1 Billion Pipeline and Storage Orders from Saudi Arabia and UAE Over Next 2-3 Years - https://indianmasterminds.com",
+      "url": "https://indianmasterminds.com/news/eil-1-billion-pipeline-storage-orders-saudi-arabia-uae-234884/",
+      "source": "indianmasterminds.com",
+      "date": "2026-09-19T17:22:07.082Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Engineers India targets $1 billion in pipeline and storage orders from Saudi Arabia and UAE over 2-3 years.",
+      "enriched": true
+    },
+    {
       "id": "n86e253583107",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -66,22 +104,22 @@
       "enriched": true
     },
     {
-      "id": "n696a26087576",
+      "id": "n2a08de40e61e",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "EIL Eyes USD 1 Billion Pipeline and Storage Orders from Saudi Arabia and UAE Over Next 2-3 Years - https://indianmasterminds.com",
-      "url": "https://indianmasterminds.com/news/eil-1-billion-pipeline-storage-orders-saudi-arabia-uae-234884/",
-      "source": "indianmasterminds.com",
-      "date": "2026-09-19T17:22:07.082Z",
+      "title": "EIL expects order boost as Gulf seeks to bypass Strait of Hormuz | Industry News - Business Standard",
+      "url": "https://www.business-standard.com/industry/news/eil-expects-order-boost-as-gulf-seeks-to-bypass-strait-of-hormuz-126091900002_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-19T07:29:40.277Z",
       "topic": "Orders",
       "keyword": "Order",
-      "importance": "high",
+      "importance": "medium",
       "mood": "positive",
-      "takeaway": "Engineers India targets $1 billion in pipeline and storage orders from Saudi Arabia and UAE over 2-3 years.",
+      "takeaway": "Engineers India expects order boost from Gulf projects to bypass Strait of Hormuz.",
       "enriched": true
     },
     {
@@ -102,25 +140,6 @@
       "mood": "positive",
       "takeaway": "Engineers India reported record-breaking profit and announced dividend.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n2a08de40e61e",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "EIL expects order boost as Gulf seeks to bypass Strait of Hormuz | Industry News - Business Standard",
-      "url": "https://www.business-standard.com/industry/news/eil-expects-order-boost-as-gulf-seeks-to-bypass-strait-of-hormuz-126091900002_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-19T07:29:40.277Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Engineers India expects order boost from Gulf projects to bypass Strait of Hormuz.",
       "enriched": true
     },
     {
