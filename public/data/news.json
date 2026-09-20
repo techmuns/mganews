@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-19T17:22:27.895Z",
+  "generated_at": "2026-09-20T08:01:39.163Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 38,
+    "watchlist": 39,
     "universe": 0,
-    "total": 38
+    "total": 39
   },
   "items": [
+    {
+      "id": "n348317966ac4",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India ka dhamaka: Profit mein **37%** ka uchhal, Order book pohanchi record level par! | Whalesbook",
+      "url": "https://www.whalesbook.com/news/Hinglish/industrial-goodsservices/Engineers-India-FY26-Profit-Soars-37percent-as-Order-Book-Hits-Record/6aae5ff8629e4186971b2748",
+      "source": "whalesbook.com",
+      "date": "2026-09-20T07:53:04.033Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India profit jumped 37% and order book reached record levels.",
+      "enriched": true
+    },
     {
       "id": "n06cd93d208a1",
       "ticker": "LT",
@@ -257,7 +276,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -296,7 +315,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 6,
+      "sources_count": 7,
       "enriched": true
     },
     {
