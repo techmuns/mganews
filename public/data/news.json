@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-09-21T08:09:16.811Z",
-  "source": "google-news+claude",
+  "generated_at": "2026-09-21T19:46:53.357Z",
+  "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 41,
+    "watchlist": 43,
     "universe": 0,
-    "total": 41
+    "total": 43
   },
   "items": [
+    {
+      "id": "nac38e9ab1989",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Q1FY27 Results: Revenue rebounds to ₹117.5 crore",
+      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-q1fy27-results-revenue-rebounds-117-5-crore/48783080",
+      "source": "scanx.trade",
+      "date": "2026-09-21T19:40:02.812Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration's Q1 revenue rose to ₹117.5 crore, showing a rebound in quarterly performance.",
+      "enriched": true
+    },
+    {
+      "id": "n139f26cb0287",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "DRDO To Seek Industry Partner For 30kW Counter-Drone Laser Weapon Within Six Months | Outlook India",
+      "url": "https://www.outlookindia.com/national/drdo-to-seek-industry-partner-for-30kw-counter-drone-laser-weapon-within-six-months",
+      "source": "outlookindia.com",
+      "date": "2026-09-21T19:40:00.535Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "DRDO plans to select an industry partner for a 30kW counter-drone laser weapon within six months.",
+      "enriched": true
+    },
     {
       "id": "naa024d487fb8",
       "ticker": "ENGINERSIN",
@@ -334,7 +372,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 7,
+      "sources_count": 8,
       "enriched": true
     },
     {
