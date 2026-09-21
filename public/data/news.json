@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T17:36:07.421Z",
-  "source": "google-news+munshot+claude",
+  "generated_at": "2026-09-21T08:09:16.811Z",
+  "source": "google-news+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 40,
+    "watchlist": 41,
     "universe": 0,
-    "total": 40
+    "total": 41
   },
   "items": [
     {
@@ -545,7 +545,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins orders worth over Rs 1 lakh crore, signaling Middle East market revival.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -565,6 +565,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India targets 10% revenue growth in FY27 with focus on stronger order inflows.",
+      "enriched": true
+    },
+    {
+      "id": "nbe4e50d42d8e",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Q1 FY27 Earnings Presentation Key Updates",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG1hV2ZwSTgtaGh1bm9sM09MZ1lDbnNRaDktVWNxQ0pFelRldWI3Z0JwZkIxNUk2NnhramYybWliOE5Uemx6dl9iQ2N1MF9CbWJIUUU0SUNxMXJkWk0yQmF5Mmk4eGtwWEtvWERhTWtsLVRfWjR3YmUybkttZnJ6eTdOcnloNGYwUFpSQ2dWWks1bGJDdXA4ZkgwcGFyMkxTN0hVdEcyLU1aTmtIaVh3bnQxQWwwRGdpVWV5Zzdsc2N1RkRiTmNNaHlnOUZ5UQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration released Q1 FY27 earnings presentation.",
       "enriched": true
     },
     {
