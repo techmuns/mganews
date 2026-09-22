@@ -1,30 +1,69 @@
 {
-  "generated_at": "2026-09-22T07:54:31.126Z",
+  "generated_at": "2026-09-22T18:13:56.642Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 44,
+    "watchlist": 46,
     "universe": 0,
-    "total": 44
+    "total": 46
   },
   "items": [
     {
-      "id": "n9bf62f9296bd",
+      "id": "n987104cccc7c",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Engineers India wins Rs 450 crore order from Dangote Group",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlBKSDQ1d2phY1B6X2k2Zzhtd2N1Sk91WXlUeFM0bmxEZm9mVmE4MHc5NVFGZGN5OWtnVDZfU1JnU2ZJa2tKR1FGYjRqZXJQLWtUUEFlNzdnYWJTVGFGUUU5UmxlRWQ5Wkw0ZFZVTlQxRHBRXzhvcVd4Z0IyVkRhU3o0eW4zaldYRk9JV01zNnJpaTRPSFAwdjN3dW9lSVk4ZzRTa0hHOElySDJvZ3Rn?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-09-22T07:03:33.000Z",
+      "title": "Engineers India bags order worth ₹4,300 crore from Dangote Group for petrochemical project - CNBC TV18",
+      "url": "https://www.cnbctv18.com/market/engineers-india-share-price-bags-order-worth-rs-4300-crore-rupeefrom-dangote-group-for-petrochemical-project-in-kenya-52-week-high-19995665.htm",
+      "source": "cnbctv18.com",
+      "date": "2026-09-22T18:13:39.429Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "high",
       "mood": "positive",
-      "takeaway": "Engineers India secured a Rs 450 crore order from Dangote Group.",
+      "takeaway": "Engineers India secured a major ₹4,300 crore order from Dangote Group for a petrochemical project.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "n90e6c4840a6f",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India wins $360m Dangote order in 2026 | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/engineers-india-dangote-360m-order-cmuccd32w001a36p5e0dmi6py",
+      "source": "multibagg.ai",
+      "date": "2026-09-22T18:13:39.429Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Engineers India won a $360 million order from Dangote in 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n1d468d10ff5f",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan Acquires 100% Stake In Mates Visa As PAC For Bliss GVS Acquisition",
+      "url": "https://www.sahi.com/news/anupam-rasayan-acquires-100-stake-in-mates-visa-as-pac-for-bliss-gvs-acquisition-4412-PE1_COR",
+      "source": "sahi.com",
+      "date": "2026-09-22T18:13:39.296Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan acquired 100% stake in Mates Visa as part of Bliss GVS acquisition process.",
       "enriched": true
     },
     {
