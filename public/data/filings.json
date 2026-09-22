@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-09-19T17:26:30.822Z",
+  "generated_at": "2026-09-22T07:56:59.171Z",
   "source": "nse",
   "counts": {
-    "NSE": 114,
+    "NSE": 115,
     "BSE": 0,
-    "total": 114
+    "total": 115
   },
   "items": [
+    {
+      "id": "f1a13037ec6b9",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T12:08:53.000Z",
+      "category": "Press Release",
+      "title": "Engineers India Limited has informed the Exchange regarding a press release dated September 22, 2026, titled \"Press Release - EIL to Execute Dangote s Mega Greenfield Refinery & PetrochemicalPlant in Kenya\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_22092026120820_Pressreleaseonkenya22092026.pdf"
+    },
     {
       "id": "f85128d17957f",
       "ticker": "ENGINERSIN",
