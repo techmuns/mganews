@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-09-21T19:46:53.357Z",
+  "generated_at": "2026-09-22T07:54:31.126Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 43,
+    "watchlist": 44,
     "universe": 0,
-    "total": 43
+    "total": 44
   },
   "items": [
+    {
+      "id": "n9bf62f9296bd",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India wins Rs 450 crore order from Dangote Group",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlBKSDQ1d2phY1B6X2k2Zzhtd2N1Sk91WXlUeFM0bmxEZm9mVmE4MHc5NVFGZGN5OWtnVDZfU1JnU2ZJa2tKR1FGYjRqZXJQLWtUUEFlNzdnYWJTVGFGUUU5UmxlRWQ5Wkw0ZFZVTlQxRHBRXzhvcVd4Z0IyVkRhU3o0eW4zaldYRk9JV01zNnJpaTRPSFAwdjN3dW9lSVk4ZzRTa0hHOElySDJvZ3Rn?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-09-22T07:03:33.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Engineers India secured a Rs 450 crore order from Dangote Group.",
+      "enriched": true
+    },
     {
       "id": "nac38e9ab1989",
       "ticker": "HINDUSTANO",
