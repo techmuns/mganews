@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-09-22T07:56:59.171Z",
+  "generated_at": "2026-09-22T18:16:33.020Z",
   "source": "nse",
   "counts": {
-    "NSE": 115,
+    "NSE": 116,
     "BSE": 0,
-    "total": 115
+    "total": 116
   },
   "items": [
+    {
+      "id": "fc8630d49ee0c",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-22T16:14:22.000Z",
+      "category": "Shareholders meeting",
+      "title": "Bliss GVS Pharma Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_22092026161402_Outcome_of_PB_VR.pdf"
+    },
     {
       "id": "f1a13037ec6b9",
       "ticker": "ENGINERSIN",
