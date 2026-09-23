@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-09-22T18:16:33.020Z",
+  "generated_at": "2026-09-23T18:38:12.057Z",
   "source": "nse",
   "counts": {
-    "NSE": 116,
+    "NSE": 117,
     "BSE": 0,
-    "total": 116
+    "total": 117
   },
   "items": [
+    {
+      "id": "f8e0242fbaa2f",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-09-23T16:46:58.000Z",
+      "category": "Disclosure",
+      "title": "Engineers India Limited has informed the Exchange regarding 'Board Comments on fine levied by the Exchange'.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_23092026164531_nsereply.pdf"
+    },
     {
       "id": "fc8630d49ee0c",
       "ticker": "BLISSGVS",
