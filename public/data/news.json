@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T08:03:52.904Z",
+  "generated_at": "2026-09-23T18:40:38.749Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
@@ -430,7 +430,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 7,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -451,7 +451,7 @@
       "mood": "positive",
       "takeaway": "L&T Hydrocarbon secures large ONGC order for well-head platforms and riser platform.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n56da506bec69",
