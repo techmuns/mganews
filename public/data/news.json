@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T07:45:52.338Z",
+  "generated_at": "2026-09-24T18:36:39.010Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
@@ -352,7 +352,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Q1 FY27 earnings call transcript available.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
