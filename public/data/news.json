@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T18:40:38.749Z",
+  "generated_at": "2026-09-24T07:45:52.338Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 46,
+    "watchlist": 47,
     "universe": 0,
-    "total": 46
+    "total": 47
   },
   "items": [
     {
@@ -430,7 +430,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 6,
+      "sources_count": 7,
       "enriched": true
     },
     {
@@ -451,7 +451,7 @@
       "mood": "positive",
       "takeaway": "L&T Hydrocarbon secures large ONGC order for well-head platforms and riser platform.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n56da506bec69",
@@ -684,6 +684,25 @@
       "enriched": true
     },
     {
+      "id": "nc0ed852a53fb",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India Q1FY27 Earnings Call Date and Details",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1VIWXBPTDBQbmVuNU1oY0dFZlZDZHp2TmNvZXhDRjBndUNMV09BNElsLW5hNXJrckc3STg0WHhBTHM5MTB2Ym0zeVZ1U1RYRm5LRzBuSS1QdHQ3Y3Fwdy1NX1dKd3UxUTRYanFIVHNTdGh4VVJ0QkdyajFPMnhlemQ1UnFpcWNTZU9tWW5aQkFMQUF1QkF3NTR1RndHMHloMm1XMjFfTWhxcmVkWEQtbnZpVzROekhOeERn?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-10T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Engineers India announces Q1FY27 earnings call date.",
+      "enriched": true
+    },
+    {
       "id": "n0c6ee6e1d2e2",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -700,6 +719,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Engineers India scheduled earnings call for August 14 to discuss Q1 results.",
+      "enriched": true
+    },
+    {
+      "id": "n46bf675971d9",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q1 PAT more than doubles YoY as order momentum strengthens",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMkczQ2ZJNkpyRmlkQThVWlM5NEJpTk5CWW9za2I0STFObkRIZU9pUl9xSDBFanVCY1Bmc2xXdGFTaWdOUlFkVVRwanJGZ1VBWVZuWU4tYlNwQ1hpZFVLS3F1dWdkNG1tampFSFo0QXFtamdiY2NLUGdxVk1SYTBBVm92ZWFsRFBKRjJseFhJcHg2S3JJUjdNNm5aUzNHdzdOX2NxNFpmd0dmQzFuaWI1RElaVWFPUGRWbExNS9IBwwFBVV95cUxNWU5xZE5JejRpUWdGVUR2OWFYUlJNcG9KdGJSQTE3ZGd2dWMyaDAtb2psLWhjYkdpVnVhMEJfeWFwa3hnRDNYV1E3Y2lzTWE5Z0tQYmdVMjUwVnBRWi1FQmlFWUZ1WlgxaFd0eW52OE94clBianZsT0NfRktMWWFOOXRXZWV4Yzc5a20zX01VMklnWTNEV2NFRlRHLUNJbzdMVksybW03ODRacC01UXBjUzFPR3I0OTF4bzhVR1NsQ0xWNE0?oc=5",
+      "source": "Indian Chemical News",
+      "date": "2026-08-06T11:31:57.000Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler Q1 profit more than doubled year-on-year with strong order momentum.",
       "enriched": true
     },
     {
@@ -872,25 +910,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Jayaswal Neco Industries reports steady March 2026 quarter with revenue of ₹1,974 crore and EPS of ₹1.97.",
-      "enriched": true
-    },
-    {
-      "id": "nbc1c679ce1c1",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma Q2 FY2026 Earnings: Strong Revenue Growth Amidst Operational Resilience - Management Guidance Update",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNTc1eGo5UC1jVDNldEJOU0VVV292c01lRlVhQ21STWxqVG54QXYzWWoyUEFHU0FPc2MweU1BZGhaNDViWVVtTnFPWWp3ZndTNlpVeFNLOGpackxfQmFjYjNuV0hPN0s4bkhmX0FGTWhHeEs5NE9fZ1FoeFQzc2RfTlh0U0t3VmVFQXRMdVpTRlhUTUFCZ0hlaTRTVTViTTV2LWFwbXpLeWR6M2hSUU9sRGpFekFOTnlHNWhYVFU0Zy1KRFpWUTVLOQ?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-16T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Bliss GVS Pharma shows strong revenue growth in Q2 FY2026 with operational resilience.",
       "enriched": true
     }
   ]
