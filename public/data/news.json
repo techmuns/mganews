@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-09-25T08:06:48.412Z",
+  "generated_at": "2026-09-25T18:49:23.854Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 47,
+    "watchlist": 48,
     "universe": 0,
-    "total": 47
+    "total": 48
   },
   "items": [
+    {
+      "id": "n56fbaf74208f",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Rashtriya Chemicals awards ₹797 crore ammonia plant revamp order to Larsen & Toubro",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOEVJTk5LaUZ0bHl4b3U2RnA4UnRjaW42WWhERlZQYnFGOU03YkF3OC16MkhRZzBNWFhLcTBLLURlb1owWkM5dlVsUEZ3QXV5clBYUHhNOTdfRUt5UEtFTU9hdDhNNVVZTVlZNTZiRkRxeml4aUNVNktJZ2F5SDN6SjVRSmZDTnhrZ05VdlFkY0hMQzF6QmpLRGVqcV82dm1scDVxbmpUMHJjUXpJWUNKekZzZVJ6QS16SnhkQUhWX1c0YXVxQnVQVWJLSzRndDN2MEFkRkFPOGxRVF8zZXBNM2NzVjA1QdIB6wFBVV95cUxNb3N5RmZUMExBcmMyS204ZVgzOVFYa1NoYXptQjdtRzBKRlY0ZGZJQVFSek5uUW9ncFBIemo4QU5Rdlc4UURDLUJMRTdjRkY2ZHFyZWo4ZnlQVmJWNTBGVkljSDJwdzhINkRES2JzTTItel9ZcmIxVktDWGNSS1FMQlZreW9hY2F0eVhiQlZuNVVzOHNKd2ZyTlY5M3loXzYwcTFjZVpmdlNkQ20wbEtNNklicFo4ZktYRXkyWFBsUXJ4RVIwTlVfbGJCcG44VVIxa2dHTGxjenBZZ1prbmpXT2RFQ1FtZWcxWm40?oc=5",
+      "source": "CNBC TV18",
+      "date": "2026-09-25T15:40:01.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T wins ₹797 crore order from Rashtriya Chemicals to revamp ammonia plant.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n987104cccc7c",
       "ticker": "ENGINERSIN",
@@ -391,7 +411,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -430,7 +450,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 7,
+      "sources_count": 5,
       "enriched": true
     },
     {
