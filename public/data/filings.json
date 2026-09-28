@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-09-28T08:58:49.344Z",
+  "generated_at": "2026-09-28T20:48:31.157Z",
   "source": "nse",
   "counts": {
-    "NSE": 115,
+    "NSE": 118,
     "BSE": 0,
-    "total": 115
+    "total": 118
   },
   "items": [
+    {
+      "id": "faa71b32d91e6",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-28T20:55:53.000Z",
+      "category": "Board Meeting",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Outcome of the 2nd Board Meeting held on September 28, 2026 at shorter Notice regarding re-classification from the \"Promoter and Promoter Group\" category to the \"public\" category.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_28092026205539_Outcome___BM___Bliss_GVS___2ndBM.pdf"
+    },
+    {
+      "id": "ffb9ce848870e",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-28T20:51:33.000Z",
+      "category": "Change in Directors",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about change in Management pursuant to the Change in Control of the Company.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_28092026205124_Outcome___BM___Bliss_GVS___1_Board_Meeting.pdf"
+    },
+    {
+      "id": "f39230eafab6d",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-28T20:49:33.000Z",
+      "category": "Board Meeting",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Outcome of Board Meeting held on September 28, 2026 relating to the consummation of the transaction contemplated in the share purchase agreement dated May 23, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_28092026204916_Outcome___BM___Bliss_GVS___1_Board_Meeting.pdf"
+    },
     {
       "id": "f8e0242fbaa2f",
       "ticker": "ENGINERSIN",
