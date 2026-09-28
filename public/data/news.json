@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T08:54:08.331Z",
+  "generated_at": "2026-09-28T20:49:54.987Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
@@ -8,6 +8,45 @@
     "total": 50
   },
   "items": [
+    {
+      "id": "n5dcd27a08049",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan Acquires 48.2% Stake in Bliss GVS Pharma for Forward Integration | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-Acquires-482percent-Stake-in-Bliss-GVS-Pharma-for-Forward-Integration/6aba7945f2017017ae741ec2",
+      "source": "whalesbook.com",
+      "date": "2026-09-28T20:41:19.256Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan acquires 48.2% stake in Bliss GVS Pharma for forward integration.",
+      "enriched": true
+    },
+    {
+      "id": "nf18e5e0521a2",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan Concludes Acquisition of Bliss GVS Pharma",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzQnZsMkFwRzVWY19HOVdMV2hRYVVPcTNETGR1WEp2R0psWGstX0trQjg4eU5vdkNxVXVyQ08xTEZZVlA5ZGJZcjZvcUtnSlNNZ25sTUR6VVVOWExVTkJv?oc=5",
+      "source": "EquityBulls",
+      "date": "2026-09-28T15:04:53.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completes acquisition of Bliss GVS Pharma.",
+      "sources_count": 5,
+      "enriched": true
+    },
     {
       "id": "n89e84d38b2b8",
       "ticker": "LT",
@@ -103,25 +142,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India won a $360 million order from Dangote in 2026.",
-      "enriched": true
-    },
-    {
-      "id": "n1d468d10ff5f",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan Acquires 100% Stake In Mates Visa As PAC For Bliss GVS Acquisition",
-      "url": "https://www.sahi.com/news/anupam-rasayan-acquires-100-stake-in-mates-visa-as-pac-for-bliss-gvs-acquisition-4412-PE1_COR",
-      "source": "sahi.com",
-      "date": "2026-09-22T18:13:39.296Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan acquired 100% stake in Mates Visa as part of Bliss GVS acquisition process.",
       "enriched": true
     },
     {
@@ -335,26 +355,6 @@
       "enriched": true
     },
     {
-      "id": "n841ea2ca12ef",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan India Credit Rating: Bliss GVS acquisition ke baad rating watch par, kya hai investors ke liye update? | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/chemicals/Anupam-Rasayan-India-Credit-Rating-Remains-on-Watch-Amid-Bliss-GVS-Acquisition/6a959398f2017017ae5854e0",
-      "source": "whalesbook.com",
-      "date": "2026-09-16T18:20:03.970Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Anupam Rasayan's credit rating placed on watch following Bliss GVS acquisition.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n5f124abb49d1",
       "ticker": "GMMPFAUDLE",
       "company": "GMM Pfaudler",
@@ -488,7 +488,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
