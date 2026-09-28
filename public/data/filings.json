@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-27T18:39:11.201Z",
+  "generated_at": "2026-09-28T08:58:49.344Z",
   "source": "nse",
   "counts": {
-    "NSE": 116,
+    "NSE": 115,
     "BSE": 0,
-    "total": 116
+    "total": 115
   },
   "items": [
     {
@@ -1156,16 +1156,6 @@
       "category": "Disclosure",
       "title": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR) Incorporation of a wholly owned step-down subsidiary.",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_20062026214334_Intimation_-_LTN_Compute.pdf"
-    },
-    {
-      "id": "f5e565d032bce",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-19T19:42:14.000Z",
-      "category": "Disclosure",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'the communication sent to shareholders regarding Intimation of Tax Deduction on Dividend.'.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_19062026194111_Intimation_of_TDS_Communication.pdf"
     }
   ]
 }
