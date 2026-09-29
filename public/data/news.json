@@ -1,13 +1,110 @@
 {
-  "generated_at": "2026-09-28T20:49:54.987Z",
+  "generated_at": "2026-09-29T08:56:19.187Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 50,
+    "watchlist": 54,
     "universe": 0,
-    "total": 50
+    "total": 54
   },
   "items": [
+    {
+      "id": "n77dcb1daacd9",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan completes purchase of 48.2 pc stake in Bliss GVS Pharma for ₹1,750 cr - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/anupam-rasayan-completes-purchase-of-482-stake-in-bliss-gvs-pharma-for-1750-cr/article71522884.ece",
+      "source": "thehindubusinessline.com",
+      "date": "2026-09-29T08:55:49.504Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completed purchase of 48.2% stake in Bliss GVS Pharma for Rs 1,750 crore.",
+      "sources_count": 6,
+      "enriched": true
+    },
+    {
+      "id": "nc8c6d4646de0",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan concludes acquisition of Bliss GVS Pharma - Express Pharma",
+      "url": "https://www.expresspharma.in/anupam-rasayan-concludes-acquisition-of-bliss-gvs-pharma/",
+      "source": "expresspharma.in",
+      "date": "2026-09-29T08:55:49.504Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan concluded acquisition of Bliss GVS Pharma.",
+      "enriched": true
+    },
+    {
+      "id": "n82bd25f016b5",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan completes Bliss GVS deal, targets Rs 4,000-crore integrated platform - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/anupam-rasayan-completes-bliss-gvs-deal-targets-rs-4000-crore-integrated-platform/articleshow/134558472.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-09-29T08:55:49.504Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completed Bliss GVS deal, targeting Rs 4,000 crore integrated platform.",
+      "enriched": true
+    },
+    {
+      "id": "ne73dadf5725d",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India ਨੂੰ ਮਿਲਿਆ ਵੱਡਾ ਪ੍ਰੋਜੈਕਟ: $450 ਮਿਲੀਅਨ ਦੀ ਡੀਲ ਨਾਲ Order Book **₹15,109 ਕਰੋੜ** ਦੇ ਰਿਕਾਰਡ ਪੱਧਰ 'ਤੇ | Whalesbook",
+      "url": "https://www.whalesbook.com/news/Punjabi/industrial-goodsservices/Engineers-India-Wins-dollar450M-Kenya-Deal-Order-Book-Hits-Record-indian-rupee15109-Crore/6abb3fcc5aacb956d083e507",
+      "source": "whalesbook.com",
+      "date": "2026-09-29T08:55:49.491Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Engineers India secured $450 million project, order book reaches record Rs 15,109 crore.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
+      "id": "nf5d587d05579",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India: Order bookings, new initiatives worth tracking",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeWN5VUk5a3MycUJhTGdkeXpvcFlLVXJ2M2xrUVp1U1N2YkI3WFptV0RsanhoNHBmLUZQYXZEQVJqTmdFU29PdWVXS21aNmlZOENObTE3N2x6UTM0YjFWWGlzTGhGMVZ0UjdDOERZU0swdHg5LTFvd0pUU2U0VndkZzEtVXlZWXA1MnZ5MXhaMjAtNnFTN1A5bVdvc2hyOGFtRnB4SkdPZWN0aFZqV2hpT1A2RDlVd3MzWFM5UFVWaXhNdFVmWkhXbnJHYnlFd2tFc0NLQVUtVHlXTWlR0gHcAUFVX3lxTFB5Y3lVSTlrczJxQmFMZ2R5em9wWUtVcnYzbGtRWnVTU3ZiQjdYWm1XRGxqeGg0cGYtRlBhdkRBUmpOZ0VTb091ZVdLbVo2aVk4Q05tMTc3bHpRMzRiMVZYaXNMaEYxVnRSN0M4RFlTSzB0eDktMW93SlRTZTRWd2RnMS1VeVlZcDUydnkxeFoyMC02cVM3UDltV29zaHI4YW1GcHhKR09lY3RoVmpXaGlPUDZEOVV3czNYUzlQVVZpeE10VWZaSFduckdieUV3a0VzQ0tBVS1UeVdNaVE?oc=5",
+      "source": "Moneycontrol.com",
+      "date": "2026-09-29T04:25:14.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India reports order bookings and new initiatives worth tracking.",
+      "enriched": true
+    },
     {
       "id": "n5dcd27a08049",
       "ticker": "BLISSGVS",
@@ -25,26 +122,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires 48.2% stake in Bliss GVS Pharma for forward integration.",
-      "enriched": true
-    },
-    {
-      "id": "nf18e5e0521a2",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan Concludes Acquisition of Bliss GVS Pharma",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBzQnZsMkFwRzVWY19HOVdMV2hRYVVPcTNETGR1WEp2R0psWGstX0trQjg4eU5vdkNxVXVyQ08xTEZZVlA5ZGJZcjZvcUtnSlNNZ25sTUR6VVVOWExVTkJv?oc=5",
-      "source": "EquityBulls",
-      "date": "2026-09-28T15:04:53.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan completes acquisition of Bliss GVS Pharma.",
-      "sources_count": 5,
       "enriched": true
     },
     {
