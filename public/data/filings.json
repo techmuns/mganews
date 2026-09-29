@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-28T20:48:31.157Z",
+  "generated_at": "2026-09-29T09:03:11.537Z",
   "source": "nse",
   "counts": {
-    "NSE": 118,
+    "NSE": 116,
     "BSE": 0,
-    "total": 118
+    "total": 116
   },
   "items": [
     {
@@ -1166,26 +1166,6 @@
       "category": "Shareholders meeting",
       "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on July 15, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23062026184348_AGM_Notice_2025_2026.pdf"
-    },
-    {
-      "id": "f51a7304326c0",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-06-21T00:04:23.000Z",
-      "category": "Disclosure",
-      "title": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR) Incorporation of a wholly owned step-down subsidiary",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_21062026000405_SEIntimationLTNCompute20062026.pdf"
-    },
-    {
-      "id": "f769f10619775",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-06-20T21:43:46.000Z",
-      "category": "Disclosure",
-      "title": "Disclosure under Regulation 30 of SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR) Incorporation of a wholly owned step-down subsidiary.",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_20062026214334_Intimation_-_LTN_Compute.pdf"
     }
   ]
 }
