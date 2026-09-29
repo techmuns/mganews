@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-09-29T08:56:19.187Z",
+  "generated_at": "2026-09-29T19:35:01.264Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 54,
+    "watchlist": 55,
     "universe": 0,
-    "total": 54
+    "total": 55
   },
   "items": [
+    {
+      "id": "n4f57203acc64",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "CIL, HURL sign pact to explore syngas-based urea production in Jharkhand | Industry News - Business Standard",
+      "url": "https://www.business-standard.com/amp/industry/news/cil-hurl-sign-pact-to-explore-syngas-based-urea-production-in-jharkhand-126092900696_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-29T19:34:46.279Z",
+      "topic": "Deals",
+      "keyword": "Joint Venture",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "CIL and HURL signed agreement to explore syngas-based urea production in Jharkhand.",
+      "enriched": true
+    },
+    {
+      "id": "n5a390b3f81e6",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Buzzing stocks: Tata Group restructuring, Bliss GVS deal, HCLSoftware acquisition and more - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/buzzing-stocks-tata-group-anupam-rasayan-hclsoftware-irfc-ncc-pidilite-and-others-in-focus/article71522304.ece",
+      "source": "thehindubusinessline.com",
+      "date": "2026-09-29T19:34:41.197Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma involved in a deal transaction.",
+      "enriched": true
+    },
     {
       "id": "n77dcb1daacd9",
       "ticker": "BLISSGVS",
@@ -25,26 +63,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed purchase of 48.2% stake in Bliss GVS Pharma for Rs 1,750 crore.",
-      "sources_count": 6,
-      "enriched": true
-    },
-    {
-      "id": "nc8c6d4646de0",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan concludes acquisition of Bliss GVS Pharma - Express Pharma",
-      "url": "https://www.expresspharma.in/anupam-rasayan-concludes-acquisition-of-bliss-gvs-pharma/",
-      "source": "expresspharma.in",
-      "date": "2026-09-29T08:55:49.504Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan concluded acquisition of Bliss GVS Pharma.",
+      "sources_count": 7,
       "enriched": true
     },
     {
@@ -487,7 +506,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Q1 FY27 earnings call transcript available.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
