@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-09-30T08:54:59.323Z",
+  "generated_at": "2026-09-30T19:43:14.109Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 57,
+    "watchlist": 60,
     "universe": 0,
-    "total": 57
+    "total": 60
   },
   "items": [
+    {
+      "id": "nc60bdaddbb33",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma, ETManufacturing",
+      "url": "https://manufacturing.economictimes.indiatimes.com/amp/news/chemicals/anupam-rasayan-completes-acquisition-of-48-2-stake-in-bliss-gvs-pharma/134581283",
+      "source": "manufacturing.economictimes.indiatimes.com",
+      "date": "2026-09-30T19:34:37.821Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
+      "sources_count": 7,
+      "enriched": true
+    },
+    {
+      "id": "neac6a5dea206",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T extends Hyderabad Metro stake sale deadline to Dec 31",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXA0VHBlQlpBLXpEQngtYjV4TnRqRVBXZG83bC1yM29icjRUYUVza0ZfRmhueDI0emJhdEd6dnJtdWl1VWMyZW1LN2NIVXBQalowSjVEbkpBZTNzY0pyRjBfTUpibmM1VENpVXBEanZVYmRCbnlPcDc5VnRJeE5DOUZZT3lTV1NJMXhpQTR0QmxFekJiWS1vbFRCVGhBOWlVWG9NUEMyVTFwM1hnUFp3cGgyRU82WWlMUGR0TzhsUlhlMk9pRVN1TUl4RW1Sa1dTaDNvX3BxYVBNXzE0T3BB0gHkAUFVX3lxTE4xVTl6VmRQVzBkREFvNWpYcTBhdWJVSnZKTjRUSVZvUy11QmdEUHl1SUdWUElmb3RXTnN3VnJjS1IxUXFSSEpuYXNfWTREQlRRZTFvWWdmSjYzQTYwdS1UUWZORGJNYWtrQWl6Z1JhcXlDcHFXNFNaN3NOSGZqWnZSR3JRd2ZqbnNRMTRJSWRndHZoR284b3dEcmxiSG1URGpDdHBqM1YwWE54QmhaWXNCVDVuS0U2cG42SWlmcy1KbjYzWVJmRTFwdndCd0tpQ3RlWlhZc2JyWFlLcFBMekZOQjFVTw?oc=5",
+      "source": "The Economic Times",
+      "date": "2026-09-30T15:52:17.000Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T extends deadline for Hyderabad Metro stake sale to December 31.",
+      "sources_count": 3,
+      "enriched": true
+    },
     {
       "id": "n9274f3ff6f31",
       "ticker": "LT",
@@ -28,25 +68,6 @@
       "enriched": true
     },
     {
-      "id": "n7950b577d542",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "How Anupam Rasayan plans to double Bliss GVS Pharma's rev in three years - CNBC TV18",
-      "url": "https://www.cnbctv18.com/business/companies/anupam-rasayan-expects-2000-crore-revenue-from-its-new-acquisition-alpha-article-20001713.htm",
-      "source": "cnbctv18.com",
-      "date": "2026-09-30T08:54:38.734Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan plans to double Bliss GVS Pharma revenue in three years post-acquisition.",
-      "enriched": true
-    },
-    {
       "id": "ncd59a683e0ac",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
@@ -64,6 +85,25 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in ₹1,750 crore deal.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n7950b577d542",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "How Anupam Rasayan plans to double Bliss GVS Pharma's rev in three years - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/companies/anupam-rasayan-expects-2000-crore-revenue-from-its-new-acquisition-alpha-article-20001713.htm",
+      "source": "cnbctv18.com",
+      "date": "2026-09-30T08:54:38.734Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan plans to double Bliss GVS Pharma revenue in three years post-acquisition.",
       "enriched": true
     },
     {
@@ -121,7 +161,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Bliss GVS Pharma involved in a deal transaction.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n82bd25f016b5",
@@ -583,7 +624,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -815,6 +856,25 @@
       "importance": "low",
       "mood": "negative",
       "takeaway": "MahaRERA orders L&T to fix leaks and fire safety issues at Parel's Crescent Bay project.",
+      "enriched": true
+    },
+    {
+      "id": "n3a9289604ea5",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2 2026 Earnings: 10.54% Revenue Growth With ₹12.86 EPS Signals Resilience - Operating Income Trends",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTNuZzYzNGZZMEZMOXFaLURuQkV0czNHNEQ1V3J1QzdJTElza1VGd2dyNkR2dmtEckg4QXZoZGxlZkR1a0RfN1NEVjMwM0tSdVZyeFlaVkZpSGtVWmZCZGtfNWpIcEw4UWNCTlZheTJCdnlkR0Q0a29tTXdfRFE5VHlKZzFDYWZWY2JkODNCVHRjQkdEQjQ0a2hZWFgwTDRUN0FzcjNwWmJ5LWw1b21nMDNMbENtNW5WQzYwLTdoOXZEVDdw?oc=5",
+      "source": "siam.in",
+      "date": "2026-08-31T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler Q2 revenue grew 10.54% with EPS of ₹12.86.",
       "enriched": true
     },
     {
