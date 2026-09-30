@@ -1,13 +1,90 @@
 {
-  "generated_at": "2026-09-29T19:35:01.264Z",
+  "generated_at": "2026-09-30T08:54:59.323Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 55,
+    "watchlist": 57,
     "universe": 0,
-    "total": 55
+    "total": 57
   },
   "items": [
+    {
+      "id": "n9274f3ff6f31",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro ka jalwa! Dubai se mile ₹3,500 Cr ke do bade orders | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Larsen-and-Toubro-Wins-Twin-Dubai-Road-Contracts-Worth-Over-indian-rupee3500-Crore/6abcb05580ecbb8a5f186567",
+      "source": "whalesbook.com",
+      "date": "2026-09-30T08:54:41.729Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Larsen & Toubro wins two orders worth ₹3,500 crore from Dubai.",
+      "enriched": true
+    },
+    {
+      "id": "n7950b577d542",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "How Anupam Rasayan plans to double Bliss GVS Pharma's rev in three years - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/companies/anupam-rasayan-expects-2000-crore-revenue-from-its-new-acquisition-alpha-article-20001713.htm",
+      "source": "cnbctv18.com",
+      "date": "2026-09-30T08:54:38.734Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan plans to double Bliss GVS Pharma revenue in three years post-acquisition.",
+      "enriched": true
+    },
+    {
+      "id": "ncd59a683e0ac",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan takes control of Bliss GVS in ₹1,750 crore bet on pharma scale-up, ETChemicals",
+      "url": "https://chemicals.economictimes.indiatimes.com/news/pharma-chemicals/anupam-rasayan-takes-control-of-bliss-gvs-in-1750-crore-bet-on-pharma-scale-up/134565803",
+      "source": "chemicals.economictimes.indiatimes.com",
+      "date": "2026-09-30T08:54:38.734Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in ₹1,750 crore deal.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n15d6168c59d0",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Deal Takes Anupam Rasayan Into Finished Medicines - Newz Daddy",
+      "url": "https://www.newzdaddy.com/bliss-gvs-deal-takes-anupam-rasayan-into-finished-medicines/",
+      "source": "newzdaddy.com",
+      "date": "2026-09-30T08:54:38.734Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Bliss GVS acquisition enables Anupam Rasayan to enter finished medicines segment.",
+      "enriched": true
+    },
     {
       "id": "n4f57203acc64",
       "ticker": "HINDUSTANO",
@@ -47,26 +124,6 @@
       "enriched": true
     },
     {
-      "id": "n77dcb1daacd9",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan completes purchase of 48.2 pc stake in Bliss GVS Pharma for ₹1,750 cr - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/anupam-rasayan-completes-purchase-of-482-stake-in-bliss-gvs-pharma-for-1750-cr/article71522884.ece",
-      "source": "thehindubusinessline.com",
-      "date": "2026-09-29T08:55:49.504Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan completed purchase of 48.2% stake in Bliss GVS Pharma for Rs 1,750 crore.",
-      "sources_count": 7,
-      "enriched": true
-    },
-    {
       "id": "n82bd25f016b5",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
@@ -102,7 +159,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured $450 million project, order book reaches record Rs 15,109 crore.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -122,25 +179,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India reports order bookings and new initiatives worth tracking.",
-      "enriched": true
-    },
-    {
-      "id": "n5dcd27a08049",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan Acquires 48.2% Stake in Bliss GVS Pharma for Forward Integration | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-Acquires-482percent-Stake-in-Bliss-GVS-Pharma-for-Forward-Integration/6aba7945f2017017ae741ec2",
-      "source": "whalesbook.com",
-      "date": "2026-09-28T20:41:19.256Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan acquires 48.2% stake in Bliss GVS Pharma for forward integration.",
       "enriched": true
     },
     {
@@ -199,7 +237,7 @@
       "mood": "positive",
       "takeaway": "L&T wins ₹797 crore order from Rashtriya Chemicals to revamp ammonia plant.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n987104cccc7c",
@@ -584,7 +622,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 3,
+      "sources_count": 5,
       "enriched": true
     },
     {
