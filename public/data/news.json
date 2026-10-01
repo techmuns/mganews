@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-01T09:21:22.762Z",
+  "generated_at": "2026-10-01T19:47:55.122Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 61,
+    "watchlist": 60,
     "universe": 0,
-    "total": 61
+    "total": 60
   },
   "items": [
     {
-      "id": "n7669423a2b9d",
+      "id": "n3898b5ecf164",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "L&T extends Hyderabad Metro stake sale deadline to December 31 - CNBC TV18",
-      "url": "https://www.cnbctv18.com/business/companies/larsen-and-toubro-extends-rs-1461-crore-hyderabad-metro-stake-sale-deadline-to-december-31-for-second-time-20002180.htm",
-      "source": "cnbctv18.com",
-      "date": "2026-10-01T09:21:06.493Z",
+      "title": "L&T extends Hyderabad Metro stake sale deadline to Dec 31 - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/lt-extends-hyderabad-metro-stake-sale-deadline-to-dec-31/articleshow/134598204.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-10-01T19:47:37.471Z",
       "topic": "Deals",
       "keyword": "Stake sale",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 7,
+      "takeaway": "L&T extends deadline to sell its Hyderabad Metro stake to December 31.",
+      "sources_count": 10,
       "enriched": true
     },
     {
@@ -45,7 +45,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 8,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -65,26 +65,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Larsen & Toubro wins two orders worth ₹3,500 crore from Dubai.",
-      "enriched": true
-    },
-    {
-      "id": "ncd59a683e0ac",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan takes control of Bliss GVS in ₹1,750 crore bet on pharma scale-up, ETChemicals",
-      "url": "https://chemicals.economictimes.indiatimes.com/news/pharma-chemicals/anupam-rasayan-takes-control-of-bliss-gvs-in-1750-crore-bet-on-pharma-scale-up/134565803",
-      "source": "chemicals.economictimes.indiatimes.com",
-      "date": "2026-09-30T08:54:38.734Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in ₹1,750 crore deal.",
-      "sources_count": 3,
       "enriched": true
     },
     {
@@ -663,7 +643,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
