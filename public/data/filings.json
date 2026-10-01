@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T09:28:21.377Z",
+  "generated_at": "2026-10-01T19:56:39.636Z",
   "source": "nse",
   "counts": {
     "NSE": 117,
@@ -7,6 +7,36 @@
     "total": 117
   },
   "items": [
+    {
+      "id": "f964a035e851e",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-01T19:47:50.000Z",
+      "category": "Board Meeting",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Outcome of Board Meeting held on October 01, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_01102026194741_Outcome_of_Board_Meeting.pdf"
+    },
+    {
+      "id": "ff92b43b23818",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-01T16:40:53.000Z",
+      "category": "Change in Directors",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding Appointment of Rana Das as Senior Management Personnel of the company w.e.f. October 01, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_01102026164045_Reg_30_Disclosure_01102026_rana_das_appointment_0001.pdf"
+    },
+    {
+      "id": "fc6c128041005",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-01T16:17:15.000Z",
+      "category": "Disclosure",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about General Updates on earlier intimation dated 25th April, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_01102026161656_Reg_30_01102026_Financial_Closure_of_New_Pelle_Plant_0001.pdf"
+    },
     {
       "id": "fd8ab606bd38a",
       "ticker": "JAYNECOIND",
@@ -1146,36 +1176,6 @@
       "category": "Press Release",
       "title": "Engineers India Limited has informed the Exchange regarding a press release dated Jun 24, 2026, titled \"Press Release - HCL and EIL Sign Memorandum of Agreement\".",
       "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_24062026123038_MOU.pdf"
-    },
-    {
-      "id": "f7dfcb3cc25b3",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T18:47:45.000Z",
-      "category": "Disclosure",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Please find enclosed herewith the intimation for the Book Closure for the purpose of 41st Annual General Meeting of the Company.'.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23062026184731_Book_Closure_Record_Date_Intimation.pdf"
-    },
-    {
-      "id": "fb1b4ae43d0a5",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T18:46:17.000Z",
-      "category": "Record Date",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange that Record date for the purpose of DI is 08-Jul-2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23062026184548_Book_Closure_Record_Date_Intimation.pdf"
-    },
-    {
-      "id": "f95e2e8709881",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-23T18:43:56.000Z",
-      "category": "Shareholders meeting",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Notice of Annual General Meeting to be held on July 15, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23062026184348_AGM_Notice_2025_2026.pdf"
     }
   ]
 }
