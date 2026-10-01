@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-09-30T19:43:14.109Z",
+  "generated_at": "2026-10-01T09:21:22.762Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 60,
+    "watchlist": 61,
     "universe": 0,
-    "total": 60
+    "total": 61
   },
   "items": [
+    {
+      "id": "n7669423a2b9d",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T extends Hyderabad Metro stake sale deadline to December 31 - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/companies/larsen-and-toubro-extends-rs-1461-crore-hyderabad-metro-stake-sale-deadline-to-december-31-for-second-time-20002180.htm",
+      "source": "cnbctv18.com",
+      "date": "2026-10-01T09:21:06.493Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
+      "sources_count": 7,
+      "enriched": true
+    },
     {
       "id": "nc60bdaddbb33",
       "ticker": "BLISSGVS",
@@ -25,27 +45,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 7,
-      "enriched": true
-    },
-    {
-      "id": "neac6a5dea206",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T extends Hyderabad Metro stake sale deadline to Dec 31",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZXA0VHBlQlpBLXpEQngtYjV4TnRqRVBXZG83bC1yM29icjRUYUVza0ZfRmhueDI0emJhdEd6dnJtdWl1VWMyZW1LN2NIVXBQalowSjVEbkpBZTNzY0pyRjBfTUpibmM1VENpVXBEanZVYmRCbnlPcDc5VnRJeE5DOUZZT3lTV1NJMXhpQTR0QmxFekJiWS1vbFRCVGhBOWlVWG9NUEMyVTFwM1hnUFp3cGgyRU82WWlMUGR0TzhsUlhlMk9pRVN1TUl4RW1Sa1dTaDNvX3BxYVBNXzE0T3BB0gHkAUFVX3lxTE4xVTl6VmRQVzBkREFvNWpYcTBhdWJVSnZKTjRUSVZvUy11QmdEUHl1SUdWUElmb3RXTnN3VnJjS1IxUXFSSEpuYXNfWTREQlRRZTFvWWdmSjYzQTYwdS1UUWZORGJNYWtrQWl6Z1JhcXlDcHFXNFNaN3NOSGZqWnZSR3JRd2ZqbnNRMTRJSWRndHZoR284b3dEcmxiSG1URGpDdHBqM1YwWE54QmhaWXNCVDVuS0U2cG42SWlmcy1KbjYzWVJmRTFwdndCd0tpQ3RlWlhZc2JyWFlLcFBMekZOQjFVTw?oc=5",
-      "source": "The Economic Times",
-      "date": "2026-09-30T15:52:17.000Z",
-      "topic": "Deals",
-      "keyword": "Stake sale",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "L&T extends deadline for Hyderabad Metro stake sale to December 31.",
-      "sources_count": 3,
+      "sources_count": 8,
       "enriched": true
     },
     {
@@ -84,7 +84,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in ₹1,750 crore deal.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -297,7 +297,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured a major ₹4,300 crore order from Dangote Group for a petrochemical project.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -663,7 +663,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 5,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -914,6 +914,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India targets 10% revenue growth in FY27 with focus on stronger order inflows.",
+      "enriched": true
+    },
+    {
+      "id": "n3beec65d3940",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings call transcript: Engineers India posts stronger Q1 2026 profit",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOajUwcTJiVXBjZHJVWWlpblRkU0oxVVJRdm1jdGlLdF9yNFdwTzBDc3ZNLWFjd01tWEJQQmhaMS1zT2Y0Z0NmUFNicXc3cDJQWlA0VnRqeVM0ZHB6WkZOcUxDdk50aS1uQWtUb2VNMlVGTVFCcnMxcWZuZ0VQLVBGSzRCd2NERnQzeXJZbjEwb2FBRVBmTUxlMHVRUU8xVFhiMjJkclJOUkw2S0hMZDVCaGpPcC1ESHJzblpoYzdoOWFNNjFB?oc=5",
+      "source": "Investing.com",
+      "date": "2026-08-14T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India reports stronger profit in Q1 2026.",
       "enriched": true
     },
     {
