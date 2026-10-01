@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-09-29T09:03:11.537Z",
+  "generated_at": "2026-10-01T09:28:21.377Z",
   "source": "nse",
   "counts": {
-    "NSE": 116,
+    "NSE": 117,
     "BSE": 0,
-    "total": 116
+    "total": 117
   },
   "items": [
+    {
+      "id": "fd8ab606bd38a",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-01T11:46:17.000Z",
+      "category": "Allotment of Securities",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding allotment of 22439134 warrants pursuant to Preferential Issue at its meeting held on October 01, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_01102026114607_REG30_01102026_ALLOTMENT_OF_SHARES.pdf"
+    },
     {
       "id": "faa71b32d91e6",
       "ticker": "BLISSGVS",
