@@ -1,52 +1,71 @@
 {
-  "generated_at": "2026-10-01T19:47:55.122Z",
+  "generated_at": "2026-10-02T08:52:21.817Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 60,
+    "watchlist": 61,
     "universe": 0,
-    "total": 60
+    "total": 61
   },
   "items": [
     {
-      "id": "n3898b5ecf164",
+      "id": "n7ed41508c0d8",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "L&T extends Hyderabad Metro stake sale deadline to Dec 31 - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/lt-extends-hyderabad-metro-stake-sale-deadline-to-dec-31/articleshow/134598204.cms",
-      "source": "economictimes.indiatimes.com",
-      "date": "2026-10-01T19:47:37.471Z",
+      "title": "L&T Metro Rail Hyderabad Stake Sale: L&T Delays Hyderabad Metro Stake Sale Deadline to December 31, 2026, ETInfra",
+      "url": "https://infra.economictimes.indiatimes.com/amp/news/urban-transportation/lt-extends-hyderabad-metro-stake-sale-timeline-to-december-31/134595937",
+      "source": "infra.economictimes.indiatimes.com",
+      "date": "2026-10-02T08:52:03.525Z",
       "topic": "Deals",
       "keyword": "Stake sale",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "L&T extends deadline to sell its Hyderabad Metro stake to December 31.",
-      "sources_count": 10,
+      "takeaway": "L&T extends deadline for Hyderabad Metro stake sale to December 31, 2026.",
+      "sources_count": 9,
       "enriched": true
     },
     {
-      "id": "nc60bdaddbb33",
+      "id": "n734e254e7729",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Vascon Engineers Secures Rs. 6.61 bn Qualcomm India Order",
+      "url": "https://www.constructionworld.in/policy-updates-and-economic-news/vascon-engineers-secures-rs.-6.61-bn-qualcomm-india-order/97977",
+      "source": "constructionworld.in",
+      "date": "2026-10-02T08:52:00.420Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Vascon Engineers wins Rs 661 crore order from Qualcomm India.",
+      "enriched": true
+    },
+    {
+      "id": "n25350ce1afcf",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
       "sector": "Healthcare",
       "scope": [
         "watchlist"
       ],
-      "title": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma, ETManufacturing",
-      "url": "https://manufacturing.economictimes.indiatimes.com/amp/news/chemicals/anupam-rasayan-completes-acquisition-of-48-2-stake-in-bliss-gvs-pharma/134581283",
-      "source": "manufacturing.economictimes.indiatimes.com",
-      "date": "2026-09-30T19:34:37.821Z",
+      "title": "Surat-based Anupam Rasayan completes ₹1,750-cr acquisition of 48.2% in Bliss GVS Pharma - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/surat-based-anupam-rasayan-completes-1750-cr-acquisition-of-482-in-bliss-gvs-pharma/article71523837.ece",
+      "source": "thehindubusinessline.com",
+      "date": "2026-10-02T08:52:00.280Z",
       "topic": "Deals",
       "keyword": "Acquisition",
       "importance": "high",
       "mood": "positive",
-      "takeaway": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 2,
-      "enriched": true
+      "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n9274f3ff6f31",
@@ -762,25 +781,6 @@
       "enriched": true
     },
     {
-      "id": "nd3d9f8100e9d",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma accepts resignation of GM Sachin Saboo",
-      "url": "https://scanx.trade/stock-market-news/companies/bliss-gvs-pharma-accepts-resignation-of-gm-sachin-saboo/46522377",
-      "source": "scanx.trade",
-      "date": "2026-09-08T11:44:50.754Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma accepts resignation of GM Sachin Saboo.",
-      "enriched": true
-    },
-    {
       "id": "nf1d060993329",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -1027,6 +1027,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Poojaa Precision opens IPO July 28 to raise ₹160 crore for capacity expansion.",
+      "enriched": true
+    },
+    {
+      "id": "nca3bf8493746",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma accepts resignation of GM Sachin Saboo effective July 24",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbkZTazZLY1ZEQmREMnB6NWpkLU14a0cySktaZ1JxOENjXzJ3TWFQWUIwTEFnOGl2bHpWT1oteTNzVGNHRFZkbHRvV1BRRXRMTTJBWmdubThwaG1YZmUxd2MtQUViRzItUG1wU2dySTZIcms3Q2Q4RWt6bU5ocDAydXdaSGdmd25BTXBVVjRGYzFDN0I3OHg3TUVsU1NSbXlXaXJLQ0RXT0ZkOFBRejJlelNR?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-07-24T07:00:00.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "Bliss GVS Pharma GM Sachin Saboo resigns effective July 24.",
+      "sources_count": 2,
       "enriched": true
     },
     {
