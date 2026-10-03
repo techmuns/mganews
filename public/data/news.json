@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T08:28:51.314Z",
+  "generated_at": "2026-10-03T18:16:01.028Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
@@ -8,6 +8,26 @@
     "total": 63
   },
   "items": [
+    {
+      "id": "n7669423a2b9d",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T extends Hyderabad Metro stake sale deadline to December 31 - CNBC TV18",
+      "url": "https://www.cnbctv18.com/business/companies/larsen-and-toubro-extends-rs-1461-crore-hyderabad-metro-stake-sale-deadline-to-december-31-for-second-time-20002180.htm",
+      "source": "cnbctv18.com",
+      "date": "2026-10-03T18:07:26.381Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
+      "sources_count": 8,
+      "enriched": true
+    },
     {
       "id": "n35bfedd45e07",
       "ticker": "LT",
@@ -25,26 +45,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T in talks to sell minority stake in clean energy arm to Japan's Itochu, plans Kandla as green ammonia export hub.",
-      "enriched": true
-    },
-    {
-      "id": "n7ed41508c0d8",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Metro Rail Hyderabad Stake Sale: L&T Delays Hyderabad Metro Stake Sale Deadline to December 31, 2026, ETInfra",
-      "url": "https://infra.economictimes.indiatimes.com/amp/news/urban-transportation/lt-extends-hyderabad-metro-stake-sale-timeline-to-december-31/134595937",
-      "source": "infra.economictimes.indiatimes.com",
-      "date": "2026-10-03T08:28:34.400Z",
-      "topic": "Deals",
-      "keyword": "Stake sale",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "L&T extends deadline for Hyderabad Metro stake sale to December 31, 2026.",
-      "sources_count": 7,
       "enriched": true
     },
     {
@@ -103,7 +103,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 10
+      "sources_count": 9
     },
     {
       "id": "n9274f3ff6f31",
