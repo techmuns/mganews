@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:16:01.028Z",
+  "generated_at": "2026-10-04T08:41:12.235Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
@@ -9,23 +9,23 @@
   },
   "items": [
     {
-      "id": "n7669423a2b9d",
+      "id": "n7ed41508c0d8",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "L&T extends Hyderabad Metro stake sale deadline to December 31 - CNBC TV18",
-      "url": "https://www.cnbctv18.com/business/companies/larsen-and-toubro-extends-rs-1461-crore-hyderabad-metro-stake-sale-deadline-to-december-31-for-second-time-20002180.htm",
-      "source": "cnbctv18.com",
-      "date": "2026-10-03T18:07:26.381Z",
+      "title": "L&T Metro Rail Hyderabad Stake Sale: L&T Delays Hyderabad Metro Stake Sale Deadline to December 31, 2026, ETInfra",
+      "url": "https://infra.economictimes.indiatimes.com/amp/news/urban-transportation/lt-extends-hyderabad-metro-stake-sale-timeline-to-december-31/134595937",
+      "source": "infra.economictimes.indiatimes.com",
+      "date": "2026-10-04T08:40:54.988Z",
       "topic": "Deals",
       "keyword": "Stake sale",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 8,
+      "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31, 2026.",
+      "sources_count": 9,
       "enriched": true
     },
     {
@@ -973,6 +973,25 @@
       "enriched": true
     },
     {
+      "id": "n4aa73406eeb5",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India Reports Q1 Earnings Against YoY Base of ₹65.4 Crore",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHBlT1M3cHBaeVJzYUx6Y0dvckF2aXVBX0Y1NmwxYkJKeGZEMFJQeDRqN08tYUE1bXJvQTVFbHNUV0drbjBBT1A0bmlkeDVXVUJyYTRNM2QzNV82eUlQdGNjX28wZDh3Rl9BZGJyZ3daSGVvM0xhUzhDeW9HMzdqbG5hVUlKQW9HWnBYdlRLcWNva2lfWmlXSlRxS3REYzZvQU1PbG5EWWE?oc=5",
+      "source": "Sahi",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Engineers India reports Q1 earnings with year-over-year comparison to ₹65.4 crore base.",
+      "enriched": true
+    },
+    {
       "id": "nc0ed852a53fb",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -1200,25 +1219,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Jayaswal Neco posted March 2026 earnings of ₹1.97 per share with dividend increase.",
-      "enriched": true
-    },
-    {
-      "id": "n0bb2e7e74577",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jayaswal Neco Industries Mar 2026 Earnings: Steady Performance with Revenue at ₹1,974 Crore and EPS of ₹1.97 - Quarterly Profit Report",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0ZydDdjekN4QmdjU1I4MDNZS3RPYXZhaEZaM3ZRLTU5eUVHMU9iZTVnaDdtcDZYTnBuUU1iQ2p3NEoyNDFYSVZYM0N0SFpieG9UXzB2bU1fWF9GY0o5cTVjcTNYUGtxSHpwSVBJVXo0ZUZNMlpTQ2UxQ1drSndIaERmTHdKSVNzR0pnc1MzWGpSbHVxT3Q5UjNpOHVYMmJsakFjeXVpZjhub3dBazZLN1JiLXFXNjB5bUpBemdzd29IQWsteURXTGc3blhRcDR4dURzRDRqaUFHTzVI?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-26T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Jayaswal Neco Industries reports steady March 2026 quarter with revenue of ₹1,974 crore and EPS of ₹1.97.",
       "enriched": true
     }
   ]
