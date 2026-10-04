@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-03T18:16:11.582Z",
+  "generated_at": "2026-10-04T08:47:20.159Z",
   "source": "nse",
   "counts": {
-    "NSE": 112,
+    "NSE": 113,
     "BSE": 0,
-    "total": 112
+    "total": 113
   },
   "items": [
     {
@@ -76,6 +76,16 @@
       "category": "Board Meeting",
       "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Outcome of Board Meeting held on September 28, 2026 relating to the consummation of the transaction contemplated in the share purchase agreement dated May 23, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_28092026204916_Outcome___BM___Bliss_GVS___1_Board_Meeting.pdf"
+    },
+    {
+      "id": "f2fd97c029e53",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-09-25T16:44:30.000Z",
+      "category": "Trading Window",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_25092026164412_Intimation25092026.pdf"
     },
     {
       "id": "f8e0242fbaa2f",
