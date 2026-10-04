@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-04T08:47:20.159Z",
+  "generated_at": "2026-10-04T18:21:53.104Z",
   "source": "nse",
   "counts": {
-    "NSE": 113,
+    "NSE": 111,
     "BSE": 0,
-    "total": 113
+    "total": 111
   },
   "items": [
     {
@@ -1116,26 +1116,6 @@
       "category": "Shareholders meeting",
       "title": "Larsen & Toubro Limited has informed the Exchange regarding Notice of Court Covened General Meeting to be held on August 04, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_27062026191223_LTEGMNOTICEANNEXURES27JUNE2026.pdf"
-    },
-    {
-      "id": "f169c5edbeb15",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T17:43:38.000Z",
-      "category": "Trading Window",
-      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_26062026174312_tradingwindowcl26062026.pdf"
-    },
-    {
-      "id": "fc74e305213b2",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "exchange": "NSE",
-      "date": "2026-06-26T12:08:00.000Z",
-      "category": "Trading Window",
-      "title": "Engineers India Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_26062026120748_WC.pdf"
     }
   ]
 }
