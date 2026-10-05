@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-04T18:26:19.848Z",
-  "source": "google-news+munshot+claude",
+  "generated_at": "2026-10-05T09:31:54.856Z",
+  "source": "google-news+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 63,
+    "watchlist": 65,
     "universe": 0,
-    "total": 63
+    "total": 65
   },
   "items": [
+    {
+      "id": "n5f15d6e3f68f",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Orbital Corporation Secures L&T Order for Three 350HFE Propulsion Systems Including First Gen II Power Management System",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOTJjU1pvcTdONWVfb3RIQXBXU1N6Z0xKekhJQThOWVVhaURZck8zOUNFLUhHN2NVSzMya1VQWTZYSTJ5ZnlYT0NSQTFXeGQ1b3ZLa2N1SVZrNlRnNkZqLXBRUURBVVl3NGtPWTBJVDA4TjFYZEtOMkhzQXpDMllyYlBHY0hRcHZ1bjhNa2JLakZscWdqWXNoRjlITnZpYUM1NlYwTGZSSGhxNC1xa3U3UkotVXB4Mmo3S0MyX2VDZHViSU5OM0xrLTNreXNFZFhuX2ZOZ1FITFBmbnAtd043aFo4ZGJWNDZxbjlqZG9OOTItYUE?oc=5",
+      "source": "Kalkine",
+      "date": "2026-10-04T23:15:03.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Orbital Corporation wins order from L&T for three propulsion systems including new power management system.",
+      "enriched": true
+    },
     {
       "id": "n7669423a2b9d",
       "ticker": "LT",
@@ -25,7 +44,26 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 9,
+      "sources_count": 6,
+      "enriched": true
+    },
+    {
+      "id": "n5cbb32f686cc",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Receives Rs 65.81 Lakh GST Penalty Order, Plans Appeal",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQk56YUhhVjRSQlhQYmVWVzRXQWx3eTRmMXBWQ1Q0REp2cnZQdFZiaXdnWFYtVHd0YmtfXzBTbnctVHZ4UTM5OENPY29GcW1JZGwwRkJLWVVYX2JhTlFXUGVrc2JNWlI0S1dSa1VQeWtFa3J3NjZBRWJSNU5Bd2JxRkpnTHV3Z1RpaVNSY1FwamI1T2pZU0p2ekZ0RlhlZ08zdjRzbENRTUgwTTdDZG8yaXdOMGRSM2ZjM01IS3hvaVFyZTBDR3EwMzI1aHhWQQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-04T03:06:26.000Z",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "Hindustan Oil Exploration hit with Rs 65.81 lakh GST penalty, company to appeal decision.",
       "enriched": true
     },
     {
@@ -103,7 +141,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 9
+      "sources_count": 6
     },
     {
       "id": "n9274f3ff6f31",
@@ -700,7 +738,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 2,
+      "sources_count": 4,
       "enriched": true
     },
     {
