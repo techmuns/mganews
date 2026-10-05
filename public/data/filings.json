@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T09:37:59.002Z",
+  "generated_at": "2026-10-05T21:38:23.157Z",
   "source": "nse",
   "counts": {
-    "NSE": 113,
+    "NSE": 112,
     "BSE": 0,
-    "total": 113
+    "total": 112
   },
   "items": [
     {
@@ -1126,16 +1126,6 @@
       "category": "Trading Window",
       "title": "Bliss GVS Pharma Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_29062026155044_Intimation_of_Closure_of_Trading_Window.pdf"
-    },
-    {
-      "id": "fbd569d19fae3",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-06-27T19:14:31.000Z",
-      "category": "Shareholders meeting",
-      "title": "Larsen & Toubro Limited has informed the Exchange regarding Notice of Court Covened General Meeting to be held on August 04, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_27062026191223_LTEGMNOTICEANNEXURES27JUNE2026.pdf"
     }
   ]
 }
