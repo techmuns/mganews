@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-05T09:31:54.856Z",
-  "source": "google-news+claude",
+  "generated_at": "2026-10-05T21:42:03.146Z",
+  "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 65,
+    "watchlist": 66,
     "universe": 0,
-    "total": 65
+    "total": 66
   },
   "items": [
+    {
+      "id": "n4bde1a109ff6",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro Share Price in Focus; Wins Mega Orders for Power Transmission and Distribution",
+      "url": "https://www.angelone.in/news/stocks/larsen-toubro-share-price-in-focus-wins-mega-orders-for-power-transmission-and-distribution",
+      "source": "angelone.in",
+      "date": "2026-10-05T21:35:10.488Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins large orders for power transmission and distribution projects.",
+      "enriched": true
+    },
     {
       "id": "n5f15d6e3f68f",
       "ticker": "LT",
@@ -44,7 +63,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 6,
+      "sources_count": 7,
       "enriched": true
     },
     {
@@ -141,7 +160,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 6
+      "sources_count": 2
     },
     {
       "id": "n9274f3ff6f31",
@@ -738,7 +757,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
