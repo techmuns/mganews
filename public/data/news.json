@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-10-06T09:17:08.299Z",
+  "generated_at": "2026-10-06T19:45:06.690Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 68,
+    "watchlist": 69,
     "universe": 0,
-    "total": 68
+    "total": 69
   },
   "items": [
+    {
+      "id": "n6b7a41deab95",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Orbital Secures L&T Order for Three Propulsion Systems - idrw.org",
+      "url": "https://idrw.org/orbital-secures-lt-order-for-three-propulsion-systems/",
+      "source": "idrw.org",
+      "date": "2026-10-06T19:44:51.310Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T subsidiary Orbital secured order for three propulsion systems.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nb30ca4869fc3",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Jayaswal Neco promoter group acquires 2.26% warrants via preferential issue",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjdFQzg3U0VXd3R1dHFRSFRST2cyOEpMdlQ1SFhUb3pJd1J5MGxxZl9WbG0tWi1UUWZMcW5kTkVBaU96ZWZGb0RMUjc2eXgtcU91RFB4QklqRnhzUDc5Vzh4Qm5rVmdUVDVVa0JkcGs3YVhrNjNsSG9tSy1LSkxkRVllcVZKTGFldU9neUt6Zm14MkplbkgtU3FGcmRNYnVkMWppbm5aem13SW5Dd0RwcEQxSnczdGs?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-06T11:08:07.000Z",
+      "topic": "Money",
+      "keyword": "Preferential Issue",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Jayaswal Neco promoter group acquired 2.26% warrants through preferential issue.",
+      "enriched": true
+    },
     {
       "id": "n842e0b4cc333",
       "ticker": "LT",
@@ -66,25 +105,6 @@
       "enriched": true
     },
     {
-      "id": "n5f15d6e3f68f",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Orbital Corporation Secures L&T Order for Three 350HFE Propulsion Systems Including First Gen II Power Management System",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPOTJjU1pvcTdONWVfb3RIQXBXU1N6Z0xKekhJQThOWVVhaURZck8zOUNFLUhHN2NVSzMya1VQWTZYSTJ5ZnlYT0NSQTFXeGQ1b3ZLa2N1SVZrNlRnNkZqLXBRUURBVVl3NGtPWTBJVDA4TjFYZEtOMkhzQXpDMllyYlBHY0hRcHZ1bjhNa2JLakZscWdqWXNoRjlITnZpYUM1NlYwTGZSSGhxNC1xa3U3UkotVXB4Mmo3S0MyX2VDZHViSU5OM0xrLTNreXNFZFhuX2ZOZ1FITFBmbnAtd043aFo4ZGJWNDZxbjlqZG9OOTItYUE?oc=5",
-      "source": "Kalkine",
-      "date": "2026-10-04T23:15:03.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "low",
-      "mood": "positive",
-      "takeaway": "Orbital Corporation wins order from L&T for three propulsion systems including new power management system.",
-      "enriched": true
-    },
-    {
       "id": "n7669423a2b9d",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -101,7 +121,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 7,
+      "sources_count": 8,
       "enriched": true
     },
     {
@@ -198,7 +218,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 9
+      "sources_count": 8
     },
     {
       "id": "n9274f3ff6f31",
