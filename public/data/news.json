@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-10-05T21:42:03.146Z",
+  "generated_at": "2026-10-06T09:17:08.299Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 66,
+    "watchlist": 68,
     "universe": 0,
-    "total": 66
+    "total": 68
   },
   "items": [
+    {
+      "id": "n842e0b4cc333",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Secures Power Transmission EPC Orders in India, Saudi Arabia, UAE - News and Statistics - IndexBox",
+      "url": "https://www.indexbox.io/blog/larsen-toubro-wins-epc-orders-in-india-and-gulf-for-power-transmission-projects/",
+      "source": "indexbox.io",
+      "date": "2026-10-06T09:16:52.409Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T won power transmission construction orders in India, Saudi Arabia, and UAE.",
+      "enriched": true
+    },
+    {
+      "id": "nd3d40cdae3ed",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan Promoter Pledges 97.58% of Shares Amidst Group Debt Restructuring | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-Promoter-Pledges-9758percent-of-Shares-Amidst-Group-Debt-Restructuring/6ac480f161666c732ba51672",
+      "source": "whalesbook.com",
+      "date": "2026-10-06T09:16:49.207Z",
+      "topic": "Trouble",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "negative",
+      "takeaway": "Anupam Rasayan promoter pledged 97.58% of shares amid group debt restructuring.",
+      "enriched": true
+    },
     {
       "id": "n4bde1a109ff6",
       "ticker": "LT",
@@ -160,7 +198,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 9
     },
     {
       "id": "n9274f3ff6f31",
@@ -391,7 +429,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured a major ₹4,300 crore order from Dangote Group for a petrochemical project.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -757,7 +795,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -931,6 +969,26 @@
       "importance": "low",
       "mood": "negative",
       "takeaway": "MahaRERA orders L&T to fix leaks and fire safety issues at Parel's Crescent Bay project.",
+      "enriched": true
+    },
+    {
+      "id": "n4884e54b37dd",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2 2026 Earnings: Revenue Grows 10.5% YoY, EPS Steady at ₹12.86 - Upward Estimate Revision",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGx5UUduaHZlWDFISXNDWTUxX3FRWjhCclBKVXJoMHRDbnNIUnRxTEJwM0xkTjJQODlGb0R6M1V0NEdMLXhCRmlsSHl5Mk1PdjFNN0JZVjMwQWNlUHpQS2gyeEs4Tlh2M0dGclBQM0lJbjMzeXVhc0pYX1U2OGt3MTBIQnIwRi03NjMySnZCSXZvVDJkcTJ2QzNKZDlXXzFFMURDeWtxcWVZQXNZZmVZWm10ZkU?oc=5",
+      "source": "siam.in",
+      "date": "2026-09-01T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler Q2 revenue grew 10.5% year-on-year with steady earnings per share.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1219,25 +1277,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Order intake up 20% in FY26 with revenue of ₹3,524 crore.",
-      "enriched": true
-    },
-    {
-      "id": "nfa4ad9f88736",
-      "ticker": "GMMPFAUDLE",
-      "company": "GMM Pfaudler",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q2 2026 Earnings: Steady Revenue Growth Amid Margin Pressures - Estimate Accuracy",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSXBQeXN2aGc4NWxodGxuMFNQRFRPdXdpajBVSXQ4dGdYMkJtal9rZThjUE8zc1ltSkF6UzZoZ3I2cWVKYV85LXB3LUlRX0pibkRYMWpQakFqa0JuUlhxM1N4OHVFTHh2TDJxQWlYMzVYTlhOSUhwcTc3S3VvZXFlRVBKV0pxbEp5RUx3ZUFMTXNudVFLWk53QXFzUlktUVNyTW5OWUpjRGZFcGVKcVpIWkNRd3E5bG8?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-07T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Q2 FY26 showed steady revenue growth but faced margin pressures.",
       "enriched": true
     },
     {
