@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-07T09:15:36.503Z",
+  "generated_at": "2026-10-07T20:06:10.559Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 73,
+    "watchlist": 75,
     "universe": 0,
-    "total": 73
+    "total": 75
   },
   "items": [
+    {
+      "id": "na9e856ee5fb5",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro Bags Major Thermal Power Project Order from DVC CIL | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Larsen-and-Toubro-Bags-Major-Thermal-Power-Project-Order-from-DVC-CIL/6ac5cda9680f2251a2a4102f",
+      "source": "whalesbook.com",
+      "date": "2026-10-07T20:05:53.844Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins major thermal power project order from DVC CIL.",
+      "enriched": true
+    },
     {
       "id": "n2770db033a68",
       "ticker": "LT",
@@ -87,6 +106,25 @@
       "sources_count": 2
     },
     {
+      "id": "na1771a202480",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Secures Initial Approval For 1,600 MW Chandrapura Thermal Power Project In Jharkhand",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcnJvcXh3cG5OMjVMRkdQd05rLUlDWlRzTXp0RGxKaXoyUGwwblpyd2FVSGVzSnl6UWlfd2M5YmUzeGxWVm0yY3pIb1h3cWN5aW95MkI3em1zazJ3emNqRVdvdWNfY1g0cFB0NU1SZDN1RWZPbFYxSkNkQWpBZHZERFJIOG8wVkFKRUNNaUZ2anRaakRtLTlJR1ZZOXRuNnlPNEJvTmp0RHpKNkRYT3JaNWphbF9IcmtXOGdnRUpQellkWUVzd3Q4aXdPTmxHMVp2U2Fn0gHTAUFVX3lxTE1ycm9xeHdwbk4yNUxGR1B3TmstSUNaVHNNenREbEppejJQbDBuWnJ3YVVIZXNKeXpRaV93YzliZTN4bFZWbTJjekhvWHdxY3lpb3kyQjd6bXNrMnd6Y2pFV291Y19jWDRwUHQ1TVJkM3VFZk9sVjFKQ2RBakFkdkREUkg4bzBWQUpFQ01pRnZqdFpqRG0tOUlHVlk5dG42eU80Qm9OanREeko2RFhPclo1amFsX0hya1c4Z2dFSlB6WWRZRXN3dDhpd09ObEcxWnZTYWc?oc=5",
+      "source": "Swarajya",
+      "date": "2026-10-07T08:28:57.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T receives initial approval for 1,600 MW thermal power project in Jharkhand.",
+      "enriched": true
+    },
+    {
       "id": "n76254b433b60",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -103,7 +141,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T Energy CarbonLite Solutions secures major order for 1,600 MW thermal power plant.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n6b7a41deab95",
@@ -199,7 +238,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -296,7 +335,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 9
+      "sources_count": 7
     },
     {
       "id": "n9274f3ff6f31",
@@ -450,6 +489,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India reports order bookings and new initiatives worth tracking.",
+      "enriched": true
+    },
+    {
+      "id": "nf6dbf15ab6f3",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma changes hands with acquisition of 47.95% stake by Anupam Rasayan and Mates Visa",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjR2WVh6akNkX1ozVkZ3YXlHYnRhZjdFVEd2S1hRZ3ZnaHY3OGV5WmhMTXE5MDhReDc2V0F6LUlBSkhVSndxNl9yOEVQSG95ZkE4cjZUTTc4SF8yUnJBcE1nc25CZWJwN0x6SFdsZEFUcENGSTBXUTlaTWUzTlJfUlJMM2FGNERBLW1NaGdhc2pqWkZZLTVDNWRKSGZhZjA1UEgtSGhSSFhsbHhIRHFheHV1X3ByU2RtXy1KMGxudE1nU2d2NTVaLVVXNUs?oc=5",
+      "source": "Business Upturn",
+      "date": "2026-09-28T15:30:57.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan and Mates Visa acquire 47.95% stake in Bliss GVS Pharma.",
       "enriched": true
     },
     {
@@ -893,7 +951,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 2,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -1009,26 +1067,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Bliss GVS Pharma Q1 FY27 profit jumped 83% and revenue grew 21%.",
-      "enriched": true
-    },
-    {
-      "id": "nf1d060993329",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T bags offshore development project order exceeding Rs 15,000 crore from Middle East client - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/lt-bags-offshore-development-project-order-exceeding-rs-15000-crore-from-middle-east-client-larsen-toubro-ltd-share-price/articleshow/133288346.cms",
-      "source": "economictimes.indiatimes.com",
-      "date": "2026-09-08T11:29:22.785Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins offshore development project order worth over Rs 15,000 crore from Middle East client.",
-      "sources_count": 3,
       "enriched": true
     },
     {
