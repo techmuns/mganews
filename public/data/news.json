@@ -1,13 +1,110 @@
 {
-  "generated_at": "2026-10-06T19:45:06.690Z",
+  "generated_at": "2026-10-07T09:15:36.503Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 69,
+    "watchlist": 73,
     "universe": 0,
-    "total": 69
+    "total": 73
   },
   "items": [
+    {
+      "id": "n2770db033a68",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro wins major ultra-supercritical order from Damodar Valley-Coal India JV - Your Gateway to Power Transmission & Distribution",
+      "url": "https://www.tndindia.com/larsen-toubro-wins-major-ultra-supercritical-order-from-damodar-valley-coal-india-jv/",
+      "source": "tndindia.com",
+      "date": "2026-10-07T09:06:56.987Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins major ultra-supercritical thermal power plant order from Damodar Valley-Coal India joint venture.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nafb520d442b5",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T gets initial nod to build main part of 1,600 MW thermal power plant in Jharkhand - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/energy/lt-gets-initial-nod-to-build-main-part-of-1600-mw-thermal-power-plant-in-jharkhand/articleshow/134758724.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-10-07T09:06:56.987Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T receives initial approval to build main part of 1,600 MW thermal power plant in Jharkhand.",
+      "enriched": true
+    },
+    {
+      "id": "n91a9da7917e6",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan expects pharma to contribute one-third of revenue in three years, ETManufacturing",
+      "url": "https://manufacturing.economictimes.indiatimes.com/news/chemicals/anupam-rasayan-expects-pharma-to-contribute-one-third-of-revenue-in-three-years/134759262",
+      "source": "manufacturing.economictimes.indiatimes.com",
+      "date": "2026-10-07T09:06:53.718Z",
+      "topic": "Growth",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan expects pharma segment to contribute one-third of revenue within three years.",
+      "enriched": true
+    },
+    {
+      "id": "n31e5db6bfe49",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan: Promoter ne girvi rakhe 97.58% shares! Debt ke chakkar mein bada risk | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/chemicals/Anupam-Rasayan-Promoter-Pledges-9758percent-of-Shares-Amidst-Group-Debt-Restructuring/6ac480f161666c732ba51672",
+      "source": "whalesbook.com",
+      "date": "2026-10-07T09:06:53.718Z",
+      "topic": "Trouble",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "negative",
+      "takeaway": "Anupam Rasayan promoter pledges 97.58% shares, raising concerns about debt levels and financial risk.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n76254b433b60",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Energy CarbonLite Solutions Secures LNTP for 1,600 MW Thermal Power Plant (Major*) Order",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcUYtYVJlVVNuYTlPOTdzTWROZk15NGJPYlVFcUM1RWR3MGxRTVhDWDZ6SlVPNHN2TlAxbTFBWEFTeXZBaHJ3a2FWUS1VTTE5RE1peGJ6eWJWVXJtSWZsZGVwQ2pRN04zOC1tdDR3T2lKTDdlcjJ6MFdVa1paV0JsZDlGMmdiclNhUmVRUzRmV0lTY05ZbkI3MzN3Qk9iVVhqYTZtZU02QnJGRzJQTW5iMW42X1BjMXlvQjVYX1RRQUQwbEFXSWkxdkxIYXBMWGduOUxibGtZNlhEZWRzQ2w2Rg?oc=5",
+      "source": "Larsen & Toubro",
+      "date": "2026-10-07T06:17:28.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T Energy CarbonLite Solutions secures major order for 1,600 MW thermal power plant.",
+      "enriched": true
+    },
     {
       "id": "n6b7a41deab95",
       "ticker": "LT",
@@ -67,25 +164,6 @@
       "enriched": true
     },
     {
-      "id": "nd3d40cdae3ed",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan Promoter Pledges 97.58% of Shares Amidst Group Debt Restructuring | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-Promoter-Pledges-9758percent-of-Shares-Amidst-Group-Debt-Restructuring/6ac480f161666c732ba51672",
-      "source": "whalesbook.com",
-      "date": "2026-10-06T09:16:49.207Z",
-      "topic": "Trouble",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "negative",
-      "takeaway": "Anupam Rasayan promoter pledged 97.58% of shares amid group debt restructuring.",
-      "enriched": true
-    },
-    {
       "id": "n4bde1a109ff6",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -121,7 +199,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 8,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -218,7 +296,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 8
+      "sources_count": 9
     },
     {
       "id": "n9274f3ff6f31",
@@ -950,7 +1028,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore development project order worth over Rs 15,000 crore from Middle East client.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
