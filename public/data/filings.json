@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T19:49:35.525Z",
+  "generated_at": "2026-10-07T20:09:10.496Z",
   "source": "nse",
   "counts": {
     "NSE": 113,
@@ -7,6 +7,16 @@
     "total": 113
   },
   "items": [
+    {
+      "id": "f99242b395b25",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-10-07T21:29:23.000Z",
+      "category": "Change in Directors",
+      "title": "Larsen & Toubro Limited has informed the Exchange about change in Management",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_07102026212904_IntimationSRMGT07102026.pdf"
+    },
     {
       "id": "ff0393150ed47",
       "ticker": "BLISSGVS",
@@ -1126,16 +1136,6 @@
       "category": "Retirement",
       "title": "Engineers India Limited has informed the Exchange about Retirement",
       "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_01072026095458_Managementreg30.pdf"
-    },
-    {
-      "id": "ff8643a3eb37d",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-06-29T15:50:52.000Z",
-      "category": "Trading Window",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_29062026155044_Intimation_of_Closure_of_Trading_Window.pdf"
     }
   ]
 }
