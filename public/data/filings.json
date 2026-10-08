@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-07T20:09:10.496Z",
+  "generated_at": "2026-10-08T09:27:49.687Z",
   "source": "nse",
   "counts": {
-    "NSE": 113,
+    "NSE": 114,
     "BSE": 0,
-    "total": 113
+    "total": 114
   },
   "items": [
     {
@@ -66,6 +66,16 @@
       "category": "Allotment of Securities",
       "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding allotment of 22439134 warrants pursuant to Preferential Issue at its meeting held on October 01, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_01102026114607_REG30_01102026_ALLOTMENT_OF_SHARES.pdf"
+    },
+    {
+      "id": "fc9c9d798468c",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T16:11:37.000Z",
+      "category": "Trading Window",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_29092026161129_Trading_Window_Closure.pdf"
     },
     {
       "id": "faa71b32d91e6",
