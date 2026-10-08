@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T20:06:10.559Z",
+  "generated_at": "2026-10-08T09:22:07.660Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 75,
+    "watchlist": 74,
     "universe": 0,
-    "total": 75
+    "total": 74
   },
   "items": [
     {
@@ -142,7 +142,7 @@
       "mood": "positive",
       "takeaway": "L&T Energy CarbonLite Solutions secures major order for 1,600 MW thermal power plant.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n6b7a41deab95",
@@ -238,7 +238,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -951,7 +951,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1432,25 +1432,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Deepak Builders and Engineers India wins ₹548.70 crore order.",
-      "enriched": true
-    },
-    {
-      "id": "n9cf5d0bc7694",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jayaswal Neco Industries Limited (JAYNECOIND.NS) Mar 2026 Earnings: Robust Performance with EPS of ₹1.97 - Dividend Increase Stocks",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVU5ZdlBMSUxzaldaZktzSXFYNFhYYU15SHRlaXhvZGhERkhRcVlRNHZ3Zmc1cHlCU2E5SWtZam5RU0hHTVlfMktmYXVVLVQta1FrLURzMUVmVGZGc3Zoakdkd3hKdE9EQVItazRRNjZFb3BqcWhKVjZ0bDBTeHc3b3BoWWpaZjJWdy1uVWh2bkd4cUJjSzlZN0V1Y19yRUlrRGM0NGtuY3JVd2pDNmF0WU1jRzk5MncxM2lpM3FFWDRXTmw0Rlk2elJIZldPUjdkbW5EQ0VR?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-06-30T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Jayaswal Neco posted March 2026 earnings of ₹1.97 per share with dividend increase.",
       "enriched": true
     }
   ]
