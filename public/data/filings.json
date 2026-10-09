@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-08T09:27:49.687Z",
+  "generated_at": "2026-10-09T19:50:07.130Z",
   "source": "nse",
   "counts": {
-    "NSE": 114,
+    "NSE": 113,
     "BSE": 0,
-    "total": 114
+    "total": 113
   },
   "items": [
     {
@@ -1136,16 +1136,6 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "Bliss GVS Pharma Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026130616_Regualtion74_5_30062026.pdf"
-    },
-    {
-      "id": "f6ec0842b22c8",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-01T09:55:13.000Z",
-      "category": "Retirement",
-      "title": "Engineers India Limited has informed the Exchange about Retirement",
-      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_01072026095458_Managementreg30.pdf"
     }
   ]
 }
