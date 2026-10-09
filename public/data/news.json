@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-08T20:03:13.916Z",
+  "generated_at": "2026-10-09T09:29:40.175Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 74,
+    "watchlist": 75,
     "universe": 0,
-    "total": 74
+    "total": 75
   },
   "items": [
+    {
+      "id": "n22ce6e8d3cc7",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Navantia, L&T Renew Partnership for India’s Landing Platform Dock Programme - idrw.org",
+      "url": "https://idrw.org/navantia-lt-renew-partnership-for-indias-landing-platform-dock-programme/",
+      "source": "idrw.org",
+      "date": "2026-10-09T09:29:23.597Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T renews partnership with Navantia for India's Landing Platform Dock Programme.",
+      "enriched": true
+    },
     {
       "id": "na9e856ee5fb5",
       "ticker": "LT",
@@ -951,7 +970,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
