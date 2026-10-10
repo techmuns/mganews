@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T08:50:51.515Z",
+  "generated_at": "2026-10-10T18:53:58.102Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 76,
+    "watchlist": 75,
     "universe": 0,
-    "total": 76
+    "total": 75
   },
   "items": [
     {
@@ -277,7 +277,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -374,7 +374,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 6
+      "sources_count": 2
     },
     {
       "id": "n9274f3ff6f31",
@@ -528,25 +528,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India reports order bookings and new initiatives worth tracking.",
-      "enriched": true
-    },
-    {
-      "id": "nf6dbf15ab6f3",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma changes hands with acquisition of 47.95% stake by Anupam Rasayan and Mates Visa",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNjR2WVh6akNkX1ozVkZ3YXlHYnRhZjdFVEd2S1hRZ3ZnaHY3OGV5WmhMTXE5MDhReDc2V0F6LUlBSkhVSndxNl9yOEVQSG95ZkE4cjZUTTc4SF8yUnJBcE1nc25CZWJwN0x6SFdsZEFUcENGSTBXUTlaTWUzTlJfUlJMM2FGNERBLW1NaGdhc2pqWkZZLTVDNWRKSGZhZjA1UEgtSGhSSFhsbHhIRHFheHV1X3ByU2RtXy1KMGxudE1nU2d2NTVaLVVXNUs?oc=5",
-      "source": "Business Upturn",
-      "date": "2026-09-28T15:30:57.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan and Mates Visa acquire 47.95% stake in Bliss GVS Pharma.",
       "enriched": true
     },
     {
