@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-10-09T19:39:14.688Z",
+  "generated_at": "2026-10-10T08:50:51.515Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 75,
+    "watchlist": 76,
     "universe": 0,
-    "total": 75
+    "total": 76
   },
   "items": [
+    {
+      "id": "ne90114a68cc7",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Avantel NSE:AVANTEL Bags Rs 12.04 Cr Order from L&T | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/announcements/avantel-nseavantel-did-it-win-a-rs-1204-cr-maintenance-order-from-lt",
+      "source": "kalkine.co.in",
+      "date": "2026-10-10T08:50:37.878Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Avantel secured Rs 12.04 crore order from L&T.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n22ce6e8d3cc7",
       "ticker": "LT",
