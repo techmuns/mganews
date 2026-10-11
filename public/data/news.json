@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T18:53:58.102Z",
+  "generated_at": "2026-10-11T09:19:02.122Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 75,
+    "watchlist": 74,
     "universe": 0,
-    "total": 75
+    "total": 74
   },
   "items": [
     {
@@ -277,7 +277,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -1433,25 +1433,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Order intake up 20% in FY26 with revenue of ₹3,524 crore.",
-      "enriched": true
-    },
-    {
-      "id": "n9aaec5bc90ab",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Deepak Builders and Engineers India Share Price After Company Bags Rs 548.70 Cr Order",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVF1QjFIQmRnUktBWUtpV2hwWlBOUkRuNzR0YWtMaU9sRUdLYjFrdjlISlU0U3otUkNwNUx0UWgwb2d4UmtMNDFmZTNxYl9JX3pWNFZlekhMZVVCc2d1MjFac2pab1FOZFR4VTllVldBSzk3c01OSTBfVDg4NDA4N1lEcG1uZ0haN0E2NWpMeG1aS1lqbHBTdUhR?oc=5",
-      "source": "Univest",
-      "date": "2026-07-03T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Deepak Builders and Engineers India wins ₹548.70 crore order.",
       "enriched": true
     }
   ]
