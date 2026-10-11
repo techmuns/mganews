@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-09T19:50:07.130Z",
+  "generated_at": "2026-10-11T19:10:05.896Z",
   "source": "nse",
   "counts": {
-    "NSE": 113,
+    "NSE": 108,
     "BSE": 0,
-    "total": 113
+    "total": 108
   },
   "items": [
     {
@@ -1086,56 +1086,6 @@
       "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "title": "Larsen & Toubro Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_06072026185004_Intimation745June2026.pdf"
-    },
-    {
-      "id": "fa96d469fa5dc",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-03T19:03:51.000Z",
-      "category": "Change in Directors",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Appointment of Mr Santosh Parab as Non- Executive Director of the company w.e.f. July 03, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026190048_BMOutcome_03072026.pdf"
-    },
-    {
-      "id": "fe107fddb7d7d",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-03T19:03:51.000Z",
-      "category": "Change in Directors",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Resignation of Mr Narsimha Shibroor Kamath as Chief Executive Officer of the company w.e.f. July 14, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026190255_BMOutcome_03072026.pdf"
-    },
-    {
-      "id": "f349a7d44147a",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-03T19:03:51.000Z",
-      "category": "Change in Directors",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Appointment of Mr Rahul Adakmol as Chief Executive Officer of the company w.e.f. July 15, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026190148_BMOutcome_03072026.pdf"
-    },
-    {
-      "id": "fca62de98bf94",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-03T18:59:09.000Z",
-      "category": "Board Meeting",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Outcome of Board Meeting held on July 03, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026185834_BMOutcome_03072026.pdf"
-    },
-    {
-      "id": "fd669fa1d7923",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-03T13:06:43.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_03072026130616_Regualtion74_5_30062026.pdf"
     }
   ]
 }
