@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T09:44:26.719Z",
+  "generated_at": "2026-10-12T22:16:01.271Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
@@ -84,7 +84,7 @@
       "mood": "positive",
       "takeaway": "Larsen & Toubro wins major ultra-supercritical order from Damodar Valley-Coal India joint venture.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "nafb520d442b5",
@@ -277,7 +277,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 5,
+      "sources_count": 7,
       "enriched": true
     },
     {
