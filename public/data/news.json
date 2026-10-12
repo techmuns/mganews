@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-11T19:14:19.884Z",
+  "generated_at": "2026-10-12T09:44:26.719Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 75,
+    "watchlist": 74,
     "universe": 0,
-    "total": 75
+    "total": 74
   },
   "items": [
     {
@@ -67,24 +67,24 @@
       "enriched": true
     },
     {
-      "id": "n2770db033a68",
+      "id": "nff584b5add5b",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Larsen & Toubro wins major ultra-supercritical order from Damodar Valley-Coal India JV - Your Gateway to Power Transmission & Distribution",
-      "url": "https://www.tndindia.com/larsen-toubro-wins-major-ultra-supercritical-order-from-damodar-valley-coal-india-jv/",
-      "source": "tndindia.com",
-      "date": "2026-10-07T09:06:56.987Z",
+      "title": "Larsen & Toubro wins major ultra-supercritical order from Damodar Valley-Coal India JV",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON3hWemp5WXRWbmp2RmttbVdtZ3p3bzRpSVpxVXdsRE9aSEVVOFZVaHlFSHFVUVhlOUJlZ3ExV2V0UzNMc1V6QnQyT1VzWGdRUmFkekpiZW9yN0Y0bEk5a0dRVVBzMENjYUplcDFETngtbGN3MWh2VEFUSFluUEhLanB2NXhPa1ZCMUVlNEpteXZVX21WM1FIb3I3SFV1ZGhZeWhNdXNaVWtuNm5LNFJF0gG0AUFVX3lxTE9rUHR3VHNtUFZMemNnbE53eHhyQVc1cV81TWJtd2ZIYXloQi1mdUxpb2lCTTJmWHNhOS1rcUgxYzBLMzhIa1JYcUlaTllERjJrVWlUQ0RSYWxJMjF4dlVoa0tQYjVqYmRpYm1ZWnlmN2NrTGlNQ2NpTW1mTWpuSWVQaFk0MGtkSkZ5MDF5OHIxZW03YXhid1U4Q01TdVFyRGJ2ZXY2LUNLak1xekR5RGh6NmRNQQ?oc=5",
+      "source": "T&D India",
+      "date": "2026-10-07T09:20:29.000Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "high",
       "mood": "positive",
-      "takeaway": "L&T wins major ultra-supercritical thermal power plant order from Damodar Valley-Coal India joint venture.",
-      "sources_count": 2,
-      "enriched": true
+      "takeaway": "Larsen & Toubro wins major ultra-supercritical order from Damodar Valley-Coal India joint venture.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "nafb520d442b5",
@@ -161,25 +161,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T receives initial approval for 1,600 MW thermal power project in Jharkhand.",
-      "enriched": true
-    },
-    {
-      "id": "nc40e4d95bdc8",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T arm bags major order worth up to ₹10,000 crore for thermal power plants in Jharkhand; stock trades lower",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzlqdHVmdkt0MF9wQmJLcWl4ZnI0QjY0a2VERG12UWw4Y2Z3SEYzQUFaNEZMdXpfTk9RMTVQMWZod0ZtemtmZllrM2dKVUhXNkdLQnRUaFlralZqaU9vVXl6TnhWVlplakFGU29ZbUJ4b3p3OFVGYmpFbGZ5Mi1MUndhM1ZsdlpmN3BPeUNqYWFLei1jeE9iZTRoekpRVGdUeEthSlpEWWl5S2NENmw0ZDFRaTA0S2lLV3VGMENQZkhRNDVXOHBZZTJLSEhNb1duMWw4NkVXMFlZdVpsX2ZSWXJ4ZWFvU0J1Y0wybDBpT2IzZ09rRTRGY2F4SzZJQQ?oc=5",
-      "source": "Upstox",
-      "date": "2026-10-07T06:58:46.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T arm wins major order worth up to Rs 10,000 crore for thermal power plants in Jharkhand.",
       "enriched": true
     },
     {
@@ -296,7 +277,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 7,
+      "sources_count": 5,
       "enriched": true
     },
     {
