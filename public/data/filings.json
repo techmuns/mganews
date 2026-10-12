@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-10-11T19:10:05.896Z",
+  "generated_at": "2026-10-12T22:15:52.508Z",
   "source": "nse",
   "counts": {
-    "NSE": 108,
+    "NSE": 109,
     "BSE": 0,
-    "total": 108
+    "total": 109
   },
   "items": [
+    {
+      "id": "fc05432fedb3e",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T18:28:22.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_12102026182810_745COMPLIANCECERT.pdf"
+    },
     {
       "id": "f99242b395b25",
       "ticker": "LT",
