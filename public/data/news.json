@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-12T22:16:01.271Z",
+  "generated_at": "2026-10-13T09:47:14.736Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 74,
+    "watchlist": 75,
     "universe": 0,
-    "total": 74
+    "total": 75
   },
   "items": [
+    {
+      "id": "n707a202a0768",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "E2E Networks director resigns; L&T proposes new nominee",
+      "url": "https://scanx.trade/stock-market-news/companies/e2e-networks-director-resigns-l-t-proposes-new-nominee/53367679",
+      "source": "scanx.trade",
+      "date": "2026-10-13T09:40:21.621Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "E2E Networks director resigns; L&T proposes replacement nominee.",
+      "enriched": true
+    },
     {
       "id": "ne90114a68cc7",
       "ticker": "LT",
@@ -84,7 +103,7 @@
       "mood": "positive",
       "takeaway": "Larsen & Toubro wins major ultra-supercritical order from Damodar Valley-Coal India joint venture.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nafb520d442b5",
