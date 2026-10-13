@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-13T09:47:14.736Z",
-  "source": "google-news+munshot+claude",
+  "generated_at": "2026-10-13T20:19:09.791Z",
+  "source": "google-news+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 75,
+    "watchlist": 76,
     "universe": 0,
-    "total": 75
+    "total": 76
   },
   "items": [
+    {
+      "id": "n9e3408a1fb57",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-13T12:37:20.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO after Allen Andrade resigned.",
+      "enriched": true
+    },
     {
       "id": "n707a202a0768",
       "ticker": "LT",
@@ -393,7 +412,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 4
     },
     {
       "id": "n9274f3ff6f31",
