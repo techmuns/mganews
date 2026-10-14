@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-10-14T08:03:10.874Z",
+  "generated_at": "2026-10-14T18:49:12.279Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 77,
+    "watchlist": 78,
     "universe": 0,
-    "total": 77
+    "total": 78
   },
   "items": [
+    {
+      "id": "n38519685894c",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
+      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
+      "source": "scanx.trade",
+      "date": "2026-10-14T18:48:57.043Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nf6a0692a29c9",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "sector": "Metals & Mining",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Shardul Amarchand Mangaldas & Co. advises Tata Capital Ltd. on INR 540 crore financing for Jayaswal Neco Industries’ 1.50 million tonnes per annum (MnTPA) Straight-Grate Pellet Plant",
+      "url": "https://www.scconline.com/blog/post/2026/10/14/shardul-amarchand-mangaldas-co-advises-tata-capital-ltd-on-inr-540-crore-financing-for-jayaswal-neco-industries-1-50-million-tonnes-per-annum-mntpa-straight-grate-pellet-plant/",
+      "source": "scconline.com",
+      "date": "2026-10-14T18:48:51.781Z",
+      "topic": "Growth",
+      "keyword": "Commissioning",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Jayaswal Neco secures Rs 540 crore financing for 1.5 million tonne pellet plant.",
+      "enriched": true
+    },
     {
       "id": "n81e2b9661adc",
       "ticker": "HINDUSTANO",
@@ -25,25 +64,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hindustan Oil bought Hollong Gas Plant operations from Expro North Sea.",
-      "enriched": true
-    },
-    {
-      "id": "n9e3408a1fb57",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-13T12:37:20.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO after Allen Andrade resigned.",
       "enriched": true
     },
     {
@@ -431,7 +451,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 7
     },
     {
       "id": "n9274f3ff6f31",
@@ -662,7 +682,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured a major ₹4,300 crore order from Dangote Group for a petrochemical project.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
