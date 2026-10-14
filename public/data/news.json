@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-13T20:19:09.791Z",
-  "source": "google-news+claude",
+  "generated_at": "2026-10-14T08:03:10.874Z",
+  "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 76,
+    "watchlist": 77,
     "universe": 0,
-    "total": 76
+    "total": 77
   },
   "items": [
+    {
+      "id": "n81e2b9661adc",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Purchases Hollong Gas Plant Operations From Expro North Sea",
+      "url": "https://www.sahi.com/news/hindustan-oil-exploration-purchases-hollong-gas-plant-operations-from-expro-north-sea",
+      "source": "sahi.com",
+      "date": "2026-10-14T07:56:20.057Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Hindustan Oil bought Hollong Gas Plant operations from Expro North Sea.",
+      "enriched": true
+    },
     {
       "id": "n9e3408a1fb57",
       "ticker": "HINDUSTANO",
@@ -412,7 +431,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 2
     },
     {
       "id": "n9274f3ff6f31",
