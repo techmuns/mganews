@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:15:52.508Z",
+  "generated_at": "2026-10-14T18:53:35.979Z",
   "source": "nse",
   "counts": {
     "NSE": 109,
@@ -7,6 +7,16 @@
     "total": 109
   },
   "items": [
+    {
+      "id": "f2e4bab3527c2",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T18:46:35.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Disclosure Submitted to Stock Exchanges on September 28, 2026 under Regulation 31A(10) of the SEBI Listing Regulations in relation to re-classification from the promoter and promoter group category to the public category. '.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_14102026184622_Disclosure_Reg_30_LODR__NewPromoterGroup.pdf"
+    },
     {
       "id": "fc05432fedb3e",
       "ticker": "JAYNECOIND",
@@ -1086,16 +1096,6 @@
       "category": "Disclosure",
       "title": "Neha Sharma, Ministry of Petroleum & Natural Gas, Section Officer (Oil Refinery) on behalf of President of India has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_02072026114350_50.PDF"
-    },
-    {
-      "id": "f16f897448b63",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-06T18:50:19.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Larsen & Toubro Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_06072026185004_Intimation745June2026.pdf"
     }
   ]
 }
