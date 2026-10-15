@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T18:53:35.979Z",
+  "generated_at": "2026-10-15T07:44:09.322Z",
   "source": "nse",
   "counts": {
-    "NSE": 109,
+    "NSE": 110,
     "BSE": 0,
-    "total": 109
+    "total": 110
   },
   "items": [
     {
@@ -16,6 +16,16 @@
       "category": "Disclosure",
       "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Disclosure Submitted to Stock Exchanges on September 28, 2026 under Regulation 31A(10) of the SEBI Listing Regulations in relation to re-classification from the promoter and promoter group category to the public category. '.",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_14102026184622_Disclosure_Reg_30_LODR__NewPromoterGroup.pdf"
+    },
+    {
+      "id": "fe45be6dc1b36",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-10-12T18:30:27.000Z",
+      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_12102026183004_Intimation745Sep2026.pdf"
     },
     {
       "id": "fc05432fedb3e",
