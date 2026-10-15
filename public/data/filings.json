@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-10-15T07:44:09.322Z",
+  "generated_at": "2026-10-15T18:49:47.101Z",
   "source": "nse",
   "counts": {
-    "NSE": 110,
+    "NSE": 107,
     "BSE": 0,
-    "total": 110
+    "total": 107
   },
   "items": [
+    {
+      "id": "ffab3e6ea729d",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T18:26:37.000Z",
+      "category": "Shareholders meeting",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding the Postal Ballot Notice dated September 28, 2026 (\"Notice\") alongwith the Explanatory Statement for seeking approval of the members of the Company by way of remote e-voting to transact the Special businesses as set out in the Notice",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_15102026182628_Postal_Ballot_15102026.pdf"
+    },
+    {
+      "id": "f7e140711714e",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-15T17:34:49.000Z",
+      "category": "ESOP/ESOS/ESPS",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Allotment of 53500 Shares.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_15102026173441_Outcome_esop.pdf"
+    },
     {
       "id": "f2e4bab3527c2",
       "ticker": "BLISSGVS",
@@ -1056,56 +1076,6 @@
       "category": "Press Release",
       "title": "Larsen & Toubro Limited has informed the Exchange regarding a press release dated July 08, 2026, titled \"L&T Vyoma and Fortanix Partner to Deliver Confidential Computing with NVIDIA Technology\".",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_08072026122809_PressRelease08072026.pdf"
-    },
-    {
-      "id": "fb0d87eab265b",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-07T18:05:35.000Z",
-      "category": "Allotment of Securities",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding allotment of 187750 securities pursuant to ESOP/ESPS at its meeting held on July 07, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_07072026180521_Outcome_of_ESOP_Allotment_Committee.pdf"
-    },
-    {
-      "id": "f9a5b6f6fb783",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-07T15:41:32.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Jayaswal Neco Industries Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_07072026154042_REG74COMPCERT.pdf"
-    },
-    {
-      "id": "f79024ccd1f87",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-07T12:42:11.000Z",
-      "category": "Press Release",
-      "title": "Larsen & Toubro Limited has informed the Exchange regarding a press release dated July 07, 2026, titled \"Larsen & Toubro Secures Moody s Baa1 RatingTwo Notches Above India s Sovereign Grade\".",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_07072026124152_PressRelease07072026.pdf"
-    },
-    {
-      "id": "fe038e2996e03",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-07T12:39:55.000Z",
-      "category": "Credit Rating",
-      "title": "Larsen & Toubro Limited has informed the Exchange about Credit Rating- New",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_07072026123936_PressRelease07072026.pdf"
-    },
-    {
-      "id": "f3435aba82da6",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-07T10:52:18.000Z",
-      "category": "Disclosure",
-      "title": "Neha Sharma, Ministry of Petroleum & Natural Gas, Section Officer (Oil Refinery) on behalf of President of India has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_02072026114350_50.PDF"
     }
   ]
 }
