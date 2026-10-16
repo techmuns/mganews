@@ -1,33 +1,13 @@
 {
-  "generated_at": "2026-10-15T18:36:44.051Z",
+  "generated_at": "2026-10-16T07:27:52.208Z",
   "source": "google-news+munshot+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 79,
+    "watchlist": 80,
     "universe": 0,
-    "total": 79
+    "total": 80
   },
   "items": [
-    {
-      "id": "n38519685894c",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
-      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
-      "source": "scanx.trade",
-      "date": "2026-10-15T18:36:32.343Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
-      "sources_count": 2,
-      "enriched": true
-    },
     {
       "id": "n1b365ce322d8",
       "ticker": "LT",
@@ -102,6 +82,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hindustan Oil bought Hollong Gas Plant operations from Expro North Sea.",
+      "enriched": true
+    },
+    {
+      "id": "n9e3408a1fb57",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-13T12:37:20.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO after Allen Andrade resigns.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -392,7 +392,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 6,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -412,6 +412,25 @@
       "importance": "low",
       "mood": "negative",
       "takeaway": "Hindustan Oil Exploration hit with Rs 65.81 lakh GST penalty, company to appeal decision.",
+      "enriched": true
+    },
+    {
+      "id": "n26cd67937802",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler AGM on Aug 4, 2026; FY26 Revenue ₹3,524 Cr, Order Intake Up 20%",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdXp3VVNrOTkyVXFhanRoVGZBRjhwcXdTb0k2RGZQZ1pqdUlZZGROVzZFR2hxaVJHUks4azl3d05rbjF2Zi1RQ0JBTFlQU1l1dmFxWFgzcm81V1ItME9FaWp3RTZZaU1FSjMtYnJ4OEdPc2dJc3lyUzRPblM3cEFLY3JUQUFhN3d3Zm96SFAwdDJyR09TWTkwTUdpYTM5WWJsVlBnX3FfeDJXaEY2aHJaTS1PRzcwMlhMYTdOaW9QSQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-04T02:15:26.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler reports FY26 revenue of ₹3,524 crore with order intake up 20%.",
       "enriched": true
     },
     {
