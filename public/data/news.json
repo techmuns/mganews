@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-16T07:27:52.208Z",
-  "source": "google-news+munshot+claude",
+  "generated_at": "2026-10-16T18:17:27.558Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
     "watchlist": 80,
@@ -8,6 +8,46 @@
     "total": 80
   },
   "items": [
+    {
+      "id": "n38519685894c",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
+      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
+      "source": "scanx.trade",
+      "date": "2026-10-16T18:17:08.749Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n153a35f80df2",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma seeks shareholder approval for three new directors",
+      "url": "https://scanx.trade/stock-market-news/companies/anupam-rasayan-takes-control-bliss-gvs-pharma-promoters-reclassified/53536386",
+      "source": "scanx.trade",
+      "date": "2026-10-16T18:17:03.241Z",
+      "topic": "Other",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval to appoint three new directors.",
+      "enriched": true,
+      "sources_count": 2
+    },
     {
       "id": "n1b365ce322d8",
       "ticker": "LT",
@@ -82,26 +122,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hindustan Oil bought Hollong Gas Plant operations from Expro North Sea.",
-      "enriched": true
-    },
-    {
-      "id": "n9e3408a1fb57",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-13T12:37:20.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO after Allen Andrade resigns.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -392,7 +412,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -1183,25 +1203,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T merges with its subsidiary L&T Power Development.",
-      "enriched": true
-    },
-    {
-      "id": "n2868533c5cc0",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma seeks shareholder approval for Santosh Parab director role",
-      "url": "https://scanx.trade/stock-market-news/companies/bliss-gvs-pharma-seeks-shareholder-approval-santosh-parab-director/48773527",
-      "source": "scanx.trade",
-      "date": "2026-09-08T11:44:50.754Z",
-      "topic": "Other",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval to appoint Santosh Parab as director.",
       "enriched": true
     },
     {
