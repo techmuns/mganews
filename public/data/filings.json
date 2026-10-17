@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-10-16T18:21:16.219Z",
+  "generated_at": "2026-10-17T17:32:40.609Z",
   "source": "nse",
   "counts": {
-    "NSE": 109,
+    "NSE": 107,
     "BSE": 0,
-    "total": 109
+    "total": 107
   },
   "items": [
+    {
+      "id": "fd13f5ab6c463",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-17T17:53:19.000Z",
+      "category": "Newspaper Publication",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange about Copy of Newspaper Publication of Extracts of Financial Results",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17102026175309_Newspaperpublication17102026.pdf"
+    },
     {
       "id": "f4ffc1c811e58",
       "ticker": "BLISSGVS",
@@ -1066,36 +1076,6 @@
       "category": "Disclosure",
       "title": "Bliss GVS Pharma Limited has Submitted to the Exchange a copy of Disclosure under Regulation 31(4) of the Securities and Exchange Board of India (Substantial Acquisition of Shares and Takeovers) Regulations, 2011.",
       "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_23062026123616_BLISS.pdf"
-    },
-    {
-      "id": "f1c51a68f503b",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T16:17:21.000Z",
-      "category": "Change in Directors",
-      "title": "Jayaswal Neco Industries Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND_ROID_91428_KMP_Doc.zip"
-    },
-    {
-      "id": "f9e6f87b42043",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T15:12:08.000Z",
-      "category": "Change in Directors",
-      "title": "Jayaswal Neco Industries Limited has informed the Exchange about change in Management_Senior Management Personnel",
-      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_09072026151156_REG3009072026.pdf"
-    },
-    {
-      "id": "faa99504891eb",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "exchange": "NSE",
-      "date": "2026-07-09T12:23:19.000Z",
-      "category": "Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "title": "Engineers India Limited has informed the Exchange about Certificate under SEBI (Depositories and Participants) Regulations, 2018",
-      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_09072026122306_Reg74.pdf"
     }
   ]
 }
