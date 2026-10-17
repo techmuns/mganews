@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:17:27.558Z",
+  "generated_at": "2026-10-17T07:08:49.229Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -8,26 +8,6 @@
     "total": 80
   },
   "items": [
-    {
-      "id": "n38519685894c",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
-      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
-      "source": "scanx.trade",
-      "date": "2026-10-16T18:17:08.749Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
-      "sources_count": 2,
-      "enriched": true
-    },
     {
       "id": "n153a35f80df2",
       "ticker": "BLISSGVS",
@@ -47,6 +27,25 @@
       "takeaway": "Bliss GVS Pharma seeks shareholder approval to appoint three new directors.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n465d6bc74825",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma seeks shareholder approval for Santosh Parab director role",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWNITXZmQ2Ytd3ZnRThrV2Q4SklyeGsyb3pKNF9BODMzeURjU3pGRHRWX3V2U2I5dW9EQVhnVWZVV2NkSVlrc2l4SFJfdFM2QUpja0oxLU9hMWhjcDhlUTB6TlhkTmVlaDVlRUVTSVlOQTByVHlnMy1GN2podGhVOEZpdlRxWlE5NFYwa1RtWTAtS2xYdnJFOTREbHFlMjdtNzFSTzVxTFpPYlFSREZCd3I5STc5M0JZVWZfb3l3NEU?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-15T22:53:37.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval to appoint Santosh Parab as director.",
+      "enriched": true
     },
     {
       "id": "n1b365ce322d8",
@@ -122,6 +121,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hindustan Oil bought Hollong Gas Plant operations from Expro North Sea.",
+      "enriched": true
+    },
+    {
+      "id": "n9e3408a1fb57",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-13T12:37:20.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO after Allen Andrade resigned.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -412,7 +431,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 5,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1530,25 +1549,6 @@
       "mood": "positive",
       "takeaway": "Bliss GVS Pharma Q2 2026 revenue grew 14.82% year-on-year with earnings per share at ₹12.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n1b2488472746",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "sector": "Metals & Mining",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Jayaswal Neco Industries accepts Ravi Gudi's resignation effective July 18, 2026",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMUFTU2k4c1NiRmxtWDRENDlaeEhRN09aQW44LWVaY1g2bTM2bzRJSm5uUTJIcXFzVWMzSWFwbkZVYi1JZ19hbTZVYWxjMWRtZmhBeXVUMDc2aXh3R2Y2YURqYW4yeHN3S1M0eU9YT2JnS3p3MlZFVjhJemhxT1d1dXRXU2syZ0tmajFDWGpiYUNhVmpWdTQxcUpWeU03VGFwbEg0QVJiUHVydTd2ZGRDWC1aOA?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-09T07:00:00.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Jayaswal Neco accepts Ravi Gudi's resignation effective July 18, 2026.",
       "enriched": true
     }
   ]
