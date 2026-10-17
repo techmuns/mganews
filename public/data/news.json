@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-10-17T07:08:49.229Z",
+  "generated_at": "2026-10-17T17:28:26.606Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 80,
+    "watchlist": 81,
     "universe": 0,
-    "total": 80
+    "total": 81
   },
   "items": [
+    {
+      "id": "n38519685894c",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
+      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
+      "source": "scanx.trade",
+      "date": "2026-10-17T17:28:05.669Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n79eb036318cd",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "LTM Expands Google Cloud Partnership to Accelerate Gemini Enterprise Adoption | Machine Maker - Latest Manufacturing News | Indian Manufacturing News - Latest Manufacturing News | Indian Manufacturing News - Machine Maker",
+      "url": "https://themachinemaker.com/news/ltm-expands-google-cloud-partnership-to-accelerate-gemini-enterprise-adoption/",
+      "source": "themachinemaker.com",
+      "date": "2026-10-17T17:28:03.243Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "LTM expands Google Cloud partnership to accelerate Gemini Enterprise adoption.",
+      "enriched": true
+    },
     {
       "id": "n153a35f80df2",
       "ticker": "BLISSGVS",
@@ -121,26 +160,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hindustan Oil bought Hollong Gas Plant operations from Expro North Sea.",
-      "enriched": true
-    },
-    {
-      "id": "n9e3408a1fb57",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-13T12:37:20.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO after Allen Andrade resigned.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -431,7 +450,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
