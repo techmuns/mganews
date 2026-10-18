@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-10-18T07:23:00.408Z",
+  "generated_at": "2026-10-18T17:29:13.028Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 81,
+    "watchlist": 84,
     "universe": 0,
-    "total": 81
+    "total": 84
   },
   "items": [
+    {
+      "id": "n38519685894c",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
+      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
+      "source": "scanx.trade",
+      "date": "2026-10-18T17:28:53.680Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ncd59a683e0ac",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan takes control of Bliss GVS in ₹1,750 crore bet on pharma scale-up, ETChemicals",
+      "url": "https://chemicals.economictimes.indiatimes.com/news/pharma-chemicals/anupam-rasayan-takes-control-of-bliss-gvs-in-1750-crore-bet-on-pharma-scale-up/134565803",
+      "source": "chemicals.economictimes.indiatimes.com",
+      "date": "2026-10-18T17:28:48.240Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
+      "enriched": true
+    },
     {
       "id": "n79eb036318cd",
       "ticker": "LT",
@@ -46,6 +85,25 @@
       "takeaway": "Bliss GVS Pharma seeks shareholder approval to appoint three new directors.",
       "enriched": true,
       "sources_count": 2
+    },
+    {
+      "id": "n8253a65ebee9",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Finance Ltd (BOM:533519) (Q2 2027) Earnings Call Highlights: Record Profit of Rs. ...",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0ZRZldtMm9nVzFtMjNDMDdoY2w5dW5qZ1RicUhXZmhreGRnUjZJVmt0MFEzWUVhWms0dVZMU2RMWlBZVVB0NzB6QjBkMk5kb1BWMVh0NG9MMzhaUVdFMEZRel9iMWFkcmU3aDJHNGZlaW9McU5LdU4wY3F0MzYxeXE4Ni1nay1qUEtxOA?oc=5",
+      "source": "Yahoo Finance",
+      "date": "2026-10-16T15:00:50.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T Finance reports record profit in Q2 2027.",
+      "enriched": true
     },
     {
       "id": "n465d6bc74825",
@@ -140,26 +198,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hindustan Oil bought Hollong Gas Plant operations from Expro North Sea.",
-      "enriched": true
-    },
-    {
-      "id": "n9e3408a1fb57",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-13T12:37:20.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "CFO Allen Andrade resigned; Debabrata Das appointed as replacement effective October 16.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -415,6 +453,25 @@
       "enriched": true
     },
     {
+      "id": "nc40e4d95bdc8",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T arm bags major order worth up to ₹10,000 crore for thermal power plants in Jharkhand; stock trades lower",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzlqdHVmdkt0MF9wQmJLcWl4ZnI0QjY0a2VERG12UWw4Y2Z3SEYzQUFaNEZMdXpfTk9RMTVQMWZod0ZtemtmZllrM2dKVUhXNkdLQnRUaFlralZqaU9vVXl6TnhWVlplakFGU29ZbUJ4b3p3OFVGYmpFbGZ5Mi1MUndhM1ZsdlpmN3BPeUNqYWFLei1jeE9iZTRoekpRVGdUeEthSlpEWWl5S2NENmw0ZDFRaTA0S2lLV3VGMENQZkhRNDVXOHBZZTJLSEhNb1duMWw4NkVXMFlZdVpsX2ZSWXJ4ZWFvU0J1Y0wybDBpT2IzZ09rRTRGY2F4SzZJQQ?oc=5",
+      "source": "Upstox",
+      "date": "2026-10-06T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T subsidiary won a major contract worth up to ₹10,000 crore for thermal power plants in Jharkhand.",
+      "enriched": true
+    },
+    {
       "id": "n4bde1a109ff6",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -450,7 +507,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
