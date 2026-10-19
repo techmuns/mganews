@@ -1,32 +1,51 @@
 {
-  "generated_at": "2026-10-18T17:29:13.028Z",
+  "generated_at": "2026-10-19T08:02:09.155Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 84,
+    "watchlist": 86,
     "universe": 0,
-    "total": 84
+    "total": 86
   },
   "items": [
     {
-      "id": "n38519685894c",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
+      "id": "nbe77dd90c74b",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
-      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
-      "source": "scanx.trade",
-      "date": "2026-10-18T17:28:53.680Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
-      "sources_count": 2,
+      "title": "Larsen & Toubro ka jalwa! Tashkent Airport ka ₹15,000 Crore ka mega order bag kiya | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Larsen-and-Toubro-Bags-Ultra-Mega-Tashkent-Airport-EPC-Project-Worth-indian-rupee15000-Crore/6ad5a042b2eb76fd08c62b5c",
+      "source": "whalesbook.com",
+      "date": "2026-10-19T08:01:47.254Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T bags ₹15,000 crore Tashkent Airport project order.",
       "enriched": true
+    },
+    {
+      "id": "n6263e8142735",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro starts Tashkent airport work: INR 4,400 target for Larsen & Toubro stock",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/larsen-und-toubro-starts-tashkent-airport-work-inr-4-400-target-for-larsen-und-toubro-stock/70359377",
+      "source": "ad-hoc-news.de",
+      "date": "2026-10-19T08:01:47.254Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T commences work on Tashkent airport project.",
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "ncd59a683e0ac",
@@ -198,6 +217,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hindustan Oil bought Hollong Gas Plant operations from Expro North Sea.",
+      "enriched": true
+    },
+    {
+      "id": "n9e3408a1fb57",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-13T12:37:20.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "CFO Allen Andrade resigned; Debabrata Das appointed as replacement effective October 16.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -507,7 +546,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 3,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -623,7 +662,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 6
+      "sources_count": 7
     },
     {
       "id": "n9274f3ff6f31",
@@ -854,7 +893,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured a major ₹4,300 crore order from Dangote Group for a petrochemical project.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
