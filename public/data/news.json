@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T08:02:09.155Z",
+  "generated_at": "2026-10-19T20:06:56.602Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -9,22 +9,42 @@
   },
   "items": [
     {
-      "id": "nbe77dd90c74b",
+      "id": "n38519685894c",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
+      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
+      "source": "scanx.trade",
+      "date": "2026-10-19T20:06:36.286Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n7e2e45ce322f",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Larsen & Toubro ka jalwa! Tashkent Airport ka ₹15,000 Crore ka mega order bag kiya | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Larsen-and-Toubro-Bags-Ultra-Mega-Tashkent-Airport-EPC-Project-Worth-indian-rupee15000-Crore/6ad5a042b2eb76fd08c62b5c",
-      "source": "whalesbook.com",
-      "date": "2026-10-19T08:01:47.254Z",
-      "topic": "Orders",
-      "keyword": "Order",
+      "title": "Earnings call transcript: L&T Technology Services posts solid Q2 2026 results",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnMxOG1faUF0MnlZQUYtY3VBb243cGJQMldkSkdTaTdycmtRNnMxTW52VEthR3N0bWhVZENTRHQxRkpXa1hlUnJRaGRrZmllbHR5LWppVkM1VWh1QlNIZDYxblB2Zm9FVzVMZzA0TDdnZnVIWHdxbkxFMU93STExY0FObWJWVFMzenRpYVRnY3F0T1RDNkJ2aHJqal94ZkFIR21LbHVHclc4ejltTGJNR2dvZVNJNjFnWkpTQ09TWXgzVWdqeVdDRGs4bzc1VVZ0Q3c?oc=5",
+      "source": "Investing.com India",
+      "date": "2026-10-19T13:12:14.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
       "importance": "high",
       "mood": "positive",
-      "takeaway": "L&T bags ₹15,000 crore Tashkent Airport project order.",
+      "takeaway": "L&T Technology Services reports solid Q2 2026 results.",
       "enriched": true
     },
     {
@@ -217,26 +237,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Hindustan Oil bought Hollong Gas Plant operations from Expro North Sea.",
-      "enriched": true
-    },
-    {
-      "id": "n9e3408a1fb57",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-13T12:37:20.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "CFO Allen Andrade resigned; Debabrata Das appointed as replacement effective October 16.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -546,7 +546,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 6,
+      "sources_count": 4,
       "enriched": true
     },
     {
