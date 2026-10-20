@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T07:52:09.727Z",
+  "generated_at": "2026-10-20T18:38:25.074Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -546,7 +546,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 6,
+      "sources_count": 7,
       "enriched": true
     },
     {
