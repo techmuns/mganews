@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T20:06:56.602Z",
+  "generated_at": "2026-10-20T07:52:09.727Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 86,
+    "watchlist": 85,
     "universe": 0,
-    "total": 86
+    "total": 85
   },
   "items": [
     {
@@ -546,7 +546,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 4,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -1643,26 +1643,6 @@
       "importance": "low",
       "mood": "negative",
       "takeaway": "Bliss GVS Pharma GM Sachin Saboo resigns effective July 24.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n7c4dcd92ffd1",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "BLISSGVS Q2 2026 Earnings: Strong Revenue Growth of 14.82% YoY; EPS at ₹12.0 - Earnings Miss Streak",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTlAxbzZ5em1DdzM3ZGxCLU0tOEdFUzQ4Q1FWTTNsaEt5bGIyMndBUDU5c3N1WXFhWHN2dkhQZUZZRXBzam8xYlJxaGJpMzFSUkU2X3RndkdCUWZaQWRZQzZlWDFVSml3cXhJaXViREs2YVdtdDNIcjFqOERiWTgxZEpob0lGZWxXaXlsel9QV2VYclRYQzdsalNuTWhXZUZPTG5sUEw3dkw3NUFhRjJuNExR?oc=5",
-      "source": "vinanet.vn",
-      "date": "2026-07-12T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Bliss GVS Pharma Q2 2026 revenue grew 14.82% year-on-year with earnings per share at ₹12.",
       "sources_count": 2,
       "enriched": true
     }
