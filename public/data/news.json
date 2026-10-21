@@ -1,13 +1,71 @@
 {
-  "generated_at": "2026-10-21T07:55:59.138Z",
+  "generated_at": "2026-10-21T18:50:45.384Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 85,
+    "watchlist": 87,
     "universe": 0,
-    "total": 85
+    "total": 87
   },
   "items": [
+    {
+      "id": "n540909a9c31f",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T to build govt buildings in Delhi, AP under ‘large’ order between Rs 2,500-5,000 crores - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/engineering/larsen-toubro-to-build-govt-buildings-in-delhi-ap-under-large-order-between-rs-2500-5000-crores-lt-share-price-central-secretariat-buildings/articleshow/135086204.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-10-21T18:50:23.992Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins large order worth Rs 2,500-5,000 crores to build government buildings in Delhi and Andhra Pradesh.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n5767a9852354",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T bags order for construction work in Amaravati",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXTkdyZXU1bUV1UVZOcEN6VjVvYjBILWlHZWYyMW9rYWVIdmMwa3MyZWhRcTd1cHJiWHdFV3BuamhTUkJOMDl1Ynp4c3pUdmhHSUJubk91ZmFlWkJtRGRrSGlqeldQVjJ4eVlUQnZ0ZWFMUEtyaEFYQ2tSeWM?oc=5",
+      "source": "BigInfo.in",
+      "date": "2026-10-21T18:49:24.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secures construction order for work in Amaravati.",
+      "enriched": true
+    },
+    {
+      "id": "n259b196595c2",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Wins Rs 5,000-Crore Government Buildings Order in Delhi, Amaravati",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOGVvdVBYN3dZR09raDhucFFUNE1yYW9LajRBVktSRXRHV1hEQkhhcVlGcVBsaEJaOU56TDRFLTNUM19LVVZCV1E4eHVQeExJZ2F5NEtKQ1lINmt4UGZHeDFrV0gyR1FIWTYtX0ZqSFJRUXdsbVh5ZG1NanJCQUdqdUxralpBeXZrNGhmdnJQd2k2UnNh?oc=5",
+      "source": "Urban Acres",
+      "date": "2026-10-21T13:20:22.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins Rs 5,000 crore order for government buildings in Delhi and Amaravati.",
+      "enriched": true
+    },
     {
       "id": "n38519685894c",
       "ticker": "HINDUSTANO",
@@ -492,25 +550,6 @@
       "enriched": true
     },
     {
-      "id": "nc40e4d95bdc8",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T arm bags major order worth up to ₹10,000 crore for thermal power plants in Jharkhand; stock trades lower",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzlqdHVmdkt0MF9wQmJLcWl4ZnI0QjY0a2VERG12UWw4Y2Z3SEYzQUFaNEZMdXpfTk9RMTVQMWZod0ZtemtmZllrM2dKVUhXNkdLQnRUaFlralZqaU9vVXl6TnhWVlplakFGU29ZbUJ4b3p3OFVGYmpFbGZ5Mi1MUndhM1ZsdlpmN3BPeUNqYWFLei1jeE9iZTRoekpRVGdUeEthSlpEWWl5S2NENmw0ZDFRaTA0S2lLV3VGMENQZkhRNDVXOHBZZTJLSEhNb1duMWw4NkVXMFlZdVpsX2ZSWXJ4ZWFvU0J1Y0wybDBpT2IzZ09rRTRGY2F4SzZJQQ?oc=5",
-      "source": "Upstox",
-      "date": "2026-10-06T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T subsidiary won a major contract worth up to ₹10,000 crore for thermal power plants in Jharkhand.",
-      "enriched": true
-    },
-    {
       "id": "n4bde1a109ff6",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -546,7 +585,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 6,
+      "sources_count": 3,
       "enriched": true
     },
     {
