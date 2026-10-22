@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T08:01:14.440Z",
+  "generated_at": "2026-10-22T18:44:09.960Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -8,6 +8,26 @@
     "total": 88
   },
   "items": [
+    {
+      "id": "n108c084d1e72",
+      "ticker": "PPEL",
+      "company": "Poojaa Precision Engg. Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Poojaa Precision Engineering: H1 mein dhamaal! Profit **88%** bada, order book hui solid | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Poojaa-Precision-Engg-H1-Profit-Jumps-88percent-Amid-Strong-Order-Book/6ad9f3ecb2eb76fd08c88995",
+      "source": "whalesbook.com",
+      "date": "2026-10-22T18:43:47.794Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Poojaa Precision's profit jumped 88% in H1 with a strong order book.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n540909a9c31f",
       "ticker": "LT",
@@ -547,25 +567,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T won power transmission construction orders in India, Saudi Arabia, and UAE.",
-      "enriched": true
-    },
-    {
-      "id": "nc40e4d95bdc8",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T arm bags major order worth up to ₹10,000 crore for thermal power plants in Jharkhand; stock trades lower",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzlqdHVmdkt0MF9wQmJLcWl4ZnI0QjY0a2VERG12UWw4Y2Z3SEYzQUFaNEZMdXpfTk9RMTVQMWZod0ZtemtmZllrM2dKVUhXNkdLQnRUaFlralZqaU9vVXl6TnhWVlplakFGU29ZbUJ4b3p3OFVGYmpFbGZ5Mi1MUndhM1ZsdlpmN3BPeUNqYWFLei1jeE9iZTRoekpRVGdUeEthSlpEWWl5S2NENmw0ZDFRaTA0S2lLV3VGMENQZkhRNDVXOHBZZTJLSEhNb1duMWw4NkVXMFlZdVpsX2ZSWXJ4ZWFvU0J1Y0wybDBpT2IzZ09rRTRGY2F4SzZJQQ?oc=5",
-      "source": "Upstox",
-      "date": "2026-10-06T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T arm won major order worth up to Rs 10,000 crore for thermal power plants in Jharkhand.",
       "enriched": true
     },
     {
