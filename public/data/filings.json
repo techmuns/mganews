@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-10-18T07:26:59.969Z",
+  "generated_at": "2026-10-22T07:58:06.745Z",
   "source": "nse",
   "counts": {
-    "NSE": 107,
+    "NSE": 108,
     "BSE": 0,
-    "total": 107
+    "total": 108
   },
   "items": [
+    {
+      "id": "f2b4ab718b766",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-22T11:13:50.000Z",
+      "category": "Record Date",
+      "title": "Engineers India Limited has informed the Exchange that Record date for the purpose of Dividend is 05-Nov-2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_22102026111152_priorintimationofrecorddate22102026.pdf"
+    },
     {
       "id": "fd13f5ab6c463",
       "ticker": "JAYNECOIND",
