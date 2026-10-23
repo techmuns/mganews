@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T18:44:09.960Z",
+  "generated_at": "2026-10-23T07:51:45.627Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 88,
+    "watchlist": 90,
     "universe": 0,
-    "total": 88
+    "total": 90
   },
   "items": [
     {
@@ -26,6 +26,25 @@
       "mood": "positive",
       "takeaway": "Poojaa Precision's profit jumped 88% in H1 with a strong order book.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n591238329762",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Technology Services eyes stronger H2FY27 growth after Q2 earnings beat",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQk1KUG9mal9mVXcyM0JSblBPeW5iMVVKQUxnNkx5ODhwbmh5YjR2N0l0WjBnWXhzM1VjMUhVcnpfY3hXSk1RQmROdGl1MGFFQzZVRDNHTy1QY3BaQnZITlJGLWQzRlRRdmVhbmcybVNHREhSMkxZVHFnOGJuTnZJZmcyb05OZ2Z5ZXNHLVVLTld6LXNva1BoZDQ3QkRLQ0lFcFN1N3htVTFUd3U1UEJXbTdDZ2x6SkhKSU9XSEhEMXctYTBzMmNUek5ReW9iaFVYNVkzeUNpWHDSAd4BQVVfeXFMT25pNXFGZlZvWjh2ekFlV3E1R1J6cWt5Tzl4NG92c2pXbGJqVnlMVlFPQnUxd2pWcGdsWnFSTXVwSGtMR1JSUkxDYjdlaFFBZ2lkcWl1S21BUjFvdFJtUGY2ellBQ3hpTnA0VHhVSHZmZzZ4elVCam9pTldfY0I1d0JQdUpMLWZGSm5adVdCTURfZmV6NzAyWmM3cjFpWWsyUjFjdzZvZGhEVzVlODNvY0RfcUhxX29YRHg2dWtadnlmRGNwQmVyeHZaMTFUZ0QwTVNmdElsZno0bEotSXRB?oc=5",
+      "source": "Business Standard",
+      "date": "2026-10-22T17:04:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T Technology Services Q2 earnings exceeded expectations, expects stronger second-half growth.",
       "enriched": true
     },
     {
@@ -162,7 +181,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 4
     },
     {
       "id": "n79eb036318cd",
@@ -570,6 +590,25 @@
       "enriched": true
     },
     {
+      "id": "nc40e4d95bdc8",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T arm bags major order worth up to ₹10,000 crore for thermal power plants in Jharkhand; stock trades lower",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzlqdHVmdkt0MF9wQmJLcWl4ZnI0QjY0a2VERG12UWw4Y2Z3SEYzQUFaNEZMdXpfTk9RMTVQMWZod0ZtemtmZllrM2dKVUhXNkdLQnRUaFlralZqaU9vVXl6TnhWVlplakFGU29ZbUJ4b3p3OFVGYmpFbGZ5Mi1MUndhM1ZsdlpmN3BPeUNqYWFLei1jeE9iZTRoekpRVGdUeEthSlpEWWl5S2NENmw0ZDFRaTA0S2lLV3VGMENQZkhRNDVXOHBZZTJLSEhNb1duMWw4NkVXMFlZdVpsX2ZSWXJ4ZWFvU0J1Y0wybDBpT2IzZ09rRTRGY2F4SzZJQQ?oc=5",
+      "source": "Upstox",
+      "date": "2026-10-06T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T subsidiary won major order worth up to Rs 10,000 crore for thermal power plants in Jharkhand.",
+      "enriched": true
+    },
+    {
       "id": "n4bde1a109ff6",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -721,7 +760,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 7
+      "sources_count": 3
     },
     {
       "id": "n9274f3ff6f31",
