@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-23T07:51:45.627Z",
+  "generated_at": "2026-10-23T18:38:06.978Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 90,
+    "watchlist": 89,
     "universe": 0,
-    "total": 90
+    "total": 89
   },
   "items": [
     {
-      "id": "n108c084d1e72",
+      "id": "ndb6df0d7cc44",
       "ticker": "PPEL",
       "company": "Poojaa Precision Engg. Limited",
       "sector": "Automobile and Auto Components",
       "scope": [
         "watchlist"
       ],
-      "title": "Poojaa Precision Engineering: H1 mein dhamaal! Profit **88%** bada, order book hui solid | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Poojaa-Precision-Engg-H1-Profit-Jumps-88percent-Amid-Strong-Order-Book/6ad9f3ecb2eb76fd08c88995",
+      "title": "Poojaa Precision Engg. ke H1 Results: Profit mein **88%** ka dhamaka, order book **₹1,180 Cr** ke paar | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Poojaa-Precision-Engg-H1-Profit-Jumps-88percent-to-Rs-2493-Crore/6ad9d5cfb2eb76fd08c8548d",
       "source": "whalesbook.com",
-      "date": "2026-10-22T18:43:47.794Z",
+      "date": "2026-10-23T18:37:43.751Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Poojaa Precision's profit jumped 88% in H1 with a strong order book.",
+      "takeaway": "Poojaa Precision reported 88% profit jump in H1 with order book crossing ₹1,180 crore.",
       "sources_count": 2,
       "enriched": true
     },
@@ -590,25 +590,6 @@
       "enriched": true
     },
     {
-      "id": "nc40e4d95bdc8",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T arm bags major order worth up to ₹10,000 crore for thermal power plants in Jharkhand; stock trades lower",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYzlqdHVmdkt0MF9wQmJLcWl4ZnI0QjY0a2VERG12UWw4Y2Z3SEYzQUFaNEZMdXpfTk9RMTVQMWZod0ZtemtmZllrM2dKVUhXNkdLQnRUaFlralZqaU9vVXl6TnhWVlplakFGU29ZbUJ4b3p3OFVGYmpFbGZ5Mi1MUndhM1ZsdlpmN3BPeUNqYWFLei1jeE9iZTRoekpRVGdUeEthSlpEWWl5S2NENmw0ZDFRaTA0S2lLV3VGMENQZkhRNDVXOHBZZTJLSEhNb1duMWw4NkVXMFlZdVpsX2ZSWXJ4ZWFvU0J1Y0wybDBpT2IzZ09rRTRGY2F4SzZJQQ?oc=5",
-      "source": "Upstox",
-      "date": "2026-10-06T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T subsidiary won major order worth up to Rs 10,000 crore for thermal power plants in Jharkhand.",
-      "enriched": true
-    },
-    {
       "id": "n4bde1a109ff6",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -760,7 +741,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 7
     },
     {
       "id": "n9274f3ff6f31",
