@@ -1,30 +1,49 @@
 {
-  "generated_at": "2026-10-23T18:38:06.978Z",
+  "generated_at": "2026-10-24T07:41:07.503Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 89,
+    "watchlist": 90,
     "universe": 0,
-    "total": 89
+    "total": 90
   },
   "items": [
     {
-      "id": "ndb6df0d7cc44",
+      "id": "n6b1b2e6e5b8a",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Wins Rs. 50 bn Orders for Delhi Secretariat and Amaravati Towers",
+      "url": "https://www.constructionworld.in/latest-construction-news/real-estate-news/lt-wins-rs.-50-bn-orders-for-delhi-secretariat-and-amaravati-towers/99284",
+      "source": "constructionworld.in",
+      "date": "2026-10-24T07:32:29.884Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secured orders worth Rs 5,000 crore for Delhi Secretariat and Amaravati Towers projects.",
+      "enriched": true
+    },
+    {
+      "id": "n108c084d1e72",
       "ticker": "PPEL",
       "company": "Poojaa Precision Engg. Limited",
       "sector": "Automobile and Auto Components",
       "scope": [
         "watchlist"
       ],
-      "title": "Poojaa Precision Engg. ke H1 Results: Profit mein **88%** ka dhamaka, order book **₹1,180 Cr** ke paar | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Poojaa-Precision-Engg-H1-Profit-Jumps-88percent-to-Rs-2493-Crore/6ad9d5cfb2eb76fd08c8548d",
+      "title": "Poojaa Precision Engineering: H1 mein dhamaal! Profit **88%** bada, order book hui solid | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Poojaa-Precision-Engg-H1-Profit-Jumps-88percent-Amid-Strong-Order-Book/6ad9f3ecb2eb76fd08c88995",
       "source": "whalesbook.com",
-      "date": "2026-10-23T18:37:43.751Z",
-      "topic": "Orders",
+      "date": "2026-10-24T07:32:26.754Z",
+      "topic": "Money",
       "keyword": "Order",
       "importance": "medium",
       "mood": "positive",
-      "takeaway": "Poojaa Precision reported 88% profit jump in H1 with order book crossing ₹1,180 crore.",
+      "takeaway": "Poojaa Precision reported 88% profit growth in H1 with a strong order book.",
       "sources_count": 2,
       "enriched": true
     },
@@ -1338,7 +1357,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
