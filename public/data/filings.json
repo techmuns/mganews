@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-23T18:43:15.388Z",
+  "generated_at": "2026-10-24T07:37:07.716Z",
   "source": "nse",
   "counts": {
-    "NSE": 107,
+    "NSE": 105,
     "BSE": 0,
-    "total": 107
+    "total": 105
   },
   "items": [
     {
@@ -1056,26 +1056,6 @@
       "category": "Board Meeting",
       "title": "Jayaswal Neco Industries Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17072026155234_Outcome17072026.pdf"
-    },
-    {
-      "id": "f5b3f14b50e8d",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T18:51:59.000Z",
-      "category": "Shareholders meeting",
-      "title": "Bliss GVS Pharma Limited has submitted the Exchange a copy Srutinizers report of Annual General Meeting held on July 15, 2026. Further, the company has informed the Exchange regarding voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_15072026185145_AGM_VR_ScrutinizerReport_15072026.pdf"
-    },
-    {
-      "id": "f28e055bc9467",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-15T18:47:35.000Z",
-      "category": "Shareholders meeting",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Proceedings of Annual General Meeting held on July 15, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_15072026184720_Proceedings_of_41st_AGM_15072026_signed.pdf"
     }
   ]
 }
