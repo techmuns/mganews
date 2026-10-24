@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-24T07:41:07.503Z",
+  "generated_at": "2026-10-24T17:40:35.013Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 90,
+    "watchlist": 91,
     "universe": 0,
-    "total": 90
+    "total": 91
   },
   "items": [
+    {
+      "id": "ndb6df0d7cc44",
+      "ticker": "PPEL",
+      "company": "Poojaa Precision Engg. Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Poojaa Precision Engg. ke H1 Results: Profit mein **88%** ka dhamaka, order book **₹1,180 Cr** ke paar | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/Hinglish/industrial-goodsservices/Poojaa-Precision-Engg-H1-Profit-Jumps-88percent-to-Rs-2493-Crore/6ad9d5cfb2eb76fd08c8548d",
+      "source": "whalesbook.com",
+      "date": "2026-10-24T17:31:58.351Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Poojaa Precision reported 88% profit jump in H1 with order book crossing ₹1,180 crore.",
+      "enriched": true
+    },
     {
       "id": "n6b1b2e6e5b8a",
       "ticker": "LT",
@@ -1357,7 +1376,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
