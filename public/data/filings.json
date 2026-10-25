@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-24T07:37:07.716Z",
+  "generated_at": "2026-10-25T17:51:29.988Z",
   "source": "nse",
   "counts": {
-    "NSE": 105,
+    "NSE": 101,
     "BSE": 0,
-    "total": 105
+    "total": 101
   },
   "items": [
     {
@@ -1016,46 +1016,6 @@
       "category": "Disclosure",
       "title": "Bliss GVS Pharma Limited has informed the Exchange about Addendum to Public Announcement and Detailed Public Statement for the Open Offer made by Anupam Rasayan Limited, the acquirer for the addition of PAC.",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_19072026204637_Addendum_Submission__Bliss_GVS___Open_Offer.pdf"
-    },
-    {
-      "id": "f59abbd1ead18",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T16:35:09.000Z",
-      "category": "Change in Auditors",
-      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding Change in Auditors of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17072026163433_Outcome17072026.pdf"
-    },
-    {
-      "id": "f0ab358521087",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T16:21:40.000Z",
-      "category": "Disclosure",
-      "title": "Jayaswal Neco Industries Limited has informed the Exchange about General Updates : Intimation of convening of Annual General Meeting on Saturday, 12 th September 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17072026162128_Outcome17072026.pdf"
-    },
-    {
-      "id": "fc06625103d55",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T16:12:52.000Z",
-      "category": "Press Release",
-      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding a press release dated July 17, 2026, titled \"Press Release on Unaudited Financial Results for the quarter ended 30th June,2026\".",
-      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17072026161241_Presssrelease30062026.pdf"
-    },
-    {
-      "id": "f202aae607857",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-07-17T15:53:56.000Z",
-      "category": "Board Meeting",
-      "title": "Jayaswal Neco Industries Limited has submitted to the Exchange, the financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_17072026155234_Outcome17072026.pdf"
     }
   ]
 }
