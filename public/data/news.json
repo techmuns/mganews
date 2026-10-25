@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-25T07:54:17.974Z",
+  "generated_at": "2026-10-25T17:46:53.145Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 91,
+    "watchlist": 92,
     "universe": 0,
-    "total": 91
+    "total": 92
   },
   "items": [
+    {
+      "id": "n43850e8bd3a7",
+      "ticker": "PPEL",
+      "company": "Poojaa Precision Engg. Limited",
+      "sector": "Automobile and Auto Components",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Poojaa Precision Engg. to host virtual investor meet on Oct 1, 2026",
+      "url": "https://scanx.trade/stock-market-news/companies/poojaa-precision-engg-host-virtual-investor-meet-oct-1-2026/52228100",
+      "source": "scanx.trade",
+      "date": "2026-10-25T17:46:31.049Z",
+      "topic": "Other",
+      "keyword": "Corporate Governance",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Poojaa Precision hosting virtual investor meet on October 1, 2026.",
+      "enriched": true
+    },
     {
       "id": "ndb6df0d7cc44",
       "ticker": "PPEL",
@@ -663,7 +682,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 4,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1010,7 +1029,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured a major ₹4,300 crore order from Dangote Group for a petrochemical project.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1376,7 +1395,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
