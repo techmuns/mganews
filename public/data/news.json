@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T17:40:35.013Z",
+  "generated_at": "2026-10-25T07:54:17.974Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -663,7 +663,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 3,
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1376,7 +1376,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
