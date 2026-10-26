@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-10-25T17:46:53.145Z",
+  "generated_at": "2026-10-26T08:03:22.866Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 92,
+    "watchlist": 93,
     "universe": 0,
-    "total": 92
+    "total": 93
   },
   "items": [
+    {
+      "id": "n458e505cba87",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Nokia and L&T Technology Services ink strategic 5-year R&D partnership | Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4657018-nokia-and-lt-technology-services-ink-strategic-5-year-rd-partnership-in-india",
+      "source": "seekingalpha.com",
+      "date": "2026-10-26T08:03:03.027Z",
+      "topic": "Deals",
+      "keyword": "Partnership",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T Technology Services signed a 5-year R&D partnership with Nokia.",
+      "enriched": true
+    },
     {
       "id": "n43850e8bd3a7",
       "ticker": "PPEL",
@@ -682,7 +701,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
