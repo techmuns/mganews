@@ -1,13 +1,51 @@
 {
-  "generated_at": "2026-10-26T08:03:22.866Z",
+  "generated_at": "2026-10-26T20:05:43.866Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 93,
+    "watchlist": 96,
     "universe": 0,
-    "total": 93
+    "total": 96
   },
   "items": [
+    {
+      "id": "n95167618caad",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "LTTS Q2 FY27: Profitability Goal Met Early, SWC Exit Done | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/earnings/lt-technology-services-nse-ltts-q2-fy27-profitability-goal-reached-early-as-swc-exit-concludes",
+      "source": "kalkine.co.in",
+      "date": "2026-10-26T20:05:14.473Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T Technology Services hit profitability target early and completed SWC exit in Q2 FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n122d3181197c",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Indian Army to get 335 more K-9 Vajra howitzers for deployment along China, Pak borders&#160;",
+      "url": "https://www.aninews.in/news/national/general-news/indian-army-to-get-335-more-k-9-vajra-howitzers-for-deployment-along-china-pak-borders16020261026214555/",
+      "source": "aninews.in",
+      "date": "2026-10-26T20:05:14.473Z",
+      "topic": "Orders",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Indian Army to procure 335 additional K-9 Vajra howitzers for China and Pakistan border deployment.",
+      "enriched": true
+    },
     {
       "id": "n458e505cba87",
       "ticker": "LT",
@@ -1262,6 +1300,25 @@
       "enriched": true
     },
     {
+      "id": "nf2376a1b127f",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2 2026 Earnings: Revenue Tops ₹3,509 Crore as Margins Hold Firm - Revenue Beat Analysis",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGNBOTd4T0JDdkVwRW5RMUFKQmFzanowLTlTbTh1SmQ1dGt5QjR5SXQ2VmZLWi0zRTZlUURLUGVPT0hVZkJZMjJOOEJLSThYSEM4WEhGMURMbTVKLUpXVER5VlRJYTNnUDV2VE9mam9pVTV4MzVuUlNPU2VhU055VGQ5TlZiUExDX1RGN1J6SFpxcUZ5UnlhVW5UcFQxcXJ1Z2UwMTMzQ3ZIWll4dDBZNENVMUtSSlU?oc=5",
+      "source": "https://www.siam.in/",
+      "date": "2026-09-17T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler Q2 revenue reached ₹3,509 crore with stable margins.",
+      "enriched": true
+    },
+    {
       "id": "n8e2064b94ee3",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -1414,7 +1471,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
