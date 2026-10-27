@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-10-25T17:51:29.988Z",
+  "generated_at": "2026-10-27T08:23:19.594Z",
   "source": "nse",
   "counts": {
-    "NSE": 101,
+    "NSE": 102,
     "BSE": 0,
-    "total": 101
+    "total": 102
   },
   "items": [
+    {
+      "id": "f136c872bf8aa",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T13:29:18.000Z",
+      "category": "Allotment of Securities",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding allotment of 21098 securities pursuant to ESOP/ESPS at its meeting held on October 27, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_27102026132854_ESOPAllotment27102026.pdf"
+    },
     {
       "id": "f2b4ab718b766",
       "ticker": "ENGINERSIN",
