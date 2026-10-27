@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-10-26T20:05:43.866Z",
+  "generated_at": "2026-10-27T08:20:48.686Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 96,
+    "watchlist": 97,
     "universe": 0,
-    "total": 96
+    "total": 97
   },
   "items": [
     {
-      "id": "n95167618caad",
+      "id": "n00f84516c1d0",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "LTTS Q2 FY27: Profitability Goal Met Early, SWC Exit Done | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/earnings/lt-technology-services-nse-ltts-q2-fy27-profitability-goal-reached-early-as-swc-exit-concludes",
-      "source": "kalkine.co.in",
-      "date": "2026-10-26T20:05:14.473Z",
-      "topic": "Money",
+      "title": "L&T bags Dhaka Metro order worth up to ₹10,000 crore; here’s how stock is faring ahead of Q2 earnings",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWW1LcGNzcHZScURmMzhkLU50Nmg5UmFmbkhiYl9fdngta05SZnVvOHA4R05TdXZLcFVKdE1FM1dBRFV4bWVmc1NlbUdrRlluLW11MVAtRDZkTXhIc0pfTHZHWDVGa0lkcFVJLUd0T2ptbFQ0M25GcFpCTjRIeWZwcEljSmJHTWxlVFotcG9HWmlidWVmVFM1Ml9qZ3h3b0JURTdwSjN4NlNmY1A0UmJNaFpyVmlNRE9Zb3gwR2lNQzFVRWZBRmE5MzBRT3EzbXNkbE40NGppbzlCeWdYRjYybG14UlRodUxnanVCR21vcEwzT1lx?oc=5",
+      "source": "Upstox",
+      "date": "2026-10-27T06:10:51.000Z",
+      "topic": "Orders",
       "keyword": "Earnings",
-      "importance": "medium",
+      "importance": "high",
       "mood": "positive",
-      "takeaway": "L&T Technology Services hit profitability target early and completed SWC exit in Q2 FY27.",
+      "takeaway": "L&T won Dhaka Metro contract worth up to ₹10,000 crore.",
       "enriched": true
     },
     {
@@ -47,6 +47,25 @@
       "enriched": true
     },
     {
+      "id": "n95167618caad",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "LTTS Q2 FY27: Profitability Goal Met Early, SWC Exit Done | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/earnings/lt-technology-services-nse-ltts-q2-fy27-profitability-goal-reached-early-as-swc-exit-concludes",
+      "source": "kalkine.co.in",
+      "date": "2026-10-26T20:05:14.473Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T Technology Services hit profitability target early and completed SWC exit in Q2 FY27.",
+      "enriched": true
+    },
+    {
       "id": "n458e505cba87",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -63,7 +82,8 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T Technology Services signed a 5-year R&D partnership with Nokia.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n43850e8bd3a7",
@@ -1471,7 +1491,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
