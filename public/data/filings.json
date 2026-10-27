@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-10-27T08:23:19.594Z",
+  "generated_at": "2026-10-27T19:38:14.612Z",
   "source": "nse",
   "counts": {
-    "NSE": 102,
+    "NSE": 104,
     "BSE": 0,
-    "total": 102
+    "total": 104
   },
   "items": [
+    {
+      "id": "f3ff761465a52",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T18:37:19.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding 'Analyst Presentation.- Q2 / H1 FY27'.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_27102026183653_AnalystPresentationSep2026.pdf"
+    },
+    {
+      "id": "ff7fec21c124c",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T17:13:09.000Z",
+      "category": "Board Meeting",
+      "title": "Larsen & Toubro Limited has submitted to the Exchange, the consolidated and standalone un-audited financial results of the Company for the quarter and half-year ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_27102026171156_LTSep2026.pdf"
+    },
     {
       "id": "f136c872bf8aa",
       "ticker": "LT",
