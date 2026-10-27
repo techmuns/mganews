@@ -1,13 +1,146 @@
 {
-  "generated_at": "2026-10-27T08:20:48.686Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-10-27T19:34:41.491Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 97,
+    "watchlist": 104,
     "universe": 0,
-    "total": 97
+    "total": 104
   },
   "items": [
+    {
+      "id": "n67c4cd79c1c7",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro Limited 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:LTOUF) 2026-10-27",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbENzOEJ3bEN4SGtuTGVuZkRnR3BNaElna2tZQkhoTUM2WjJYb0g5Skh1dG5tUW55VmFvc3RyUlpYc05GS3VBUDUyTnB4MFBockw0S3FlT2FBT3hpaFV4V1dTX2NpZXhQTHVtcXhoSElHSlMxMERTdFZLWWlEQUlxTGJLeF83Q1ljR3VwM0YzbEdFUFdRXy0xc3pfaElCRVQ1VEZQOU11RGNaZGNGd1E?oc=5",
+      "source": "Seeking Alpha",
+      "date": "2026-10-27T18:54:44.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T released Q2 FY2027 earnings presentation.",
+      "enriched": true
+    },
+    {
+      "id": "n6addad407ad8",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Order Intake Hits Record ₹1.47 Lakh Crore in Q2",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOXzNwc3VnUlpxWUpkaG1HTjZWalJ6UUVfZVZTM3otRG9QTWJ1dk1jNFdFZURGTm5GRzNPb0poYVFoczdzcG9tcTNXWHdrM04xUmFzNm5WWEJSdy1zVEIxb1VFM1VNRHJqVTA4ZHJ2SXdidEVvZ2R6dXBVV3lidUZsLXdpdHRjekZQMFBBbDNKeThqMV9OUEN3Z2Qwdw?oc=5",
+      "source": "urbanacres.in",
+      "date": "2026-10-27T18:39:43.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secured record order intake of ₹1.47 lakh crore in Q2.",
+      "enriched": true
+    },
+    {
+      "id": "neef51100d8d4",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Q2 profit grows 33% to ₹5,202 crore, sees record order intake",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0UtQ3d6VlBMMVBWQjVfNEpJb1dsSmZHVEhtZFZYRUxSVGdxVWtkeTdiT3libFVPU25UWjAxZjF6eTBYYjZQNkowLVhGellxYkNOQ2x0dXQ5VlNlSUg3bjF2TjFvZHUzMm9hOUs2ZHNpN0t4V1l2SFJ2Tklocm92Vnl6aHZQcUlKVzRheFU0VHJKeE1NVXBOUmdmVUx3YXlYWkpKN0U2UFQ5NE10Mm5YaDVoVnlabTAybFNqeTZha0h6WWdGUnfSAcwBQVVfeXFMTTl5eGpFamdMN0pVVXFmVHgxQWszWWluaXFlNk5xNU0wMXM3M0cyMkdmTFhmZTJzMjMyek9ZczdiVjVUc2pmdDRiRjVSZGdXRkEtZWd5cXFMdVNNSk15VngzLUQtRDRZa3hxc2pJUzJWNF9oeXNiSnhYRFlVUDBYZ2hLZEMzYnRnRzI5LV9QdVVjZEpTQnR4VkFZNFE1TUhyT1NER1VHSFBFOHZSTmh5bUFaUlhERGI0QVBGbmNteHVmbjlaYVBRdlowQXU0?oc=5",
+      "source": "BusinessLine",
+      "date": "2026-10-27T15:26:04.000Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T Q2 profit jumped 33% to ₹5,202 crore with record order intake.",
+      "enriched": true
+    },
+    {
+      "id": "n919ce143ac8b",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T's Mega Quarter: Highest-Ever Q2 Inflows Drives Order Book To Record Rs 8.5 Lakh Crore; Guidance Intact",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPODNaNXBrT3RIMlBydVotU1dxZ2hyc19TNnJaakRaSDZyRDVEcVdHT2RIc0luNlNrSmN1SUZpZTM4TzRjcVh3OU84YlBVcWpUQlgtcVEzU2dSbTRYcDlTQ2JhT3h0aUFMamZQaW1NSGQwTmRfZUVaSW9YX2dDQlFBQlExZG5lQ3BGWUljdVRXc1hhbGxyclZVcjMxbV9aWW9INmlMTWx1YVp3UGw4alFUalg0VHBtdXNTNmVtdEVUWEd2eE55cFJrcHdVRnRtNTNqWlFYdENpNnlmOTZ5NFNwWdIB6AFBVV95cUxOV2VRcGo1aE5xY0d0MmYyeHZjaXVQcmRxQ2NVZ1FRalFJYTd0RlpkMVdlX2RRcGpQdktXeC1oLUFqOHI4dm9RY1F6SUdzNjJTUF9wOTd6eWxuWDRUQkNhTm45ZVJIYlJaQ2g5QWl5Ym16dGEwTWpqbmVhSENDSzh3YW55Z3ZmUzhTd25lblNYUGxseWdEM0s0dlF2R0p5ZlEyUUJLU3hqWVNjczF0OS1fUjZFeW03TnNISG1fek1WREZNVVZzNjZ6V3NielZjOHVQUnBZNjdkQzV2aHBCQ2o0OWhVMkZaQzFN?oc=5",
+      "source": "NDTV Profit",
+      "date": "2026-10-27T15:10:22.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T's order book reached record ₹8.5 lakh crore with highest-ever Q2 inflows.",
+      "enriched": true
+    },
+    {
+      "id": "nb30d2ac3bec1",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Secures ₹5,000–10,000 Cr Order And Reports ₹787.5B Q2 Revenue",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmhiRl9rb0F1U1NYb0JuVUJKTElvZTFoNW41a1U2U09JeF9GamlHNWhhME1STVZxMWpqR1MyWl80NTlaRnluNVJBNXZxb1lMZG9VZmhGcGdNbXV6cUNIamEtaVdKWi0wcXFTemVCeXBOUmZySVVSbWQzRTNHcHdVU3MwS3plZ1lWcVlodFlXTFBGOWpDeGlB?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-27T14:40:31.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T won ₹5,000-10,000 crore order and posted ₹787.5 billion Q2 revenue.",
+      "enriched": true
+    },
+    {
+      "id": "ncd255561cff5",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Q2 profit up 33% on healthy order inflow despite Iran war",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR0dnYXd0bHFiNjhFWTJnekRKY2ZEWjFsOWZlVDFiNDFndzk4WXNBZTBkaS1UanFlOHY5MDhxZm5fNVBxS2RGeFJ0YzBWbGhiN1o1ajdleTR1ZWVoaDVnRDNwVWx2MFB0VzBUZ1NPMnJUQUNnaHdOUm1RTWNCZUVIRGNjWVd3THhhaHdKRnB5ZGNSZnIyNW15QkdqcXJYNGFS0gGmAUFVX3lxTE5ybThVdkZnMHVLQlNlYUJCaU11WHc2TGRwamdBU0ZETDNVRVJUbUFSdUs0Z1U1eHJjaU53ZDZZSUJGVFZfbjg4LWQxNWtxNWxqck5VNm91UVRlU2JzRG5EdG1jZEk4YU10V0cwTlhPNDBXQzBGWDBGdjFWaU1lSWNTQTRqVzhEcXZUdTNLR3FUdG8tb0gxajJoMjg5dEFxaGYtTTVRZ1E?oc=5",
+      "source": "Livemint",
+      "date": "2026-10-27T13:26:45.000Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T Q2 profit rose 33% driven by strong order inflow.",
+      "enriched": true
+    },
+    {
+      "id": "n4b0b7c032065",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Q2 Results: Order Book Signals Infrastructure Surge",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdkNhTnJTX0t1bkxRR2ZnS2JJV21qNE12aXZ4eVZMT1AwNFhlTUVTX0JZVUNnY0dCRDdVOFd4T3B4dmdaMEEtM0VucHVjTjJ2V0lzTWlyRGUtQmgzZHVZV0xiMjl6ck80MWhzTWZQTHNTcHMxUERPNDd4VVZSQm9LTlBuZU5JNEhZOVBEVnJBdEFxZw?oc=5",
+      "source": "Urban Acres",
+      "date": "2026-10-27T12:39:54.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T's Q2 order book indicates infrastructure sector growth.",
+      "enriched": true
+    },
     {
       "id": "n00f84516c1d0",
       "ticker": "LT",
@@ -28,25 +161,6 @@
       "enriched": true
     },
     {
-      "id": "n122d3181197c",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Indian Army to get 335 more K-9 Vajra howitzers for deployment along China, Pak borders&#160;",
-      "url": "https://www.aninews.in/news/national/general-news/indian-army-to-get-335-more-k-9-vajra-howitzers-for-deployment-along-china-pak-borders16020261026214555/",
-      "source": "aninews.in",
-      "date": "2026-10-26T20:05:14.473Z",
-      "topic": "Orders",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Indian Army to procure 335 additional K-9 Vajra howitzers for China and Pakistan border deployment.",
-      "enriched": true
-    },
-    {
       "id": "n95167618caad",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -63,6 +177,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T Technology Services hit profitability target early and completed SWC exit in Q2 FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n122d3181197c",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Indian Army to get 335 more K-9 Vajra howitzers for deployment along China, Pak borders&#160;",
+      "url": "https://www.aninews.in/news/national/general-news/indian-army-to-get-335-more-k-9-vajra-howitzers-for-deployment-along-china-pak-borders16020261026214555/",
+      "source": "aninews.in",
+      "date": "2026-10-26T20:05:14.473Z",
+      "topic": "Orders",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Indian Army to procure 335 additional K-9 Vajra howitzers for China and Pakistan border deployment.",
       "enriched": true
     },
     {
@@ -276,7 +409,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T Technology Services reports solid Q2 2026 results.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n6263e8142735",
@@ -875,7 +1009,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true,
-      "sources_count": 7
+      "sources_count": 2
     },
     {
       "id": "n9274f3ff6f31",
@@ -1491,7 +1625,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins offshore order worth up to ₹5,000 crore for west coast energy projects.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
