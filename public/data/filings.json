@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:38:14.612Z",
+  "generated_at": "2026-10-28T09:06:07.259Z",
   "source": "nse",
   "counts": {
     "NSE": 104,
@@ -7,6 +7,16 @@
     "total": 104
   },
   "items": [
+    {
+      "id": "fa82ec7f5998e",
+      "ticker": "JAYNECOIND",
+      "company": "Jayaswal Neco Industries Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T13:27:55.000Z",
+      "category": "Press Release",
+      "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding a press release dated October 28, 2026, titled \"Newspaper Clipping- Special Window for Transfer and Dematerialisation ('Demat\") ofPhysical Shares pursuant to Regulation 30 of SEBI (Listing Obligations and DisclosureRequirements) Regulations, 2015 and SEBI Circular No. HO/38/13/11(2)2026-MIRSDPOD/I/3750/2026 dated 30 January, 2026.\".",
+      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_28102026132744_specialwindowadvt28102026.pdf"
+    },
     {
       "id": "f3ff761465a52",
       "ticker": "LT",
@@ -1036,16 +1046,6 @@
       "category": "Public Announcement-Open Offer",
       "title": "SBI Capital Markets Limited has informed to the Exchange about Addendum to Public Announcement and Detailed Public Statement for the Open Offer made by Anupam Rasayan Limited, the acquirer for the addition of PAC",
       "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20072026121256_BLISSGVS.zip"
-    },
-    {
-      "id": "f1a1dcb08a663",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-19T20:47:13.000Z",
-      "category": "Disclosure",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange about Addendum to Public Announcement and Detailed Public Statement for the Open Offer made by Anupam Rasayan Limited, the acquirer for the addition of PAC.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_19072026204637_Addendum_Submission__Bliss_GVS___Open_Offer.pdf"
     }
   ]
 }
