@@ -1,13 +1,92 @@
 {
-  "generated_at": "2026-10-28T08:53:52.443Z",
+  "generated_at": "2026-10-28T19:47:47.192Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 104,
+    "watchlist": 107,
     "universe": 0,
-    "total": 104
+    "total": 107
   },
   "items": [
+    {
+      "id": "na1a0b10e3524",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T looks at increasing its Middle East footprint to expand overseas - The Week",
+      "url": "https://www.theweek.in/news/middle-east/2026/10/28/larsen-toubro-middle-east-strategy-central-asia-europe.html",
+      "source": "theweek.in",
+      "date": "2026-10-28T19:47:19.434Z",
+      "topic": "Growth",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
+      "enriched": true
+    },
+    {
+      "id": "na61f16d27047",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T aims to double order book to ₹15 lakh crore by FY31 - The HinduBusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/lt-aims-to-double-order-book-to-15-lakh-crore-by-fy31/article71635619.ece",
+      "source": "thehindubusinessline.com",
+      "date": "2026-10-28T19:47:19.434Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
+      "sources_count": 6,
+      "enriched": true
+    },
+    {
+      "id": "n38f70fd63cde",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro Limited 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:LTOUF) 2026-10-27 | Seeking Alpha",
+      "url": "https://seekingalpha.com/article/4958165-larsen-and-toubro-limited-2027-q2-results-earnings-call-presentation",
+      "source": "seekingalpha.com",
+      "date": "2026-10-28T19:47:19.434Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T released Q2 FY27 earnings presentation.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n1f3469e87e00",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
+      "source": "whalesbook.com",
+      "date": "2026-10-28T19:47:16.193Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option schemes.",
+      "sources_count": 3,
+      "enriched": true
+    },
     {
       "id": "n5892e6f26f08",
       "ticker": "ENGINERSIN",
@@ -44,25 +123,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T secured record Q2 FY27 order inflow of Rs 1,477 billion, up 28% year-on-year.",
-      "enriched": true
-    },
-    {
-      "id": "n67c4cd79c1c7",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Larsen & Toubro Limited 2027 Q2 - Results - Earnings Call Presentation (OTCMKTS:LTOUF) 2026-10-27",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbENzOEJ3bEN4SGtuTGVuZkRnR3BNaElna2tZQkhoTUM2WjJYb0g5Skh1dG5tUW55VmFvc3RyUlpYc05GS3VBUDUyTnB4MFBockw0S3FlT2FBT3hpaFV4V1dTX2NpZXhQTHVtcXhoSElHSlMxMERTdFZLWWlEQUlxTGJLeF83Q1ljR3VwM0YzbEdFUFdRXy0xc3pfaElCRVQ1VEZQOU11RGNaZGNGd1E?oc=5",
-      "source": "Seeking Alpha",
-      "date": "2026-10-27T18:54:44.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "L&T released Q2 FY2027 earnings presentation.",
       "enriched": true
     },
     {
@@ -471,7 +531,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
       "enriched": true,
-      "sources_count": 7
+      "sources_count": 4
     },
     {
       "id": "n79eb036318cd",
@@ -529,25 +589,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T Finance reports record profit in Q2 2027.",
-      "enriched": true
-    },
-    {
-      "id": "n465d6bc74825",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma seeks shareholder approval for Santosh Parab director role",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQWNITXZmQ2Ytd3ZnRThrV2Q4SklyeGsyb3pKNF9BODMzeURjU3pGRHRWX3V2U2I5dW9EQVhnVWZVV2NkSVlrc2l4SFJfdFM2QUpja0oxLU9hMWhjcDhlUTB6TlhkTmVlaDVlRUVTSVlOQTByVHlnMy1GN2podGhVOEZpdlRxWlE5NFYwa1RtWTAtS2xYdnJFOTREbHFlMjdtNzFSTzVxTFpPYlFSREZCd3I5STc5M0JZVWZfb3l3NEU?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-15T22:53:37.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval to appoint Santosh Parab as director.",
       "enriched": true
     },
     {
@@ -743,6 +784,25 @@
       "enriched": true
     },
     {
+      "id": "n91a9da7917e6",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan expects pharma to contribute one-third of revenue in three years, ETManufacturing",
+      "url": "https://manufacturing.economictimes.indiatimes.com/news/chemicals/anupam-rasayan-expects-pharma-to-contribute-one-third-of-revenue-in-three-years/134759262",
+      "source": "manufacturing.economictimes.indiatimes.com",
+      "date": "2026-10-07T09:06:53.718Z",
+      "topic": "Growth",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan expects pharma segment to contribute one-third of revenue within three years.",
+      "enriched": true
+    },
+    {
       "id": "n31e5db6bfe49",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
@@ -761,25 +821,6 @@
       "takeaway": "Anupam Rasayan promoter pledges 97.58% shares, raising concerns about debt levels and financial risk.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n91a9da7917e6",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan expects pharma to contribute one-third of revenue in three years, ETManufacturing",
-      "url": "https://manufacturing.economictimes.indiatimes.com/news/chemicals/anupam-rasayan-expects-pharma-to-contribute-one-third-of-revenue-in-three-years/134759262",
-      "source": "manufacturing.economictimes.indiatimes.com",
-      "date": "2026-10-07T09:06:53.718Z",
-      "topic": "Growth",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan expects pharma segment to contribute one-third of revenue within three years.",
-      "enriched": true
     },
     {
       "id": "na1771a202480",
@@ -1067,6 +1108,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Bliss GVS acquisition enables Anupam Rasayan to enter finished medicines segment.",
+      "enriched": true
+    },
+    {
+      "id": "nf95b06d2adb0",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXRyMVJ4dlN1c0I1Y2hOcnVSWFBSR2xOQVlnNnYxOFlwM1NmOWk5N1Q5MDVlQ1hhNUhOXy13T2FfVXJtTWd3dERtS1RfYnU5eU9tWjhiQ3V0YjM0dnZUNkd3ZWJ0NWJ3SVR4eTliaXB6amdvU2xQOXNwdFN1NnlGOVpRQlU2MG9NLVh1c3ZxOS11d2tnRmhrR2VNVmZzZWQxSG9RY245TXAxbjNUbDA1N19EOXlocFpwMG9ZN3V6czhpMzhYS1ZiN1VybFFkVk5Rb3VhZmhzX1h5TElxbklv0gHkAUFVX3lxTE56N3M5MnhjUnBiVE9IQ09uY2pkNTk3cjhnRnhYWE14X3Uwb043ckE4c1hFREVsbUxXOENZS1prVUhFQndtMGdlQ0F5R0hMN0h0dHlpTXpmUkFDb1l6a2xQZE0tTlAxcDVHTW9Ka01OS3FScnZGVHFZZGdEN0pqRHdZTVVweGkxTW01QUV1bmY3SHU1U2p0UFhIV01tcGlhcmtsVnlvbWtZdXdBUW1pbHlCaE9QbEwySzRWTzdUandTTzl1UGhzbktUZFRXS3ZQWkxoc1NQM2VBYUhfelY4dExVS0FxNg?oc=5",
+      "source": "ET Manufacturing",
+      "date": "2026-09-30T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
       "enriched": true
     },
     {
