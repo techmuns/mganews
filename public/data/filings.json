@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-10-28T09:06:07.259Z",
+  "generated_at": "2026-10-28T19:54:09.691Z",
   "source": "nse",
   "counts": {
-    "NSE": 104,
+    "NSE": 106,
     "BSE": 0,
-    "total": 104
+    "total": 106
   },
   "items": [
+    {
+      "id": "f3bd725ebd1ea",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T19:46:10.000Z",
+      "category": "Shareholders meeting",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Notice of Postal Ballot dated October 01, 2026 (\"Notice\") alongwith the Explanatory Statement for seeking approval of the members of the Company by way of remote e-voting to transact the Special Business as set out in the Notice",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_28102026194515_PB_Intimation_28102026.pdf"
+    },
+    {
+      "id": "f90acd7aacb58",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T17:02:11.000Z",
+      "category": "Disclosure",
+      "title": "Engineers India Limited has informed the Exchange regarding 'Board Comments on the Fine imposed by the Exchange'.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_28102026170151_xchangefine.pdf"
+    },
+    {
+      "id": "ff871094d9077",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T16:52:22.000Z",
+      "category": "Disclosure",
+      "title": "Engineers India Limited has informed the Exchange regarding 'Board Comments on Fine Levied by Exchange'.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_28102026165211_xchangefine.pdf"
+    },
     {
       "id": "fa82ec7f5998e",
       "ticker": "JAYNECOIND",
@@ -1036,16 +1066,6 @@
       "category": "Disclosure",
       "title": "SBI Capital Markets Ltd has Submitted to the Exchange a copy of letter of offer.",
       "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_21072026192035_BLISSGVS.zip"
-    },
-    {
-      "id": "f4634fbee2a13",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-20T12:54:09.000Z",
-      "category": "Public Announcement-Open Offer",
-      "title": "SBI Capital Markets Limited has informed to the Exchange about Addendum to Public Announcement and Detailed Public Statement for the Open Offer made by Anupam Rasayan Limited, the acquirer for the addition of PAC",
-      "url": "https://nsearchives.nseindia.com/corporate/team_sandeshc_20072026121256_BLISSGVS.zip"
     }
   ]
 }
