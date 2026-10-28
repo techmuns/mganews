@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T19:34:41.491Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-10-28T08:53:52.443Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
     "watchlist": 104,
@@ -8,6 +8,44 @@
     "total": 104
   },
   "items": [
+    {
+      "id": "n5892e6f26f08",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India Limited (NSE:ENGINERSIN) Announces Q2FY27 Earnings Call on 30 October 2026",
+      "url": "https://kalkinemedia.com/in/news/announcements/engineers-india-limited-nseenginersin-announces-q2fy27-earnings-call-on-30-october-2026",
+      "source": "kalkinemedia.com",
+      "date": "2026-10-28T08:53:31.842Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Engineers India scheduled Q2FY27 earnings call for October 30, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n3fe273d5e8a9",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T posts record Q2 FY27 order inflow of Rs 1,477 billion, up 28%",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBdXhqTmctbjNkOEozMEl2QjNwcGhpMlNMWXh6UkUzeDRyRXJoV0M0NERldEZsdFpYMnNzOFk3NlZCSW1WUi1rVW10STRjZWh2MHRRNUpYRXV3WDlzdWpjYnE2VkJ3Tkc4a2tTamtpNHh4ZktSRjF0cm5FWlhOZw?oc=5",
+      "source": "Power Peak Digest",
+      "date": "2026-10-27T22:07:14.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secured record Q2 FY27 order inflow of Rs 1,477 billion, up 28% year-on-year.",
+      "enriched": true
+    },
     {
       "id": "n67c4cd79c1c7",
       "ticker": "LT",
@@ -82,26 +120,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T's order book reached record ₹8.5 lakh crore with highest-ever Q2 inflows.",
-      "enriched": true
-    },
-    {
-      "id": "nb30d2ac3bec1",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Secures ₹5,000–10,000 Cr Order And Reports ₹787.5B Q2 Revenue",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmhiRl9rb0F1U1NYb0JuVUJKTElvZTFoNW41a1U2U09JeF9GamlHNWhhME1STVZxMWpqR1MyWl80NTlaRnluNVJBNXZxb1lMZG9VZmhGcGdNbXV6cUNIamEtaVdKWi0wcXFTemVCeXBOUmZySVVSbWQzRTNHcHdVU3MwS3plZ1lWcVlodFlXTFBGOWpDeGlB?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-27T14:40:31.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T won ₹5,000-10,000 crore order and posted ₹787.5 billion Q2 revenue.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "ncd255561cff5",
@@ -158,6 +178,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won Dhaka Metro contract worth up to ₹10,000 crore.",
+      "enriched": true,
+      "sources_count": 4
+    },
+    {
+      "id": "n122d3181197c",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Indian Army to get 335 more K-9 Vajra howitzers for deployment along China, Pak borders&#160;",
+      "url": "https://www.aninews.in/news/national/general-news/indian-army-to-get-335-more-k-9-vajra-howitzers-for-deployment-along-china-pak-borders16020261026214555/",
+      "source": "aninews.in",
+      "date": "2026-10-26T20:05:14.473Z",
+      "topic": "Orders",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Indian Army to procure 335 additional K-9 Vajra howitzers for China and Pakistan border deployment.",
       "enriched": true
     },
     {
@@ -177,25 +217,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T Technology Services hit profitability target early and completed SWC exit in Q2 FY27.",
-      "enriched": true
-    },
-    {
-      "id": "n122d3181197c",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Indian Army to get 335 more K-9 Vajra howitzers for deployment along China, Pak borders&#160;",
-      "url": "https://www.aninews.in/news/national/general-news/indian-army-to-get-335-more-k-9-vajra-howitzers-for-deployment-along-china-pak-borders16020261026214555/",
-      "source": "aninews.in",
-      "date": "2026-10-26T20:05:14.473Z",
-      "topic": "Orders",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Indian Army to procure 335 additional K-9 Vajra howitzers for China and Pakistan border deployment.",
       "enriched": true
     },
     {
@@ -450,7 +471,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 7
     },
     {
       "id": "n79eb036318cd",
@@ -992,26 +1013,6 @@
       "enriched": true
     },
     {
-      "id": "n25350ce1afcf",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surat-based Anupam Rasayan completes ₹1,750-cr acquisition of 48.2% in Bliss GVS Pharma - The HinduBusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/surat-based-anupam-rasayan-completes-1750-cr-acquisition-of-482-in-bliss-gvs-pharma/article71523837.ece",
-      "source": "thehindubusinessline.com",
-      "date": "2026-10-02T08:52:00.280Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "n9274f3ff6f31",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -1358,25 +1359,6 @@
       "enriched": true
     },
     {
-      "id": "n696a26087576",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "EIL Eyes USD 1 Billion Pipeline and Storage Orders from Saudi Arabia and UAE Over Next 2-3 Years - https://indianmasterminds.com",
-      "url": "https://indianmasterminds.com/news/eil-1-billion-pipeline-storage-orders-saudi-arabia-uae-234884/",
-      "source": "indianmasterminds.com",
-      "date": "2026-09-19T17:22:07.082Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Engineers India targets $1 billion in pipeline and storage orders from Saudi Arabia and UAE over 2-3 years.",
-      "enriched": true
-    },
-    {
       "id": "n86e253583107",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -1396,22 +1378,22 @@
       "enriched": true
     },
     {
-      "id": "n2a08de40e61e",
+      "id": "n696a26087576",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "EIL expects order boost as Gulf seeks to bypass Strait of Hormuz | Industry News - Business Standard",
-      "url": "https://www.business-standard.com/industry/news/eil-expects-order-boost-as-gulf-seeks-to-bypass-strait-of-hormuz-126091900002_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-19T07:29:40.277Z",
+      "title": "EIL Eyes USD 1 Billion Pipeline and Storage Orders from Saudi Arabia and UAE Over Next 2-3 Years - https://indianmasterminds.com",
+      "url": "https://indianmasterminds.com/news/eil-1-billion-pipeline-storage-orders-saudi-arabia-uae-234884/",
+      "source": "indianmasterminds.com",
+      "date": "2026-09-19T17:22:07.082Z",
       "topic": "Orders",
       "keyword": "Order",
-      "importance": "medium",
+      "importance": "high",
       "mood": "positive",
-      "takeaway": "Engineers India expects order boost from Gulf projects to bypass Strait of Hormuz.",
+      "takeaway": "Engineers India targets $1 billion in pipeline and storage orders from Saudi Arabia and UAE over 2-3 years.",
       "enriched": true
     },
     {
@@ -1432,6 +1414,25 @@
       "mood": "positive",
       "takeaway": "Engineers India reported record-breaking profit and announced dividend.",
       "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n2a08de40e61e",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EIL expects order boost as Gulf seeks to bypass Strait of Hormuz | Industry News - Business Standard",
+      "url": "https://www.business-standard.com/industry/news/eil-expects-order-boost-as-gulf-seeks-to-bypass-strait-of-hormuz-126091900002_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-19T07:29:40.277Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India expects order boost from Gulf projects to bypass Strait of Hormuz.",
       "enriched": true
     },
     {
@@ -1860,25 +1861,6 @@
       "enriched": true
     },
     {
-      "id": "nbe4e50d42d8e",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Q1 FY27 Earnings Presentation Key Updates",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG1hV2ZwSTgtaGh1bm9sM09MZ1lDbnNRaDktVWNxQ0pFelRldWI3Z0JwZkIxNUk2NnhramYybWliOE5Uemx6dl9iQ2N1MF9CbWJIUUU0SUNxMXJkWk0yQmF5Mmk4eGtwWEtvWERhTWtsLVRfWjR3YmUybkttZnJ6eTdOcnloNGYwUFpSQ2dWWks1bGJDdXA4ZkgwcGFyMkxTN0hVdEcyLU1aTmtIaVh3bnQxQWwwRGdpVWV5Zzdsc2N1RkRiTmNNaHlnOUZ5UQ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration released Q1 FY27 earnings presentation.",
-      "enriched": true
-    },
-    {
       "id": "n4aa73406eeb5",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -1895,6 +1877,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Engineers India reports Q1 earnings with year-over-year comparison to ₹65.4 crore base.",
+      "enriched": true
+    },
+    {
+      "id": "nbe4e50d42d8e",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Q1 FY27 Earnings Presentation Key Updates",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG1hV2ZwSTgtaGh1bm9sM09MZ1lDbnNRaDktVWNxQ0pFelRldWI3Z0JwZkIxNUk2NnhramYybWliOE5Uemx6dl9iQ2N1MF9CbWJIUUU0SUNxMXJkWk0yQmF5Mmk4eGtwWEtvWERhTWtsLVRfWjR3YmUybkttZnJ6eTdOcnloNGYwUFpSQ2dWWks1bGJDdXA4ZkgwcGFyMkxTN0hVdEcyLU1aTmtIaVh3bnQxQWwwRGdpVWV5Zzdsc2N1RkRiTmNNaHlnOUZ5UQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration released Q1 FY27 earnings presentation.",
       "enriched": true
     },
     {
