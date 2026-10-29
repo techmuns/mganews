@@ -1,12 +1,32 @@
 {
-  "generated_at": "2026-10-29T08:57:06.639Z",
+  "generated_at": "2026-10-29T19:53:45.328Z",
   "source": "nse",
   "counts": {
-    "NSE": 107,
+    "NSE": 108,
     "BSE": 0,
-    "total": 107
+    "total": 108
   },
   "items": [
+    {
+      "id": "f8ae1fbd9e38a",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-29T17:47:41.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about the outcome of Nomination and Remuneration Committee meeting held today i.e. on October 29, 2026, the members has granted 2,95,000 stock options under Bliss GVS Pharma Limited - Employee Stock Option Plan 2019.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_29102026174729_ESOP_Grant_Outcome_final.pdf"
+    },
+    {
+      "id": "fd43c86ce22de",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-29T17:44:24.000Z",
+      "category": "Board Meeting",
+      "title": "Bliss GVS Pharma Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_29102026173905_Outcome_of_Board_Meeting.pdf"
+    },
     {
       "id": "f589ce4d2047a",
       "ticker": "BLISSGVS",
@@ -1066,16 +1086,6 @@
       "category": "Disclosure",
       "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Letter of Offer dated July 18, 2026 received from SBI Capital Markets Limited, the manager to the Open Offer appointed by Anupam Rasayan India Limited along with PAC'.",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_21072026195533_Intimation_of_Letter_of_Offer.pdf"
-    },
-    {
-      "id": "f2cfc95f042c6",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-21T19:22:10.000Z",
-      "category": "Disclosure",
-      "title": "SBI Capital Markets Ltd has Submitted to the Exchange a copy of letter of offer.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_21072026192035_BLISSGVS.zip"
     }
   ]
 }
