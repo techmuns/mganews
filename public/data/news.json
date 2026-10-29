@@ -1,32 +1,13 @@
 {
-  "generated_at": "2026-10-28T19:47:47.192Z",
+  "generated_at": "2026-10-29T08:50:56.988Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 107,
+    "watchlist": 105,
     "universe": 0,
-    "total": 107
+    "total": 105
   },
   "items": [
-    {
-      "id": "na1a0b10e3524",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T looks at increasing its Middle East footprint to expand overseas - The Week",
-      "url": "https://www.theweek.in/news/middle-east/2026/10/28/larsen-toubro-middle-east-strategy-central-asia-europe.html",
-      "source": "theweek.in",
-      "date": "2026-10-28T19:47:19.434Z",
-      "topic": "Growth",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
-      "enriched": true
-    },
     {
       "id": "na61f16d27047",
       "ticker": "LT",
@@ -44,7 +25,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
-      "sources_count": 6,
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "na1a0b10e3524",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T looks at increasing its Middle East footprint to expand overseas - The Week",
+      "url": "https://www.theweek.in/news/middle-east/2026/10/28/larsen-toubro-middle-east-strategy-central-asia-europe.html",
+      "source": "theweek.in",
+      "date": "2026-10-28T19:47:19.434Z",
+      "topic": "Growth",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
       "enriched": true
     },
     {
@@ -68,23 +68,23 @@
       "enriched": true
     },
     {
-      "id": "n1f3469e87e00",
+      "id": "ncb6fb836dbea",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
       "sector": "Healthcare",
       "scope": [
         "watchlist"
       ],
-      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
-      "source": "whalesbook.com",
-      "date": "2026-10-28T19:47:16.193Z",
+      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-28T14:57:43.000Z",
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "low",
       "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option schemes.",
-      "sources_count": 3,
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -239,7 +239,7 @@
       "mood": "positive",
       "takeaway": "L&T won Dhaka Metro contract worth up to ₹10,000 crore.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 6
     },
     {
       "id": "n122d3181197c",
@@ -531,7 +531,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 3
     },
     {
       "id": "n79eb036318cd",
@@ -723,25 +723,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T renews partnership with Navantia for India's Landing Platform Dock Programme.",
-      "enriched": true
-    },
-    {
-      "id": "na9e856ee5fb5",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Larsen & Toubro Bags Major Thermal Power Project Order from DVC CIL | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/industrial-goodsservices/Larsen-and-Toubro-Bags-Major-Thermal-Power-Project-Order-from-DVC-CIL/6ac5cda9680f2251a2a4102f",
-      "source": "whalesbook.com",
-      "date": "2026-10-07T20:05:53.844Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins major thermal power project order from DVC CIL.",
       "enriched": true
     },
     {
@@ -1111,25 +1092,6 @@
       "enriched": true
     },
     {
-      "id": "nf95b06d2adb0",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXRyMVJ4dlN1c0I1Y2hOcnVSWFBSR2xOQVlnNnYxOFlwM1NmOWk5N1Q5MDVlQ1hhNUhOXy13T2FfVXJtTWd3dERtS1RfYnU5eU9tWjhiQ3V0YjM0dnZUNkd3ZWJ0NWJ3SVR4eTliaXB6amdvU2xQOXNwdFN1NnlGOVpRQlU2MG9NLVh1c3ZxOS11d2tnRmhrR2VNVmZzZWQxSG9RY245TXAxbjNUbDA1N19EOXlocFpwMG9ZN3V6czhpMzhYS1ZiN1VybFFkVk5Rb3VhZmhzX1h5TElxbklv0gHkAUFVX3lxTE56N3M5MnhjUnBiVE9IQ09uY2pkNTk3cjhnRnhYWE14X3Uwb043ckE4c1hFREVsbUxXOENZS1prVUhFQndtMGdlQ0F5R0hMN0h0dHlpTXpmUkFDb1l6a2xQZE0tTlAxcDVHTW9Ka01OS3FScnZGVHFZZGdEN0pqRHdZTVVweGkxTW01QUV1bmY3SHU1U2p0UFhIV01tcGlhcmtsVnlvbWtZdXdBUW1pbHlCaE9QbEwySzRWTzdUandTTzl1UGhzbktUZFRXS3ZQWkxoc1NQM2VBYUhfelY4dExVS0FxNg?oc=5",
-      "source": "ET Manufacturing",
-      "date": "2026-09-30T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "enriched": true
-    },
-    {
       "id": "n4f57203acc64",
       "ticker": "HINDUSTANO",
       "company": "Hindustan Oil Exploration Company",
@@ -1204,6 +1166,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured $450 million project, order book reaches record Rs 15,109 crore.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nd9cd253ae37f",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Surat-based Anupam Rasayan completes ₹1,750-cr acquisition of 48.2% in Bliss GVS Pharma",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaFUtZmEtWnVvejQ1MVd3MFQxRFpYamNqTVh1VEVQblVZTm1SbnYyWVc5eFVrWFpLa2VkWlR3TmxIdGlQQ19VM2NkUGJUMU9xWG5UOWl1NEtOUEFaWnpJSHkyWDRDQkYwbkNyMW5OaE13My1JdmlwSUV3ZF9mbncyS2pWU3JFd0xLR0xUZEkxRjRmV0VnTGRQOWNId1pKZ1F1Zk93X3ZNTUpxVWlJNTV4QUQzZkxvcl9NZjZuQ3FPZ0tRU3VJTkVQUFBJTFJHRGlnT1dBdXlLanlmUVBaLU5maVFR0gHoAUFVX3lxTE5NZDh6VnB6eU1ydlRkdWtMdlljVHFJVWFQRXQ4Wk9Rb19HRTNPT2pnS2pxV2VMNE5RcThIRHVDVjJjQUgxVlFwU1lOc0xvTjljdEZGcFhES3lTRzFyOVRjeC1jWE9Ia3pESncyZkhkeUZBeHA0NjI3dzh1Yl9EM0ZGU3NLdkV6bTF6LWlRekdJak5LTUFvaVdFSi1qY3ZldGg0d3M1cjJHWnBlTVBiY05sXzNCdkZYczJ1MkdPMWFoT1BhbHlVWkV2M0hIX2ItQ2ZHc2dXd2hUT3FNQ3h4OUFyRUhlVHplOHc?oc=5",
+      "source": "BusinessLine",
+      "date": "2026-09-29T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "sources_count": 2,
       "enriched": true
     },
@@ -1708,25 +1690,6 @@
       "takeaway": "L&T Hydrocarbon secures large ONGC order for well-head platforms and riser platform.",
       "enriched": true,
       "sources_count": 2
-    },
-    {
-      "id": "n56da506bec69",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T bags major ONGC order for west coast projects",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM2ZUNkprWUdjN2xIa0JjdHU5N3hrZmhiTFNTRW83RHk1bEREeUhvVmQ3RU5DZE5sZEZOS3FHS00wdVh3Y2xEY2wzNEZJRzF5MHFKSnJ5TGlSb0dwU2t6RFlaZ0FKejdGWW9oQWdJQ1RtRXprQzdCU2VKbHVtRWV1VEdIelp4OUXSAYwBQVVfeXFMTzBJQTRFeEVOUVRoOWJYNy1ENUJudVJBXzhlRFlsX2l5Wm8tcUt5elBRZmQ0N1QycDB5UFB5RWFXeVRCZ1Q2anhsdXNrckpuNFo0MUdudnhNT3o5X0ZrOWFrNEsxVldnY2ljczB6TUhidVVUdUg5Q1JqenR6NVRtZzRwdURGTVZfYm9NazM?oc=5",
-      "source": "The Siasat Daily",
-      "date": "2026-09-09T09:25:17.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T secures major ONGC order for west coast projects.",
-      "enriched": true
     },
     {
       "id": "n44ae9e16b344",
