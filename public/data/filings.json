@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-10-28T19:54:09.691Z",
+  "generated_at": "2026-10-29T08:57:06.639Z",
   "source": "nse",
   "counts": {
-    "NSE": 106,
+    "NSE": 107,
     "BSE": 0,
-    "total": 106
+    "total": 107
   },
   "items": [
+    {
+      "id": "f589ce4d2047a",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-29T12:59:47.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication regarding the Postal Ballot Notice dated October 01, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_29102026125934_PB_Adv_Intimation.pdf"
+    },
     {
       "id": "f3bd725ebd1ea",
       "ticker": "BLISSGVS",
