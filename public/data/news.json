@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-10-29T08:50:56.988Z",
+  "generated_at": "2026-10-29T19:47:05.487Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 105,
+    "watchlist": 106,
     "universe": 0,
-    "total": 105
+    "total": 106
   },
   "items": [
+    {
+      "id": "n1f3469e87e00",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
+      "source": "whalesbook.com",
+      "date": "2026-10-29T19:46:40.405Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option schemes.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n293d37257473",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Targets Doubling Order Book By 2031 Via Global Expansion",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNW9mZ29TNnlESnQ1dkhMOGZVUFk2ZFNsNUlGVTd4cWl1Vm1hbXBoVlItd3lDQkFxT3QtbWlfMWNQM1poaGMxams0YXNmRFYxRF83aWZEWmRpWkRLbmlSN21zTnVmVnMtdlpYTHpWVFNuWkYzTzVOdzk4ODNBdTBnQXNRY3JMeldqbXozUVM1WQ?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-29T04:02:23.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T aims to double its order book by 2031 through global expansion.",
+      "enriched": true
+    },
     {
       "id": "na61f16d27047",
       "ticker": "LT",
@@ -25,26 +64,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "na1a0b10e3524",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T looks at increasing its Middle East footprint to expand overseas - The Week",
-      "url": "https://www.theweek.in/news/middle-east/2026/10/28/larsen-toubro-middle-east-strategy-central-asia-europe.html",
-      "source": "theweek.in",
-      "date": "2026-10-28T19:47:19.434Z",
-      "topic": "Growth",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -68,23 +88,22 @@
       "enriched": true
     },
     {
-      "id": "ncb6fb836dbea",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
+      "id": "na1a0b10e3524",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-28T14:57:43.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
-      "sources_count": 2,
+      "title": "L&T looks at increasing its Middle East footprint to expand overseas - The Week",
+      "url": "https://www.theweek.in/news/middle-east/2026/10/28/larsen-toubro-middle-east-strategy-central-asia-europe.html",
+      "source": "theweek.in",
+      "date": "2026-10-28T19:47:19.434Z",
+      "topic": "Growth",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
       "enriched": true
     },
     {
@@ -239,7 +258,7 @@
       "mood": "positive",
       "takeaway": "L&T won Dhaka Metro contract worth up to ₹10,000 crore.",
       "enriched": true,
-      "sources_count": 6
+      "sources_count": 3
     },
     {
       "id": "n122d3181197c",
@@ -1092,6 +1111,25 @@
       "enriched": true
     },
     {
+      "id": "nf95b06d2adb0",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXRyMVJ4dlN1c0I1Y2hOcnVSWFBSR2xOQVlnNnYxOFlwM1NmOWk5N1Q5MDVlQ1hhNUhOXy13T2FfVXJtTWd3dERtS1RfYnU5eU9tWjhiQ3V0YjM0dnZUNkd3ZWJ0NWJ3SVR4eTliaXB6amdvU2xQOXNwdFN1NnlGOVpRQlU2MG9NLVh1c3ZxOS11d2tnRmhrR2VNVmZzZWQxSG9RY245TXAxbjNUbDA1N19EOXlocFpwMG9ZN3V6czhpMzhYS1ZiN1VybFFkVk5Rb3VhZmhzX1h5TElxbklv0gHkAUFVX3lxTE56N3M5MnhjUnBiVE9IQ09uY2pkNTk3cjhnRnhYWE14X3Uwb043ckE4c1hFREVsbUxXOENZS1prVUhFQndtMGdlQ0F5R0hMN0h0dHlpTXpmUkFDb1l6a2xQZE0tTlAxcDVHTW9Ka01OS3FScnZGVHFZZGdEN0pqRHdZTVVweGkxTW01QUV1bmY3SHU1U2p0UFhIV01tcGlhcmtsVnlvbWtZdXdBUW1pbHlCaE9QbEwySzRWTzdUandTTzl1UGhzbktUZFRXS3ZQWkxoc1NQM2VBYUhfelY4dExVS0FxNg?oc=5",
+      "source": "ET Manufacturing",
+      "date": "2026-09-30T07:00:00.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan acquired 48.2% stake in Bliss GVS Pharma, gaining control of the company.",
+      "enriched": true
+    },
+    {
       "id": "n4f57203acc64",
       "ticker": "HINDUSTANO",
       "company": "Hindustan Oil Exploration Company",
@@ -1166,26 +1204,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured $450 million project, order book reaches record Rs 15,109 crore.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "nd9cd253ae37f",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Surat-based Anupam Rasayan completes ₹1,750-cr acquisition of 48.2% in Bliss GVS Pharma",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNaFUtZmEtWnVvejQ1MVd3MFQxRFpYamNqTVh1VEVQblVZTm1SbnYyWVc5eFVrWFpLa2VkWlR3TmxIdGlQQ19VM2NkUGJUMU9xWG5UOWl1NEtOUEFaWnpJSHkyWDRDQkYwbkNyMW5OaE13My1JdmlwSUV3ZF9mbncyS2pWU3JFd0xLR0xUZEkxRjRmV0VnTGRQOWNId1pKZ1F1Zk93X3ZNTUpxVWlJNTV4QUQzZkxvcl9NZjZuQ3FPZ0tRU3VJTkVQUFBJTFJHRGlnT1dBdXlLanlmUVBaLU5maVFR0gHoAUFVX3lxTE5NZDh6VnB6eU1ydlRkdWtMdlljVHFJVWFQRXQ4Wk9Rb19HRTNPT2pnS2pxV2VMNE5RcThIRHVDVjJjQUgxVlFwU1lOc0xvTjljdEZGcFhES3lTRzFyOVRjeC1jWE9Ia3pESncyZkhkeUZBeHA0NjI3dzh1Yl9EM0ZGU3NLdkV6bTF6LWlRekdJak5LTUFvaVdFSi1qY3ZldGg0d3M1cjJHWnBlTVBiY05sXzNCdkZYczJ1MkdPMWFoT1BhbHlVWkV2M0hIX2ItQ2ZHc2dXd2hUT3FNQ3h4OUFyRUhlVHplOHc?oc=5",
-      "source": "BusinessLine",
-      "date": "2026-09-29T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan completes Rs 1,750 crore acquisition of 48.2% stake in Bliss GVS Pharma.",
       "sources_count": 2,
       "enriched": true
     },
