@@ -1,31 +1,30 @@
 {
-  "generated_at": "2026-10-29T19:47:05.487Z",
+  "generated_at": "2026-10-30T08:53:15.639Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 106,
+    "watchlist": 107,
     "universe": 0,
-    "total": 106
+    "total": 107
   },
   "items": [
     {
-      "id": "n1f3469e87e00",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
+      "id": "n70f02798b825",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
-      "source": "whalesbook.com",
-      "date": "2026-10-29T19:46:40.405Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
+      "title": "Larsen & Toubro (NSE:LT) Q2 FY27 Results: Order Inflow, Order Book and Segment Data | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/blue-chip-stocks/larsen-toubro-nselt-q2-fy27-results-order-inflow-reaches-1477-billion-as-order-book-touches-8535-billion",
+      "source": "kalkine.co.in",
+      "date": "2026-10-30T08:52:57.043Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option schemes.",
-      "sources_count": 2,
+      "takeaway": "L&T reported Q2 FY27 order inflow and order book data.",
       "enriched": true
     },
     {
@@ -64,7 +63,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
-      "sources_count": 5,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -104,6 +103,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
+      "enriched": true
+    },
+    {
+      "id": "ncb6fb836dbea",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-28T14:57:43.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
+      "sources_count": 2,
       "enriched": true
     },
     {
