@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T08:53:15.639Z",
+  "generated_at": "2026-10-30T19:45:20.540Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -8,6 +8,26 @@
     "total": 107
   },
   "items": [
+    {
+      "id": "n1f3469e87e00",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
+      "source": "whalesbook.com",
+      "date": "2026-10-30T19:36:44.638Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option schemes.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "n70f02798b825",
       "ticker": "LT",
@@ -63,7 +83,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
-      "sources_count": 6,
+      "sources_count": 7,
       "enriched": true
     },
     {
@@ -103,26 +123,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
-      "enriched": true
-    },
-    {
-      "id": "ncb6fb836dbea",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-28T14:57:43.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -277,7 +277,7 @@
       "mood": "positive",
       "takeaway": "L&T won Dhaka Metro contract worth up to ₹10,000 crore.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n122d3181197c",
