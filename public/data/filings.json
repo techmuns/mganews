@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-10-30T09:04:07.436Z",
+  "generated_at": "2026-10-30T19:42:03.752Z",
   "source": "nse",
   "counts": {
-    "NSE": 107,
+    "NSE": 106,
     "BSE": 0,
-    "total": 107
+    "total": 106
   },
   "items": [
+    {
+      "id": "f3b702e498252",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-30T15:47:36.000Z",
+      "category": "Board Meeting",
+      "title": "Engineers India Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_30102026154500_coveringresults.pdf"
+    },
     {
       "id": "f8ae1fbd9e38a",
       "ticker": "BLISSGVS",
@@ -1056,26 +1066,6 @@
       "category": "Disclosure",
       "title": "Bliss GVS Pharma Limited has informed the Exchange regarding '' Notice to Shareholders w.r.t. transfer of unclaimed Final Dividend 2018-2019 and its Corresponding Shares to Investor Education and Protection Fund (IEPF) Authority\".",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_23072026130150_Intimation_IEPF_Notice.pdf"
-    },
-    {
-      "id": "f472f775f8ecb",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T19:13:17.000Z",
-      "category": "Disclosure",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'the intimation of recommendations by the Committee of Independent Directors pursuant to Regulation 26(7) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 on Open Offer made by the Anupam Rasayan India Limited together with PAC to the Public Shareholders of the Bliss GVS Pharma Limited.'",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_22072026191309_Intimation_of_Recommendations_of_IDC.pdf"
-    },
-    {
-      "id": "ffdd4372953ac",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-22T13:20:56.000Z",
-      "category": "Newspaper Publication",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_22072026132045_IEPF_Advertisment_Shares_201819.pdf"
     }
   ]
 }
