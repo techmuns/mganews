@@ -1,13 +1,53 @@
 {
-  "generated_at": "2026-10-31T08:43:53.440Z",
+  "generated_at": "2026-10-31T18:41:45.394Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 107,
+    "watchlist": 108,
     "universe": 0,
-    "total": 107
+    "total": 108
   },
   "items": [
+    {
+      "id": "n77d6bc1689d0",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
+      "url": "https://www.sahi.com/news/hindustan-oil-exploration-appoints-debabrata-das-as-cfo-effective-october-16-following-resignation-of-allen-andrade",
+      "source": "sahi.com",
+      "date": "2026-10-31T18:41:29.991Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "CFO Allen Andrade resigned; Debabrata Das appointed as replacement effective October 16.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n1f3469e87e00",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
+      "source": "whalesbook.com",
+      "date": "2026-10-31T18:41:24.559Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Company seeking shareholder approval for new employee stock option schemes.",
+      "sources_count": 2,
+      "enriched": true
+    },
     {
       "id": "nb2d1fe287537",
       "ticker": "HINDUSTANO",
@@ -28,26 +68,6 @@
       "enriched": true
     },
     {
-      "id": "ncb6fb836dbea",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-30T17:29:32.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n70f02798b825",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -64,6 +84,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T reported Q2 FY27 order inflow and order book data.",
+      "enriched": true
+    },
+    {
+      "id": "nf8c97263a993",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T extends Vyoma.AI deal and stake sale timeline to March 2027",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU2d5SjJ3WTdibzRRYUtzWHlORVFzX25ZTHZlelRQM3RRUjZ6QXhPeXZvVUl4bnJtQmd6Y004SXB4eE1OemQxeEJkdmZiaC1ZcDU0LThQX1c3TFJLWURpQXdwU1VXTklxVnJhd1QtWkNGS1ZhV3BsUjZLOTJJdzZHNHZLRHZjMW5HZkNNZ1NUNkZQUGxrSzlaWEVnM0lhd043Z3BXQ0FmNjB4QXRkbDFVelpRaHlmM1pQMERPVWt3?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-29T11:03:35.000Z",
+      "topic": "Deals",
+      "keyword": "Stake sale",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T extended deadline for Vyoma.AI deal and stake sale to March 2027.",
       "enriched": true
     },
     {
@@ -102,7 +141,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
-      "sources_count": 6,
+      "sources_count": 7,
       "enriched": true
     },
     {
@@ -511,26 +550,6 @@
       "enriched": true
     },
     {
-      "id": "n38519685894c",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
-      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
-      "source": "scanx.trade",
-      "date": "2026-10-19T20:06:36.286Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
       "id": "n7e2e45ce322f",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -588,7 +607,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 5
     },
     {
       "id": "n79eb036318cd",
@@ -779,7 +798,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "GMM Pfaudler's quarterly revenue rose 11% to ₹3,509 crore with earnings per share at ₹12.86.",
-      "sources_count": 4,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1666,7 +1685,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Q1 FY27 earnings call transcript available.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
