@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T19:45:20.540Z",
+  "generated_at": "2026-10-31T08:43:53.440Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -9,22 +9,41 @@
   },
   "items": [
     {
-      "id": "n1f3469e87e00",
+      "id": "nb2d1fe287537",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "HOEC assumes operations of Hollong gas processing plant in Assam",
+      "url": "https://scanx.trade/stock-market-news/companies/hoec-assumes-operations-hollong-gas-processing-plant-assam/53509610",
+      "source": "scanx.trade",
+      "date": "2026-10-31T08:43:34.321Z",
+      "topic": "Growth",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "HOEC takes over operations of Hollong gas processing plant in Assam.",
+      "enriched": true
+    },
+    {
+      "id": "ncb6fb836dbea",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
       "sector": "Healthcare",
       "scope": [
         "watchlist"
       ],
-      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
-      "source": "whalesbook.com",
-      "date": "2026-10-30T19:36:44.638Z",
+      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-30T17:29:32.000Z",
       "topic": "Approvals&IP",
       "keyword": "Approval",
       "importance": "low",
       "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option schemes.",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
       "sources_count": 2,
       "enriched": true
     },
@@ -83,7 +102,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
-      "sources_count": 7,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -569,7 +588,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 4
     },
     {
       "id": "n79eb036318cd",
@@ -722,6 +741,45 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "E2E Networks director resigns; L&T proposes replacement nominee.",
+      "enriched": true
+    },
+    {
+      "id": "n4d5709251316",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma (BLISSGVS.NS) Q2 2026 Earnings: Revenue Climbs 14.82% YoY as EPS Comes in at ₹12.0 - Downward Estimate Revision",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWVRfSWs5Ml81NkozQzZPbXJVYW9acnZ1WWJPMXZLdTU0c2VJcmlESWFvaENXOU4xTzlieXdXYTFORXFfTnZiMTl3NlZVNnp3MUdKNzV2Q0I2TURFYzFkbTZDT1RxVnRmUURFVzZIMUFua1FUV2RTQmVsRXRzRUVmb245VnZxSTVyeW5OT2xqSDl1ZFBxX1FkSjJjRUduYlRWLXlGYVliUm4tVTlRajRVV2tpVjNBYnh3SkJ4WC1jczktNkhhQ0pLUUJpdEEtT3M?oc=5",
+      "source": "https://www.siam.in/",
+      "date": "2026-10-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Bliss GVS Pharma's quarterly revenue grew 15% year-on-year with earnings per share at ₹12.",
+      "enriched": true
+    },
+    {
+      "id": "neff4c3a63cff",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2 2026 Earnings: Revenue Climbs 10.5% YoY to ₹3,509 Crore as EPS Reaches ₹12.86",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORkozeDNucnFIbFN3NXhxRVpnYXJ6bFZncV9rdUtER3lzZ2QxMlp5T0hOQjlXSWt0RmJzXy1LU0Vicnd5LTdJcG5iWnZ6X1B1Z3M5UTExYzJlV2dDNC1zM2NQQjN2b0UwR0tCMmlFXy1nUVhqWnFTbkZScnZBRmk4V1JoMWxaSzhsYTBYcFB5SGdkQk1PM3RlNERha2VEQ0FlUFI1RW1vd0x4NUVlMTFBZ1ZfX2x5Qlc2cWVuRlZJRk1nUDNZVF84UQ?oc=5",
+      "source": "https://www.siam.in/",
+      "date": "2026-10-12T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler's quarterly revenue rose 11% to ₹3,509 crore with earnings per share at ₹12.86.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -1534,25 +1592,6 @@
       "enriched": true
     },
     {
-      "id": "nf2376a1b127f",
-      "ticker": "GMMPFAUDLE",
-      "company": "GMM Pfaudler",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q2 2026 Earnings: Revenue Tops ₹3,509 Crore as Margins Hold Firm - Revenue Beat Analysis",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdGNBOTd4T0JDdkVwRW5RMUFKQmFzanowLTlTbTh1SmQ1dGt5QjR5SXQ2VmZLWi0zRTZlUURLUGVPT0hVZkJZMjJOOEJLSThYSEM4WEhGMURMbTVKLUpXVER5VlRJYTNnUDV2VE9mam9pVTV4MzVuUlNPU2VhU055VGQ5TlZiUExDX1RGN1J6SFpxcUZ5UnlhVW5UcFQxcXJ1Z2UwMTMzQ3ZIWll4dDBZNENVMUtSSlU?oc=5",
-      "source": "https://www.siam.in/",
-      "date": "2026-09-17T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "GMM Pfaudler Q2 revenue reached ₹3,509 crore with stable margins.",
-      "enriched": true
-    },
-    {
       "id": "n8e2064b94ee3",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -1627,7 +1666,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Q1 FY27 earnings call transcript available.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1821,45 +1860,6 @@
       "importance": "low",
       "mood": "negative",
       "takeaway": "MahaRERA orders L&T to fix leaks and fire safety issues at Parel's Crescent Bay project.",
-      "enriched": true
-    },
-    {
-      "id": "n4884e54b37dd",
-      "ticker": "GMMPFAUDLE",
-      "company": "GMM Pfaudler",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q2 2026 Earnings: Revenue Grows 10.5% YoY, EPS Steady at ₹12.86 - Upward Estimate Revision",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGx5UUduaHZlWDFISXNDWTUxX3FRWjhCclBKVXJoMHRDbnNIUnRxTEJwM0xkTjJQODlGb0R6M1V0NEdMLXhCRmlsSHl5Mk1PdjFNN0JZVjMwQWNlUHpQS2gyeEs4Tlh2M0dGclBQM0lJbjMzeXVhc0pYX1U2OGt3MTBIQnIwRi03NjMySnZCSXZvVDJkcTJ2QzNKZDlXXzFFMURDeWtxcWVZQXNZZmVZWm10ZkU?oc=5",
-      "source": "siam.in",
-      "date": "2026-09-01T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "GMM Pfaudler Q2 revenue grew 10.5% year-on-year with steady earnings per share.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n3a9289604ea5",
-      "ticker": "GMMPFAUDLE",
-      "company": "GMM Pfaudler",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q2 2026 Earnings: 10.54% Revenue Growth With ₹12.86 EPS Signals Resilience - Operating Income Trends",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTNuZzYzNGZZMEZMOXFaLURuQkV0czNHNEQ1V3J1QzdJTElza1VGd2dyNkR2dmtEckg4QXZoZGxlZkR1a0RfN1NEVjMwM0tSdVZyeFlaVkZpSGtVWmZCZGtfNWpIcEw4UWNCTlZheTJCdnlkR0Q0a29tTXdfRFE5VHlKZzFDYWZWY2JkODNCVHRjQkdEQjQ0a2hZWFgwTDRUN0FzcjNwWmJ5LWw1b21nMDNMbENtNW5WQzYwLTdoOXZEVDdw?oc=5",
-      "source": "siam.in",
-      "date": "2026-08-31T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "GMM Pfaudler Q2 revenue grew 10.54% with EPS of ₹12.86.",
       "enriched": true
     },
     {
