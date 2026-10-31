@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-10-30T19:42:03.752Z",
+  "generated_at": "2026-10-31T08:53:19.523Z",
   "source": "nse",
   "counts": {
-    "NSE": 106,
+    "NSE": 110,
     "BSE": 0,
-    "total": 106
+    "total": 110
   },
   "items": [
+    {
+      "id": "f77f2cc7d8798",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T13:00:35.000Z",
+      "category": "Disclosure",
+      "title": "Updates on the Business Transfer Agreement with Vyoma.AI Limited (Vyoma), Wholly owned Subsidiary of the Company and Share Purchase Agreement towards sale of entire stake held in L&T Network Services Private Limited to Vyoma Extension of timeline of completion",
+      "url": "https://nsearchives.nseindia.com/corporate/AB_31102026130022_SEIntimation_ExtensionofBTAVyoma_31102026.pdf"
+    },
+    {
+      "id": "f537704d2c7de",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T11:02:45.000Z",
+      "category": "Retirement",
+      "title": "Engineers India Limited has informed the Exchange about Retirement",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_31102026110235_xchangemgmt.pdf"
+    },
+    {
+      "id": "fbc822d671630",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-10-31T11:00:55.000Z",
+      "category": "Investor Presentation",
+      "title": "Engineers India Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_31102026110043_audioxchange.pdf"
+    },
     {
       "id": "f3b702e498252",
       "ticker": "ENGINERSIN",
@@ -196,6 +226,16 @@
       "category": "Disclosure",
       "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Disclosure Submitted to Stock Exchanges on September 28, 2026 under Regulation 31A(10) of the SEBI Listing Regulations in relation to re-classification from the promoter and promoter group category to the public category. '.",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_14102026184622_Disclosure_Reg_30_LODR__NewPromoterGroup.pdf"
+    },
+    {
+      "id": "fd7220b8b4902",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-10-14T12:19:18.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_14102026121852_Shareholder_Advertisement_14102026.pdf"
     },
     {
       "id": "fe45be6dc1b36",
