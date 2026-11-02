@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T19:04:52.214Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-02T09:51:50.941Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
     "watchlist": 107,
@@ -25,26 +25,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Poojaa Precision reports growth with expanded capacity and diversified revenue sources.",
-      "enriched": true
-    },
-    {
-      "id": "n1f3469e87e00",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
-      "source": "whalesbook.com",
-      "date": "2026-11-01T19:04:32.390Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option schemes.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -145,25 +125,6 @@
       "enriched": true
     },
     {
-      "id": "n293d37257473",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Targets Doubling Order Book By 2031 Via Global Expansion",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNW9mZ29TNnlESnQ1dkhMOGZVUFk2ZFNsNUlGVTd4cWl1Vm1hbXBoVlItd3lDQkFxT3QtbWlfMWNQM1poaGMxams0YXNmRFYxRF83aWZEWmRpWkRLbmlSN21zTnVmVnMtdlpYTHpWVFNuWkYzTzVOdzk4ODNBdTBnQXNRY3JMeldqbXozUVM1WQ?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-29T04:02:23.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "L&T aims to double its order book by 2031 through global expansion.",
-      "enriched": true
-    },
-    {
       "id": "na61f16d27047",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -180,7 +141,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
-      "sources_count": 7,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -200,6 +161,26 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
+      "enriched": true
+    },
+    {
+      "id": "ncb6fb836dbea",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-28T14:57:43.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -299,6 +280,25 @@
       "sources_count": 2
     },
     {
+      "id": "nb30d2ac3bec1",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Secures ₹5,000–10,000 Cr Order And Reports ₹787.5B Q2 Revenue",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmhiRl9rb0F1U1NYb0JuVUJKTElvZTFoNW41a1U2U09JeF9GamlHNWhhME1STVZxMWpqR1MyWl80NTlaRnluNVJBNXZxb1lMZG9VZmhGcGdNbXV6cUNIamEtaVdKWi0wcXFTemVCeXBOUmZySVVSbWQzRTNHcHdVU3MwS3plZ1lWcVlodFlXTFBGOWpDeGlB?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-27T14:40:31.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secures order worth Rs 5,000-10,000 crore and reports Q2 revenue of Rs 787.5 billion.",
+      "enriched": true
+    },
+    {
       "id": "ncd255561cff5",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -315,7 +315,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T Q2 profit rose 33% driven by strong order inflow.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n4b0b7c032065",
@@ -1685,7 +1686,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Q1 FY27 earnings call transcript available.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
