@@ -1,13 +1,70 @@
 {
-  "generated_at": "2026-11-02T09:51:50.941Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-11-02T22:51:48.905Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 107,
+    "watchlist": 111,
     "universe": 0,
-    "total": 107
+    "total": 111
   },
   "items": [
+    {
+      "id": "n35dcc45472e5",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T publishes Q2 FY27 earnings call transcript | InvestyWise",
+      "url": "https://www.investywise.com/larsen-toubro-transcript-of-q2h1-fy27-earnings-call-uploaded",
+      "source": "investywise.com",
+      "date": "2026-11-02T22:51:24.420Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T published its Q2 FY27 earnings call transcript.",
+      "enriched": true
+    },
+    {
+      "id": "nf7de36408e2e",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Targets 15% Revenue Growth for Services Arms LTM, LTTS: Rediff Moneynews",
+      "url": "https://money.rediff.com/news/market/l-t-targets-15-revenue-growth-for-services-arms-ltm-ltts/57310320261101",
+      "source": "money.rediff.com",
+      "date": "2026-11-02T22:51:24.420Z",
+      "topic": "Growth",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T targets 15% revenue growth for its services arms LTM and LTTS.",
+      "enriched": true
+    },
+    {
+      "id": "n984f8546e2f5",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration (NSE:HINDOILEXP): What Is the Q2 FY27 Earnings Call About?",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc01aanh4RkJKLTByWE95TmJnOUthSWpGSzJWUEZEdi0zRzExTHY5ekJPUXlVMV9jNHhLQXl4RFpGTlBULUNJelJBbGRxN0dnM3AxUndxOHp4NG85OV9ObzRkMU5UZXkzWWR1V05OaGwycG1ZdEFBMkJJMDlXVHlFU1dmNGV6VWpyOWlfMWEtWHFrMGtxYXlrRG1YX3pPamR5ajJ5cUtMdlE4WjZWdU9sNW9BZHhJdTFhaWVEYUdkcmptRjBhRlE?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-02T11:19:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration held its Q2 FY27 earnings call.",
+      "enriched": true
+    },
     {
       "id": "nbc12d6756666",
       "ticker": "PPEL",
@@ -125,6 +182,25 @@
       "enriched": true
     },
     {
+      "id": "na1a0b10e3524",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T looks at increasing its Middle East footprint to expand overseas - The Week",
+      "url": "https://www.theweek.in/news/middle-east/2026/10/28/larsen-toubro-middle-east-strategy-central-asia-europe.html",
+      "source": "theweek.in",
+      "date": "2026-10-28T19:47:19.434Z",
+      "topic": "Growth",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
+      "enriched": true
+    },
+    {
       "id": "na61f16d27047",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -145,42 +221,22 @@
       "enriched": true
     },
     {
-      "id": "na1a0b10e3524",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
+      "id": "n351fe76e2b8e",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
       "scope": [
         "watchlist"
       ],
-      "title": "L&T looks at increasing its Middle East footprint to expand overseas - The Week",
-      "url": "https://www.theweek.in/news/middle-east/2026/10/28/larsen-toubro-middle-east-strategy-central-asia-europe.html",
-      "source": "theweek.in",
-      "date": "2026-10-28T19:47:19.434Z",
-      "topic": "Growth",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
-      "enriched": true
-    },
-    {
-      "id": "ncb6fb836dbea",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-28T14:57:43.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
+      "title": "GMM Pfaudler Q2-FY27 Earnings Call Date and Details",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMEE5bU85Nzd2aVdhRU5BN2R3YjYxWVZfQ25CRkdOaG90YW5xSFAzNnJGSHFkanNpaG5oWTNnanRjQVFlOExqMXBUTElGcVhMZmtNZDFQU2RxbFU3MHRuSzZIdkh0NXF2d3gzYVV5ZTFPMUhET2JlNkloRG1MeVBOc0JyZ25MeHBaWU9ob0hwbHo2Vmg4dk1vVVNyVkEwNkd0THVsM0hNQl9CbFFPcThrYWktNG8?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-10-28T13:25:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
       "importance": "low",
       "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
-      "sources_count": 3,
+      "takeaway": "GMM Pfaudler announced Q2 FY27 earnings call date and details.",
       "enriched": true
     },
     {
@@ -296,6 +352,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T secures order worth Rs 5,000-10,000 crore and reports Q2 revenue of Rs 787.5 billion.",
+      "enriched": true
+    },
+    {
+      "id": "ndd170e8d5549",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Earnings Central: L&T, Bajaj Auto, Maruti Suzuki, Cipla headline Tuesday’s Q2 results",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGJpOThSQmtqNG9DS1JyVEIxTnlHNC1kOW1wbjF0RVJTSlJYVEI2NDBqOVEwb2Z4aUpfb2FaUkgwMV9xUFpKM1hrVmQ5ZWcwZV9WUkliSFRJaHhRQ280eEQ5ZlUwNFppbWI4ZFMxTGpBYzBDRUY1SjhzRVV2U1JiaXp1b0l4UF9pRTJkYzdnVmlRQW00YjNPVDM1czM?oc=5",
+      "source": "LinkedIn",
+      "date": "2026-10-27T14:37:49.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T among companies announcing quarterly results.",
       "enriched": true
     },
     {
@@ -1941,25 +2016,6 @@
       "enriched": true
     },
     {
-      "id": "n4aa73406eeb5",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Engineers India Reports Q1 Earnings Against YoY Base of ₹65.4 Crore",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHBlT1M3cHBaeVJzYUx6Y0dvckF2aXVBX0Y1NmwxYkJKeGZEMFJQeDRqN08tYUE1bXJvQTVFbHNUV0drbjBBT1A0bmlkeDVXVUJyYTRNM2QzNV82eUlQdGNjX28wZDh3Rl9BZGJyZ3daSGVvM0xhUzhDeW9HMzdqbG5hVUlKQW9HWnBYdlRLcWNva2lfWmlXSlRxS3REYzZvQU1PbG5EWWE?oc=5",
-      "source": "Sahi",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Engineers India reports Q1 earnings with year-over-year comparison to ₹65.4 crore base.",
-      "enriched": true
-    },
-    {
       "id": "nbe4e50d42d8e",
       "ticker": "HINDUSTANO",
       "company": "Hindustan Oil Exploration Company",
@@ -1976,6 +2032,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Hindustan Oil Exploration released Q1 FY27 earnings presentation.",
+      "enriched": true
+    },
+    {
+      "id": "n4aa73406eeb5",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India Reports Q1 Earnings Against YoY Base of ₹65.4 Crore",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHBlT1M3cHBaeVJzYUx6Y0dvckF2aXVBX0Y1NmwxYkJKeGZEMFJQeDRqN08tYUE1bXJvQTVFbHNUV0drbjBBT1A0bmlkeDVXVUJyYTRNM2QzNV82eUlQdGNjX28wZDh3Rl9BZGJyZ3daSGVvM0xhUzhDeW9HMzdqbG5hVUlKQW9HWnBYdlRLcWNva2lfWmlXSlRxS3REYzZvQU1PbG5EWWE?oc=5",
+      "source": "Sahi",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Engineers India reports Q1 earnings with year-over-year comparison to ₹65.4 crore base.",
       "enriched": true
     },
     {
