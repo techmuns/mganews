@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-02T10:01:49.400Z",
+  "generated_at": "2026-11-02T22:53:23.051Z",
   "source": "nse",
   "counts": {
-    "NSE": 107,
+    "NSE": 108,
     "BSE": 0,
-    "total": 107
+    "total": 108
   },
   "items": [
     {
@@ -346,6 +346,16 @@
       "category": "Trading Window",
       "title": "Bliss GVS Pharma Limited has informed the Exchange regarding the Trading Window closure pursuant to SEBI (Prohibition of Insider Trading) Regulations, 2015",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_29092026161129_Trading_Window_Closure.pdf"
+    },
+    {
+      "id": "fd44bf342b160",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-09-29T13:34:27.000Z",
+      "category": "Change in Directors",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Resignation of Director/KMP/SMP",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_ROID_99252_KMP_Doc.zip"
     },
     {
       "id": "faa71b32d91e6",
