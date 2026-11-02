@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-10-31T18:45:02.840Z",
+  "generated_at": "2026-11-02T10:01:49.400Z",
   "source": "nse",
   "counts": {
-    "NSE": 108,
+    "NSE": 107,
     "BSE": 0,
-    "total": 108
+    "total": 107
   },
   "items": [
+    {
+      "id": "fb08d748b5a43",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T13:27:57.000Z",
+      "category": "Newspaper Publication",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication of Unaudited Standalone and Consolidated Financial Results for the quarter and half year ended September 30, 2026",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_02112026132751_Financials_Advertisment.pdf"
+    },
     {
       "id": "f77f2cc7d8798",
       "ticker": "LT",
@@ -1066,26 +1076,6 @@
       "category": "Disclosure",
       "title": "Larsen & Toubro Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR) ESG Credit Rating'.",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_27072026123028_SESESGRating27072026.pdf"
-    },
-    {
-      "id": "feb14c8936dff",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T19:52:47.000Z",
-      "category": "Change in Directors",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange about Resignation of Director/KMP/SMP",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_ROID_92940_KMP_Doc.zip"
-    },
-    {
-      "id": "f33775438aced",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-24T19:51:19.000Z",
-      "category": "Change in Directors",
-      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Cessation of Mr. Sachin Saboo as Other of the company w.e.f. July 24, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_24072026195112_Intimation_of_Cessation_of_Sachin_Saboo.pdf"
     }
   ]
 }
