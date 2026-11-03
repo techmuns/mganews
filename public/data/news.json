@@ -1,13 +1,52 @@
 {
-  "generated_at": "2026-11-02T22:51:48.905Z",
+  "generated_at": "2026-11-03T09:55:04.944Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 111,
+    "watchlist": 112,
     "universe": 0,
-    "total": 111
+    "total": 112
   },
   "items": [
+    {
+      "id": "n38519685894c",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
+      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
+      "source": "scanx.trade",
+      "date": "2026-11-03T09:54:46.237Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration appoints Debabrata Das as CFO effective October 16.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n43f0b8113ed5",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India: Consultancy-led growth and record order book strengthen earnings outlook",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNclJGZ3NTOWVkXzdZTTctc1lxalZkTFRsb1RPbEhoNlY4WWV4ZWp6anFXSks5VloyVGlSQmtNVS1Vai1sNEVXcXpiWTlld0FKTTNRR1dUaGtwZEFHWkpLdE5EajB2YU5ORW5Ha21ickUtWkFobTllZXcxbzJyQTNVUjZpYU1sZ0lhZ0JWVkJ1Z0xoNGlFeFRQMmZBSnBJV1ZJVDdGLVhPR3Z4WkhoZXdJY2x3b3pyZE1FN0h0UFY0dkdQTjFoaDNmWUtaR1F3cHFwak1JLXZWaEp6eGZVdG05a3ZVbS14QVE0TUZSeVBUWGJ4c0VNMUVobDBza9IBgAJBVV95cUxQRDQxeHlwelFUbXdIUVhLdE1CMEpiSDV4SDhHb2ZrUVVxVG5oUW5HdU8yVEtfMEtTYVJtZ2tNX2Q3US1tZXczUWlMRzRkYUQ4eFpTT3MtaUdGNkVBeHVodTlEVzNGSF9tZDBxd1VCbGZUeXRaVklVdnF3TmpsZ0lObTU3OG5zMVNTTDh0QjFIWVBDV1BGRXNicEE4RFJRYWdvVXAyVUJXWlBUTmpWczVrV0VUSnVIeVp6aS1oekJIMUJkWnZiTGY4dTBZaDRYSXlxR0ZEWlVXZVFSOWdFUUJYd2VGWW9nSmxWUFhBbEtOWEZVcnJYZGNPYzhQenZITXNh?oc=5",
+      "source": "Moneycontrol.com",
+      "date": "2026-11-03T05:46:37.000Z",
+      "topic": "Orders",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India reports record order book strengthening earnings outlook through consultancy growth.",
+      "enriched": true
+    },
     {
       "id": "n35dcc45472e5",
       "ticker": "LT",
@@ -47,25 +86,6 @@
       "enriched": true
     },
     {
-      "id": "n984f8546e2f5",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration (NSE:HINDOILEXP): What Is the Q2 FY27 Earnings Call About?",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNc01aanh4RkJKLTByWE95TmJnOUthSWpGSzJWUEZEdi0zRzExTHY5ekJPUXlVMV9jNHhLQXl4RFpGTlBULUNJelJBbGRxN0dnM3AxUndxOHp4NG85OV9ObzRkMU5UZXkzWWR1V05OaGwycG1ZdEFBMkJJMDlXVHlFU1dmNGV6VWpyOWlfMWEtWHFrMGtxYXlrRG1YX3pPamR5ajJ5cUtMdlE4WjZWdU9sNW9BZHhJdTFhaWVEYUdkcmptRjBhRlE?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-11-02T11:19:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration held its Q2 FY27 earnings call.",
-      "enriched": true
-    },
-    {
       "id": "nbc12d6756666",
       "ticker": "PPEL",
       "company": "Poojaa Precision Engg. Limited",
@@ -102,26 +122,6 @@
       "mood": "positive",
       "takeaway": "Larsen & Toubro reports record quarterly earnings in Q2 FY27.",
       "sources_count": 3,
-      "enriched": true
-    },
-    {
-      "id": "n77d6bc1689d0",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
-      "url": "https://www.sahi.com/news/hindustan-oil-exploration-appoints-debabrata-das-as-cfo-effective-october-16-following-resignation-of-allen-andrade",
-      "source": "sahi.com",
-      "date": "2026-10-31T18:41:29.991Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "CFO Allen Andrade resigned; Debabrata Das appointed as replacement effective October 16.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -217,6 +217,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "ncb6fb836dbea",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-28T14:57:43.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
       "sources_count": 2,
       "enriched": true
     },
@@ -1591,6 +1611,25 @@
       "enriched": true
     },
     {
+      "id": "n696a26087576",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EIL Eyes USD 1 Billion Pipeline and Storage Orders from Saudi Arabia and UAE Over Next 2-3 Years - https://indianmasterminds.com",
+      "url": "https://indianmasterminds.com/news/eil-1-billion-pipeline-storage-orders-saudi-arabia-uae-234884/",
+      "source": "indianmasterminds.com",
+      "date": "2026-09-19T17:22:07.082Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Engineers India targets $1 billion in pipeline and storage orders from Saudi Arabia and UAE over 2-3 years.",
+      "enriched": true
+    },
+    {
       "id": "n86e253583107",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -1610,22 +1649,22 @@
       "enriched": true
     },
     {
-      "id": "n696a26087576",
+      "id": "n2a08de40e61e",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "EIL Eyes USD 1 Billion Pipeline and Storage Orders from Saudi Arabia and UAE Over Next 2-3 Years - https://indianmasterminds.com",
-      "url": "https://indianmasterminds.com/news/eil-1-billion-pipeline-storage-orders-saudi-arabia-uae-234884/",
-      "source": "indianmasterminds.com",
-      "date": "2026-09-19T17:22:07.082Z",
+      "title": "EIL expects order boost as Gulf seeks to bypass Strait of Hormuz | Industry News - Business Standard",
+      "url": "https://www.business-standard.com/industry/news/eil-expects-order-boost-as-gulf-seeks-to-bypass-strait-of-hormuz-126091900002_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-19T07:29:40.277Z",
       "topic": "Orders",
       "keyword": "Order",
-      "importance": "high",
+      "importance": "medium",
       "mood": "positive",
-      "takeaway": "Engineers India targets $1 billion in pipeline and storage orders from Saudi Arabia and UAE over 2-3 years.",
+      "takeaway": "Engineers India expects order boost from Gulf projects to bypass Strait of Hormuz.",
       "enriched": true
     },
     {
@@ -1646,25 +1685,6 @@
       "mood": "positive",
       "takeaway": "Engineers India reported record-breaking profit and announced dividend.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n2a08de40e61e",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "EIL expects order boost as Gulf seeks to bypass Strait of Hormuz | Industry News - Business Standard",
-      "url": "https://www.business-standard.com/industry/news/eil-expects-order-boost-as-gulf-seeks-to-bypass-strait-of-hormuz-126091900002_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-19T07:29:40.277Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Engineers India expects order boost from Gulf projects to bypass Strait of Hormuz.",
       "enriched": true
     },
     {
@@ -2016,25 +2036,6 @@
       "enriched": true
     },
     {
-      "id": "nbe4e50d42d8e",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Q1 FY27 Earnings Presentation Key Updates",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG1hV2ZwSTgtaGh1bm9sM09MZ1lDbnNRaDktVWNxQ0pFelRldWI3Z0JwZkIxNUk2NnhramYybWliOE5Uemx6dl9iQ2N1MF9CbWJIUUU0SUNxMXJkWk0yQmF5Mmk4eGtwWEtvWERhTWtsLVRfWjR3YmUybkttZnJ6eTdOcnloNGYwUFpSQ2dWWks1bGJDdXA4ZkgwcGFyMkxTN0hVdEcyLU1aTmtIaVh3bnQxQWwwRGdpVWV5Zzdsc2N1RkRiTmNNaHlnOUZ5UQ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration released Q1 FY27 earnings presentation.",
-      "enriched": true
-    },
-    {
       "id": "n4aa73406eeb5",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -2051,6 +2052,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Engineers India reports Q1 earnings with year-over-year comparison to ₹65.4 crore base.",
+      "enriched": true
+    },
+    {
+      "id": "nbe4e50d42d8e",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Q1 FY27 Earnings Presentation Key Updates",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG1hV2ZwSTgtaGh1bm9sM09MZ1lDbnNRaDktVWNxQ0pFelRldWI3Z0JwZkIxNUk2NnhramYybWliOE5Uemx6dl9iQ2N1MF9CbWJIUUU0SUNxMXJkWk0yQmF5Mmk4eGtwWEtvWERhTWtsLVRfWjR3YmUybkttZnJ6eTdOcnloNGYwUFpSQ2dWWks1bGJDdXA4ZkgwcGFyMkxTN0hVdEcyLU1aTmtIaVh3bnQxQWwwRGdpVWV5Zzdsc2N1RkRiTmNNaHlnOUZ5UQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration released Q1 FY27 earnings presentation.",
       "enriched": true
     },
     {
