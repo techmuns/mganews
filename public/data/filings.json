@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-11-02T22:53:23.051Z",
+  "generated_at": "2026-11-04T20:55:58.232Z",
   "source": "nse",
   "counts": {
-    "NSE": 108,
+    "NSE": 109,
     "BSE": 0,
-    "total": 108
+    "total": 109
   },
   "items": [
+    {
+      "id": "fc18ce04a3634",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-11-04T18:51:07.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange regarding Change in Corporate Office Address of Registrar and Share Transfer Agent '.",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_04112026185041_Intimation04112026.pdf"
+    },
+    {
+      "id": "f3b049a38b769",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "exchange": "NSE",
+      "date": "2026-11-04T17:27:39.000Z",
+      "category": "Press Release",
+      "title": "Engineers India Limited has informed the Exchange regarding a press release dated November 04, 2026, titled \"EIL Forays into Maritime sector\".",
+      "url": "https://nsearchives.nseindia.com/corporate/ENGINERSIN_04112026172729_43aa8843-5f98-424a-9f82-3cee56ba8a64.pdf"
+    },
+    {
+      "id": "fe97a09614197",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-11-04T17:14:40.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Intimation under Regulations 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 Grant of Marketing Authorisation from MHRA, UK for Mesalazine 1g Suppositories'.",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_04112026171435_Intimation_Grant_Marketing_Authorization.pdf"
+    },
     {
       "id": "fb08d748b5a43",
       "ticker": "BLISSGVS",
@@ -1066,26 +1096,6 @@
       "category": "Change in Directors",
       "title": "Larsen & Toubro Limited has informed the Exchange regarding Resignation of Mr. V. Sukumar Hebbar as Senior Management Personnel of the company w.e.f. July 27, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026110805_IntimationCessationHebbar.pdf"
-    },
-    {
-      "id": "fe32e3cd96992",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T16:44:40.000Z",
-      "category": "Disclosure",
-      "title": "SBI Capital Markets Ltd has submitted to the Exchange a copy of pre-offer advertisement in accordance with Regulation 18(7) of the SEBI (SAST) Regulations, 2011, as amended, and corrigendum to the detailed public statement for the attention of the public shareholders of the company.",
-      "url": "https://nsearchives.nseindia.com/corporate/team_bbodade_27072026163619_BLISSGVS.zip"
-    },
-    {
-      "id": "fd235f7c890e8",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-27T12:30:55.000Z",
-      "category": "Disclosure",
-      "title": "Larsen & Toubro Limited has informed the Exchange regarding 'Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (SEBI LODR) ESG Credit Rating'.",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_27072026123028_SESESGRating27072026.pdf"
     }
   ]
 }
