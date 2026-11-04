@@ -1,13 +1,130 @@
 {
-  "generated_at": "2026-11-03T20:35:52.644Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-11-04T20:53:47.042Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 113,
+    "watchlist": 120,
     "universe": 0,
-    "total": 113
+    "total": 120
   },
   "items": [
+    {
+      "id": "n7417d6bb9e20",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration CS Josephin Daisy resigns effective Nov 2, 2026",
+      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-cs-josephin-daisy-resigns-effective-nov-2/55172067",
+      "source": "scanx.trade",
+      "date": "2026-11-04T20:53:23.410Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "low",
+      "mood": "negative",
+      "takeaway": "Company Secretary Josephin Daisy to resign effective November 2026.",
+      "enriched": true
+    },
+    {
+      "id": "n38519685894c",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration appoints Debabrata Das as CFO from Oct 16",
+      "url": "https://scanx.trade/stock-market-news/companies/hindustan-oil-exploration-names-debabrata-das-cfo-october-16/53439937",
+      "source": "scanx.trade",
+      "date": "2026-11-04T20:53:23.410Z",
+      "topic": "Other",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Debabrata Das appointed as CFO starting October 16.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n7f10c13cbf88",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler revises list of key personnel authorized for disclosures | InvestyWise",
+      "url": "https://www.investywise.com/gmm-pfaudler-kmp-disclosure-update/",
+      "source": "investywise.com",
+      "date": "2026-11-04T20:53:21.823Z",
+      "topic": "Trouble",
+      "keyword": "Corporate Governance",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Company revised list of authorized personnel for regulatory disclosures.",
+      "enriched": true
+    },
+    {
+      "id": "nb97b0b25980a",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India: Consultancy-led growth and record order book strengthen earnings outlook- Moneycontrol.com",
+      "url": "https://www.moneycontrol.com/news/business/moneycontrol-research/engineers-india-consultancy-led-growth-and-record-order-book-strengthen-earnings-outlook-14067319.html",
+      "source": "moneycontrol.com",
+      "date": "2026-11-04T20:53:18.126Z",
+      "topic": "Orders",
+      "keyword": "Earnings",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Record order book strengthens earnings outlook with consultancy-led growth.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "n135322de0371",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma (NSE:BLISSGVS): Did Its UK Unit Win MHRA Approval for Mesalazine Suppositories?",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWVR5S2VPdkJCc1M2N01vcmk4M0FuLVNvcTlHOWZqa0MtWHpaTU9kUml0djY0Zk1mVHY0allHUFBudW5kT1h5OWJoMEpjdEdLazBVWHRCLXdYeC1yU0R0ZHQ3ZC1qV0ZfNWw4M0lqVnU4OEtBSFF6NXUyX05UMnVXRFYtVHVDLUZjUlFQUmhmX19seHB3dzVGdjF4NG53M00xamJPeW0tblF5NE1oVWdadFVHcExmcmJ0OWpGMm9KbjVHNVNJWWdDZmRJWEZFTUJSTkx6UlJB?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-04T11:44:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "UK unit received MHRA approval for Mesalazine Suppositories.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "nfb93a8c7fd89",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India reports 65% PAT increase and ₹20,421 crore order book in Q2 FY27",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNblp5Z3pjY1pMRnJGY1hZbTZRQjlGQS0xT0RBelpaX2hjdW5pRmkzU3pSZlJTdkI1SVM1VkpqRW1vN3pCb1liZ0N5dE9sZzFWZFg3ak1vbFpRTHY1TWVMQVFoRF90eTFNaDNJRHgwbFVPdHExNnB1VkY0VDZFUERkM3hIY2VHYmhDaHpiWThjdTRuYlgtNmU5eFdVZ0Y?oc=5",
+      "source": "InvestyWise",
+      "date": "2026-11-04T11:42:59.000Z",
+      "topic": "Money",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Q2 profit rose 65% with order book standing at Rs 20,421 crore.",
+      "enriched": true
+    },
     {
       "id": "n84409c8a32af",
       "ticker": "ENGINERSIN",
@@ -25,25 +142,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India reported record order book of Rs 20,421 crore in Q2 FY27.",
-      "enriched": true
-    },
-    {
-      "id": "n43f0b8113ed5",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Engineers India: Consultancy-led growth and record order book strengthen earnings outlook",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNclJGZ3NTOWVkXzdZTTctc1lxalZkTFRsb1RPbEhoNlY4WWV4ZWp6anFXSks5VloyVGlSQmtNVS1Vai1sNEVXcXpiWTlld0FKTTNRR1dUaGtwZEFHWkpLdE5EajB2YU5ORW5Ha21ickUtWkFobTllZXcxbzJyQTNVUjZpYU1sZ0lhZ0JWVkJ1Z0xoNGlFeFRQMmZBSnBJV1ZJVDdGLVhPR3Z4WkhoZXdJY2x3b3pyZE1FN0h0UFY0dkdQTjFoaDNmWUtaR1F3cHFwak1JLXZWaEp6eGZVdG05a3ZVbS14QVE0TUZSeVBUWGJ4c0VNMUVobDBza9IBgAJBVV95cUxQRDQxeHlwelFUbXdIUVhLdE1CMEpiSDV4SDhHb2ZrUVVxVG5oUW5HdU8yVEtfMEtTYVJtZ2tNX2Q3US1tZXczUWlMRzRkYUQ4eFpTT3MtaUdGNkVBeHVodTlEVzNGSF9tZDBxd1VCbGZUeXRaVklVdnF3TmpsZ0lObTU3OG5zMVNTTDh0QjFIWVBDV1BGRXNicEE4RFJRYWdvVXAyVUJXWlBUTmpWczVrV0VUSnVIeVp6aS1oekJIMUJkWnZiTGY4dTBZaDRYSXlxR0ZEWlVXZVFSOWdFUUJYd2VGWW9nSmxWUFhBbEtOWEZVcnJYZGNPYzhQenZITXNh?oc=5",
-      "source": "Moneycontrol.com",
-      "date": "2026-11-03T05:46:37.000Z",
-      "topic": "Orders",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Engineers India reports record order book strengthening earnings outlook through consultancy growth.",
       "enriched": true
     },
     {
@@ -429,6 +527,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T's Q2 order book indicates infrastructure sector growth.",
+      "enriched": true
+    },
+    {
+      "id": "nf8a26833d043",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "India's L&T posts 33% quarterly profit rise on healthy order inflow",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2k0dzZ6SmRJbXdfMTZ2QTV0VkJidVZDOUtWbVdsYlRad0tFTW5UYUpwdWdCRnhmcV9BbDVvVC1feDVSSk9mRE5EeEpBMzJGNmRyLVlOdVVKaDlqMHhQZGhFc0l2WW9pQnd6dHdfcWV4YWlycWpPYzhsTjVZOXZDN3J0UUZYbzVwaWJ0NlY5ajFmYVFqdzZpRFZaMUxYMFcxUHV3MmNVZGZFZ1RYUVF4cGwtaUtOd2ZiXzJYaFpKemQ0cFpRX253?oc=5",
+      "source": "Reuters",
+      "date": "2026-10-27T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Quarterly profit jumped 33% driven by healthy order inflow.",
       "enriched": true
     },
     {
@@ -855,26 +972,6 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "E2E Networks director resigns; L&T proposes replacement nominee.",
-      "enriched": true
-    },
-    {
-      "id": "n9e3408a1fb57",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-13T07:00:00.000Z",
-      "topic": "Trouble",
-      "keyword": "Resignation",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration appointed Debabrata Das as CFO after Allen Andrade resigned.",
-      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1630,6 +1727,25 @@
       "enriched": true
     },
     {
+      "id": "n696a26087576",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "EIL Eyes USD 1 Billion Pipeline and Storage Orders from Saudi Arabia and UAE Over Next 2-3 Years - https://indianmasterminds.com",
+      "url": "https://indianmasterminds.com/news/eil-1-billion-pipeline-storage-orders-saudi-arabia-uae-234884/",
+      "source": "indianmasterminds.com",
+      "date": "2026-09-19T17:22:07.082Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Engineers India targets $1 billion in pipeline and storage orders from Saudi Arabia and UAE over 2-3 years.",
+      "enriched": true
+    },
+    {
       "id": "n86e253583107",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -1649,22 +1765,22 @@
       "enriched": true
     },
     {
-      "id": "n696a26087576",
+      "id": "n2a08de40e61e",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "EIL Eyes USD 1 Billion Pipeline and Storage Orders from Saudi Arabia and UAE Over Next 2-3 Years - https://indianmasterminds.com",
-      "url": "https://indianmasterminds.com/news/eil-1-billion-pipeline-storage-orders-saudi-arabia-uae-234884/",
-      "source": "indianmasterminds.com",
-      "date": "2026-09-19T17:22:07.082Z",
+      "title": "EIL expects order boost as Gulf seeks to bypass Strait of Hormuz | Industry News - Business Standard",
+      "url": "https://www.business-standard.com/industry/news/eil-expects-order-boost-as-gulf-seeks-to-bypass-strait-of-hormuz-126091900002_1.html",
+      "source": "business-standard.com",
+      "date": "2026-09-19T07:29:40.277Z",
       "topic": "Orders",
       "keyword": "Order",
-      "importance": "high",
+      "importance": "medium",
       "mood": "positive",
-      "takeaway": "Engineers India targets $1 billion in pipeline and storage orders from Saudi Arabia and UAE over 2-3 years.",
+      "takeaway": "Engineers India expects order boost from Gulf projects to bypass Strait of Hormuz.",
       "enriched": true
     },
     {
@@ -1685,25 +1801,6 @@
       "mood": "positive",
       "takeaway": "Engineers India reported record-breaking profit and announced dividend.",
       "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n2a08de40e61e",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "EIL expects order boost as Gulf seeks to bypass Strait of Hormuz | Industry News - Business Standard",
-      "url": "https://www.business-standard.com/industry/news/eil-expects-order-boost-as-gulf-seeks-to-bypass-strait-of-hormuz-126091900002_1.html",
-      "source": "business-standard.com",
-      "date": "2026-09-19T07:29:40.277Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Engineers India expects order boost from Gulf projects to bypass Strait of Hormuz.",
       "enriched": true
     },
     {
@@ -1800,7 +1897,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Q1 FY27 earnings call transcript available.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1839,7 +1936,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1899,7 +1996,7 @@
       "mood": "positive",
       "takeaway": "L&T Hydrocarbon secures large ONGC order for well-head platforms and riser platform.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 3
     },
     {
       "id": "n44ae9e16b344",
@@ -2017,6 +2114,25 @@
       "enriched": true
     },
     {
+      "id": "nf9133c6468aa",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Renewables Business Wins (Major*) Order for Battery Energy Storage System in the Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSDFqZW85ckloOTdDSTF3UDNPUnBDZy1nOW44by13SUVVYnhjMnlUakpjZzVFM2NiREFCVlM4dHJjb25wcjluOFFrX25wX3ZkQlFBUHBTaVBkWU1mcl9ETkNoa3hFdlZyVUJRMUQ0TGM4dnN0czFaTkdQTDQycktwa09QNEZlS0UwVThoV2ZrcmNsWnlOWDY3WjE4b1JlMVBxSl9GaTdobU5XYU9KeDljZS1MSEtUbEpGQVpSR1RkbkhlTDFCR3FpalhuRE1lYjg5ck5KNHpFcUp2MFg2c0FmaC1nX21MQQ?oc=5",
+      "source": "Larsen & Toubro",
+      "date": "2026-08-25T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T Renewables wins major order for battery energy storage system in Middle East.",
+      "enriched": true
+    },
+    {
       "id": "ncc5a0b47fa3c",
       "ticker": "ENGINERSIN",
       "company": "Engineers India Limited",
@@ -2071,6 +2187,44 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Engineers India reports Q1 earnings with year-over-year comparison to ₹65.4 crore base.",
+      "enriched": true
+    },
+    {
+      "id": "n85e9414d4161",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
+      "source": "Reuters",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T secures AI data centre order worth up to $1.57 billion.",
+      "enriched": true
+    },
+    {
+      "id": "ne3efd01ba64c",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Larsen & Toubro Secures Mega* Order as part of a strategic partnership with Together AI to build India’s largest NVIDIA B300 AI Factory",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOQTZYdkt6anF0ZFZ1eHg3SlNianhCRXBxUmlCS19jX2RiMW9NNzlTQUlhUG9RcFpPckVUbFRQT1drR1QwWnRZWFZUdlpZZ0FuWWg3bkNoVEd4U1pEdlBMUVdId0Y1Wk1Kay1ObXROWjdVNHd4N2lGYUUxVTBOOTM3QnBYaGpnWkJqUzA1dWRHNTJ5ajNZOEEyTDkwejU1Ml9jbFhaQVBfR180aURac1FxOEZiT3NlYnBuOFRJako2Rk9HNWhSMUE4SHlpSmRjcUZvMzRpWXB6cVp6OWNtU2xVcUJwOEdJOTJicHJFZHVKS29PbzlLb3l1UG9fSFNnSFhsVG5seUxnVXlHQkdBTHZPd3NOaTRlWGhEU2Nj?oc=5",
+      "source": "Larsen & Toubro",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Partnership",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins mega order with Together AI to build India's largest NVIDIA B300 AI factory.",
       "enriched": true
     },
     {
@@ -2166,25 +2320,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler Q1 FY27 results on Aug 5, earnings call on Aug 6.",
-      "enriched": true
-    },
-    {
-      "id": "nd5671a64c862",
-      "ticker": "PPEL",
-      "company": "Poojaa Precision Engg. Limited",
-      "sector": "Automobile and Auto Components",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Poojaa Precision Engg SME IPO Opens July 28, Company Plans Capacity Expansion With ₹160 Crore Issue",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRk0yWDFjVWx1ZTRQZG81VDVPXzA0QlZQaXlpcksyTk45MWlseVRERXdTcGtuR2dTc18zRGpjWkdCQURqRnkwRWZrWXhRR0kxMWdGNlZjUDRKVDN5Rm5rb3NHWlpYVXFRbm9FU1lQUzBQVEdOd1czLVdPX3JVdXBLdlk0a3Z4RlE5NUVJbjhWOTEwcnVZTjBZTHcwVlVOcktKeWwtcjRIT0RMcG5RSVVKbjhzT0pnZk1LakhtR3QwMXNlc21NcHNSenU1Yzhib2c1dTNNWNIB2gFBVV95cUxNYmNpR1VNekg0ZzB0TDl1TjJldjRFRUxGOWNtVEp0b3lmU2JTZmVCdkptYTE3VUxWaFZtdk8tVDItYmVNV0lyY2FPYThzbDlLSFFHTVNlajJyRUtsZVRmM0lDNGxaUjYxQVVJUXFXb19mNzA0aE9OZ2tVa0JIX0dvMU5fYnd2d3QzVERzUU1pTXVyZTh2OUZwdWpLMktteFZwWUlob0tudXBwQ1Z5WHZUXzJTYmpqZDlOSlREMjVlZzlZOF94N2FhSUc3eGZ6eHBvX2tvTDljX2VFdw?oc=5",
-      "source": "Free Press Journal",
-      "date": "2026-07-27T07:00:00.000Z",
-      "topic": "Growth",
-      "keyword": "Capacity Expansion",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Poojaa Precision opens IPO July 28 to raise ₹160 crore for capacity expansion.",
       "enriched": true
     }
   ]
