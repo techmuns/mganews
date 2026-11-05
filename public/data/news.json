@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-11-04T20:53:47.042Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-05T09:48:09.641Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 120,
+    "watchlist": 122,
     "universe": 0,
-    "total": 120
+    "total": 122
   },
   "items": [
+    {
+      "id": "n03cc32829c0e",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler finalises Rs 88.09 crore acquisition goodwill",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTXh6NnNReWtuWHhnMUZFQ0pQZEtJX25UTThZT1pLSWcxSUN4SWF2d09YTUhLQzkzUjBBdDk2bmxEUjJlNWdLVGpqTDVEbTNUMm1uNkRWb1Vhc1BkYlM0akZWeXRGdHJOVzFta3JsdzNfb20xSW9kaVAyQS1seEtsV3pnWkdSRDlTX01iVDllVjZsa2U5aXpWV0lJWnQyNHFHR1dGeTVPSmFzcnpDeEllNnF3VFY5RFZ6UGFQT3lMa3ZJY3ZHWWZB?oc=5",
+      "source": "Multibagg AI",
+      "date": "2026-11-05T09:16:44.000Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler finalizes goodwill accounting for Rs 88 crore acquisition.",
+      "enriched": true
+    },
     {
       "id": "n7417d6bb9e20",
       "ticker": "HINDUSTANO",
@@ -972,6 +991,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "E2E Networks director resigns; L&T proposes replacement nominee.",
+      "enriched": true
+    },
+    {
+      "id": "n9e3408a1fb57",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Appoints Debabrata Das As CFO Effective October 16 Following Resignation Of Allen Andrade",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbVhmdWI1UGNIMUNXRDBnRDRCSktxX0JWNnV2UXJRa3FyU1FSUzZwMWlnNzZFcEhoM0lGanVRaW84ZEMzNnFDWnNXaVlJcmNCVXhUZERLUnBYaVExaGFTMHZsVW5qd0d6QmJFRVJMV3FlZXBNNTZsdXZQOUFfSmtRdnpkZjdvLVh0R2hkMFB3T25lNlY5UEdZYVVJVDFRWEVrTFlTekpxT0I1MEZiUzRfbzZCcV80OWowTkRxYk5CbVgwOXVMLU9xanZVUVZTb1Fpak45XzBkdzY?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-13T07:00:00.000Z",
+      "topic": "Trouble",
+      "keyword": "Resignation",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil appoints Debabrata Das as CFO after Allen Andrade resigns.",
       "enriched": true
     },
     {
