@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-04T20:55:58.232Z",
+  "generated_at": "2026-11-05T21:14:03.171Z",
   "source": "nse",
   "counts": {
-    "NSE": 109,
+    "NSE": 104,
     "BSE": 0,
-    "total": 109
+    "total": 104
   },
   "items": [
     {
@@ -1046,56 +1046,6 @@
       "category": "Investor Presentation",
       "title": "Larsen & Toubro Limited has informed the Exchange about Link of Recording",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026223622_Intimation28072026.pdf"
-    },
-    {
-      "id": "ff0633009fe09",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T18:24:23.000Z",
-      "category": "Disclosure",
-      "title": "Larsen & Toubro Limited has informed the Exchange about General Updates",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026182357_AnalystPresentationJune2026.pdf"
-    },
-    {
-      "id": "f07233758aa6b",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T17:30:18.000Z",
-      "category": "Acquisition",
-      "title": "Larsen & Toubro Limited has informed the Exchange about Amalgamation/Merger of L&T Power Development Limited, a wholly owned subsidiary of the Company, with the Company",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026172853_LTJune2026.pdf"
-    },
-    {
-      "id": "f6ca50a22f104",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T17:18:41.000Z",
-      "category": "Board Meeting",
-      "title": "Larsen & Toubro Limited has submitted to the Exchange, the un-audited financial results for the period ended Jun 30, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026171704_LTJune2026.pdf"
-    },
-    {
-      "id": "f0078edacec13",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T13:33:43.000Z",
-      "category": "Allotment of Securities",
-      "title": "Larsen & Toubro Limited has informed the Exchange regarding allotment of 136908 securities pursuant to ESOP/ESPS at its meeting held on July 28, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026133313_ESOPAllotment28072026.pdf"
-    },
-    {
-      "id": "f2e03ef0732b6",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T11:10:22.000Z",
-      "category": "Change in Directors",
-      "title": "Larsen & Toubro Limited has informed the Exchange regarding Resignation of Mr. V. Sukumar Hebbar as Senior Management Personnel of the company w.e.f. July 27, 2026.",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026110805_IntimationCessationHebbar.pdf"
     }
   ]
 }
