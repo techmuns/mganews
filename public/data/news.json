@@ -1,30 +1,69 @@
 {
-  "generated_at": "2026-11-05T09:48:09.641Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-11-05T21:10:48.789Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 122,
+    "watchlist": 124,
     "universe": 0,
-    "total": 122
+    "total": 124
   },
   "items": [
     {
-      "id": "n03cc32829c0e",
+      "id": "n0795731e08f0",
       "ticker": "GMMPFAUDLE",
       "company": "GMM Pfaudler",
       "sector": "",
       "scope": [
         "watchlist"
       ],
-      "title": "GMM Pfaudler finalises Rs 88.09 crore acquisition goodwill",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTXh6NnNReWtuWHhnMUZFQ0pQZEtJX25UTThZT1pLSWcxSUN4SWF2d09YTUhLQzkzUjBBdDk2bmxEUjJlNWdLVGpqTDVEbTNUMm1uNkRWb1Vhc1BkYlM0akZWeXRGdHJOVzFta3JsdzNfb20xSW9kaVAyQS1seEtsV3pnWkdSRDlTX01iVDllVjZsa2U5aXpWV0lJWnQyNHFHR1dGeTVPSmFzcnpDeEllNnF3VFY5RFZ6UGFQT3lMa3ZJY3ZHWWZB?oc=5",
-      "source": "Multibagg AI",
-      "date": "2026-11-05T09:16:44.000Z",
+      "title": "GMM Pfaudler sees HET and PPT lift bookings as PST falls | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/gmm-pfaudler-divisional-order-mix-ppt-cmw3c8rel001y2mphvh4qha9v",
+      "source": "multibagg.ai",
+      "date": "2026-11-05T21:10:24.585Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler's HET and PPT segments boosted bookings while PST segment declined.",
+      "enriched": true
+    },
+    {
+      "id": "nc3d8dec2522a",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler finalises Rs 88.09 crore acquisition goodwill | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/gmm-pfaudler-finalises-goodwill-allocation-announcement-cmw3c046200192mphqv905qg4",
+      "source": "multibagg.ai",
+      "date": "2026-11-05T21:10:24.585Z",
       "topic": "Deals",
       "keyword": "Acquisition",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "GMM Pfaudler finalizes goodwill accounting for Rs 88 crore acquisition.",
+      "takeaway": "GMM Pfaudler finalizes goodwill accounting of Rs 88.09 crore for an acquisition.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n569841012795",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India puts infrastructure at 20-25% of inflow | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/engineers-india-infrastructure-order-inflow-concall-cmw3c31vv001i2mphm00k6v8v",
+      "source": "multibagg.ai",
+      "date": "2026-11-05T21:10:20.945Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Engineers India expects infrastructure to contribute 20-25% of order inflow.",
       "enriched": true
     },
     {
@@ -237,7 +276,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Larsen & Toubro reports record quarterly earnings in Q2 FY27.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -295,6 +334,25 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extended deadline for Vyoma.AI deal and stake sale to March 2027.",
+      "enriched": true
+    },
+    {
+      "id": "n293d37257473",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Targets Doubling Order Book By 2031 Via Global Expansion",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNW9mZ29TNnlESnQ1dkhMOGZVUFk2ZFNsNUlGVTd4cWl1Vm1hbXBoVlItd3lDQkFxT3QtbWlfMWNQM1poaGMxams0YXNmRFYxRF83aWZEWmRpWkRLbmlSN21zTnVmVnMtdlpYTHpWVFNuWkYzTzVOdzk4ODNBdTBnQXNRY3JMeldqbXozUVM1WQ?oc=5",
+      "source": "Sahi",
+      "date": "2026-10-29T04:02:23.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T targets doubling its order book by 2031 through global expansion.",
       "enriched": true
     },
     {
@@ -2339,25 +2397,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "GMM Pfaudler Q1 profit more than doubled year-on-year with strong order momentum.",
-      "enriched": true
-    },
-    {
-      "id": "n20b10b303a00",
-      "ticker": "GMMPFAUDLE",
-      "company": "GMM Pfaudler",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "GMM Pfaudler Q1FY27 Results on Aug 5, Earnings Call Scheduled for Aug 6",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM2Q1cHN3WFBuRndSaFNQaVk4XzlZVktTbjBsaXd5dmZYNGU0TXFDZEo4dmh4NjE2V3ltbElkVFVYT2lMd0RVcmFrdFB3SmlXVDc2bVNFa3c5dnQzb1pzOGw1bkdFQmZ0ZlNWV19yZDh0ZjdzTWFEX0tDTk9fdVQtd2JUeGpZN09ZeTFOZ3N0TmNpTlZQTFIxTXMtMnVOdjNDc1A0NUxfY2NpLW9wSWVWVEI3U24yWms?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-07-28T13:39:19.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "GMM Pfaudler Q1 FY27 results on Aug 5, earnings call on Aug 6.",
       "enriched": true
     }
   ]
