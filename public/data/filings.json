@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T21:14:03.171Z",
+  "generated_at": "2026-11-06T09:57:01.249Z",
   "source": "nse",
   "counts": {
     "NSE": 104,
@@ -366,6 +366,16 @@
       "category": "Allotment of Securities",
       "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding allotment of 22439134 warrants pursuant to Preferential Issue at its meeting held on October 01, 2026",
       "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_01102026114607_REG30_01102026_ALLOTMENT_OF_SHARES.pdf"
+    },
+    {
+      "id": "f2065ba439567",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-09-30T15:29:11.000Z",
+      "category": "Disclosure",
+      "title": "Larsen & Toubro Limited has informed the Exchange about General Updates",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_30092026152845_IntimationLTMRHL30092026.pdf"
     },
     {
       "id": "fc9c9d798468c",
@@ -1036,16 +1046,6 @@
       "category": "Newspaper Publication",
       "title": "Larsen & Toubro Limited has informed the Exchange about Copy of Newspaper Publication",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_29072026163945_NewspaperAdvtJune2026.pdf"
-    },
-    {
-      "id": "fd9be57e04dea",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-28T22:36:51.000Z",
-      "category": "Investor Presentation",
-      "title": "Larsen & Toubro Limited has informed the Exchange about Link of Recording",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_28072026223622_Intimation28072026.pdf"
     }
   ]
 }
