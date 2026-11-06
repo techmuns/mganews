@@ -1,12 +1,22 @@
 {
-  "generated_at": "2026-11-06T09:57:01.249Z",
+  "generated_at": "2026-11-06T20:34:23.205Z",
   "source": "nse",
   "counts": {
-    "NSE": 104,
+    "NSE": 105,
     "BSE": 0,
-    "total": 104
+    "total": 105
   },
   "items": [
+    {
+      "id": "f549aeb6afbe4",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "exchange": "NSE",
+      "date": "2026-11-06T15:59:03.000Z",
+      "category": "Disclosure",
+      "title": "Bliss GVS Pharma Limited has informed the Exchange regarding Disclosure under Regulation 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 ( SEBI Listing Regulations )",
+      "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_06112026155853_Intimation_Reg_30_Bliss.pdf"
+    },
     {
       "id": "fc18ce04a3634",
       "ticker": "LT",
@@ -156,6 +166,16 @@
       "category": "Press Release",
       "title": "Jayaswal Neco Industries Limited has informed the Exchange regarding a press release dated October 28, 2026, titled \"Newspaper Clipping- Special Window for Transfer and Dematerialisation ('Demat\") ofPhysical Shares pursuant to Regulation 30 of SEBI (Listing Obligations and DisclosureRequirements) Regulations, 2015 and SEBI Circular No. HO/38/13/11(2)2026-MIRSDPOD/I/3750/2026 dated 30 January, 2026.\".",
       "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND3_28102026132744_specialwindowadvt28102026.pdf"
+    },
+    {
+      "id": "ff583afeedef2",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-10-27T22:13:16.000Z",
+      "category": "Investor Presentation",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Link of Recording",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_27102026221257_Intimation27102026.pdf"
     },
     {
       "id": "f3ff761465a52",
@@ -1036,16 +1056,6 @@
       "category": "Press Release",
       "title": "Larsen & Toubro Limited has informed the Exchange regarding a press release dated July 31, 2026, titled \"L&T Energy Hydrocarbon Onshore Signs Six-Year EPC Agreement with Petroleum Development Oman\".",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_31072026093000_PressRelease31072026.pdf"
-    },
-    {
-      "id": "fd0319a5176a6",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-29T16:40:05.000Z",
-      "category": "Newspaper Publication",
-      "title": "Larsen & Toubro Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_29072026163945_NewspaperAdvtJune2026.pdf"
     }
   ]
 }
