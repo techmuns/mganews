@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T09:50:28.485Z",
+  "generated_at": "2026-11-06T20:30:40.370Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -915,7 +915,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 3
     },
     {
       "id": "n79eb036318cd",
@@ -1531,7 +1531,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquired 48.2% stake in Bliss GVS Pharma, gaining control of the company.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n4f57203acc64",
