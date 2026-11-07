@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-06T20:34:23.205Z",
+  "generated_at": "2026-11-07T09:19:29.939Z",
   "source": "nse",
   "counts": {
-    "NSE": 105,
+    "NSE": 106,
     "BSE": 0,
-    "total": 105
+    "total": 106
   },
   "items": [
     {
@@ -126,6 +126,16 @@
       "category": "Newspaper Publication",
       "title": "Bliss GVS Pharma Limited has informed the Exchange about Copy of Newspaper Publication regarding the Postal Ballot Notice dated October 01, 2026.",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_29102026125934_PB_Adv_Intimation.pdf"
+    },
+    {
+      "id": "fcc3a513cc0fe",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-10-28T19:47:25.000Z",
+      "category": "Newspaper Publication",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Copy of Newspaper Publication",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_28102026194657_NewspaperAdvtSep2026.pdf"
     },
     {
       "id": "f3bd725ebd1ea",
