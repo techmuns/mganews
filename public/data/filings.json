@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-07T09:19:29.939Z",
+  "generated_at": "2026-11-08T09:43:22.966Z",
   "source": "nse",
   "counts": {
-    "NSE": 106,
+    "NSE": 105,
     "BSE": 0,
-    "total": 106
+    "total": 105
   },
   "items": [
     {
@@ -1056,16 +1056,6 @@
       "category": "Newspaper Publication",
       "title": "Jayaswal Neco Industries Limited has informed the Exchange about Copy of Newspaper Publication",
       "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND2_01082026154043_CL_0001_merged.pdf"
-    },
-    {
-      "id": "f4ce0262d3060",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-07-31T09:30:22.000Z",
-      "category": "Press Release",
-      "title": "Larsen & Toubro Limited has informed the Exchange regarding a press release dated July 31, 2026, titled \"L&T Energy Hydrocarbon Onshore Signs Six-Year EPC Agreement with Petroleum Development Oman\".",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_31072026093000_PressRelease31072026.pdf"
     }
   ]
 }
