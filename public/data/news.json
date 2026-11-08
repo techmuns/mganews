@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T19:00:01.057Z",
+  "generated_at": "2026-11-08T09:24:02.104Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -429,7 +429,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T targets doubling its order book to Rs 15 lakh crore by FY31.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
