@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:08:59.027Z",
+  "generated_at": "2026-11-09T23:32:26.540Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -9,43 +9,43 @@
   },
   "items": [
     {
-      "id": "n02d1f743d1c1",
-      "ticker": "GMMPFAUDLE",
-      "company": "GMM Pfaudler",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Q2 2027 GMM Pfaudler Ltd Earnings Call Transcript",
-      "url": "https://gurufocus.com/news/9182719/q2-2027-gmm-pfaudler-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-11-09T10:08:38.318Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "GMM Pfaudler held its Q2 2027 earnings call to discuss quarterly results.",
-      "sources_count": 5,
-      "enriched": true
-    },
-    {
-      "id": "n24e808a08644",
+      "id": "n49cb6330cd6b",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
       "sector": "Capital Goods",
       "scope": [
         "watchlist"
       ],
-      "title": "L&T bags order worth up to ₹2,500 crore for Noida Metro Aqua Line Extension - CNBC TV18",
-      "url": "https://www.cnbctv18.com/market/larsen-and-toubro-lt-share-price-significant-order-win-2500-crore-noida-metro-aqua-line-extension-guidance-20030167.htm",
-      "source": "cnbctv18.com",
-      "date": "2026-11-09T10:08:37.577Z",
+      "title": "L&T to build 10 stations for Noida Metro Aqua Line under Rs 1,000 to 2,500 crore order - The Economic Times",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/construction/lt-to-build-10-stations-for-noida-metro-aqua-line-for-rs-1000-to-2500-crore-botanical-garden-to-sector-142/articleshow/135673410.cms",
+      "source": "economictimes.indiatimes.com",
+      "date": "2026-11-09T23:32:13.777Z",
       "topic": "Orders",
       "keyword": "Order",
       "importance": "high",
       "mood": "positive",
-      "takeaway": "L&T won a contract worth up to ₹2,500 crore for Noida Metro Aqua Line Extension.",
-      "sources_count": 11,
+      "takeaway": "L&T wins Rs 1,000-2,500 crore contract to build 10 stations for Noida Metro Aqua Line.",
+      "enriched": true,
+      "sources_count": 2
+    },
+    {
+      "id": "nf63750273dca",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Ltd (BOM:505255) (Q2 2027) Earnings Call Highlights: Record Rs. 1,200 Crore Order Inflow and Rs. 2,446 Crore Backlog Signal Strong H2 FY27 Revenue Visibility",
+      "url": "https://gurufocus.com/news/9183172/gmm-pfaudler-ltd-bom505255-q2-2027-earnings-call-highlights-record-rs-1200-crore-order-inflow-and-rs-2446-crore-backlog-signal-strong-h2-fy27-revenue-visibility",
+      "source": "gurufocus.com",
+      "date": "2026-11-09T23:32:13.760Z",
+      "topic": "Orders",
+      "keyword": "Earnings",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler reports record Rs 1,200 crore order inflow in Q2, backlog stands at Rs 2,446 crore.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -278,7 +278,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "UK unit received MHRA approval for Mesalazine Suppositories.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1013,7 +1013,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 4
     },
     {
       "id": "n79eb036318cd",
