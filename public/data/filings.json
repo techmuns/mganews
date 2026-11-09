@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-08T09:43:22.966Z",
+  "generated_at": "2026-11-09T23:34:43.923Z",
   "source": "nse",
   "counts": {
-    "NSE": 105,
+    "NSE": 104,
     "BSE": 0,
-    "total": 105
+    "total": 104
   },
   "items": [
     {
@@ -1046,16 +1046,6 @@
       "category": "Investor Presentation",
       "title": "Larsen & Toubro Limited has informed the Exchange about Transcript",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_03082026181720_TranscriptJune2026.pdf"
-    },
-    {
-      "id": "ff2164edaba0e",
-      "ticker": "JAYNECOIND",
-      "company": "Jayaswal Neco Industries Limited",
-      "exchange": "NSE",
-      "date": "2026-08-01T15:41:31.000Z",
-      "category": "Newspaper Publication",
-      "title": "Jayaswal Neco Industries Limited has informed the Exchange about Copy of Newspaper Publication",
-      "url": "https://nsearchives.nseindia.com/corporate/JAYNECOIND2_01082026154043_CL_0001_merged.pdf"
     }
   ]
 }
