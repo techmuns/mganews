@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T10:16:03.734Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-10T20:57:37.444Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 133,
+    "watchlist": 134,
     "universe": 0,
-    "total": 133
+    "total": 134
   },
   "items": [
     {
@@ -25,7 +25,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Hindustan Oil Exploration released Q2 FY2027 earnings call transcript.",
-      "sources_count": 5,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -45,7 +45,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins Noida Metro Rail contract for 10 elevated stations on Aqua Line.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 8
     },
     {
       "id": "ndf18537c8d0e",
@@ -122,6 +123,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Anupam Rasayan promoters revise pledge disclosure to name lenders.",
+      "enriched": true
+    },
+    {
+      "id": "nbb84bc21aed3",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Wins Noida Metro Aqua Line Extension Order For 15.1 Km Corridor",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12Nm0wT190anpyT0FwVk1Qb0NBM1VDZUg5SGU2cE9CUDRkTmJsTWZiQ3J3enoyLWtFcE1jaFJURE9SUEE0T2dPOTBHazgwRmluVk5yOXhVWE1LcUdQMjJJX0M2U0xjWFVmbFZ3MU9UR1Uxd2VJU2c?oc=5",
+      "source": "Business Connect India",
+      "date": "2026-11-10T06:27:24.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T won order to build 15.1 km extension of Noida Metro Aqua Line.",
       "enriched": true
     },
     {
@@ -393,7 +413,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "UK unit received MHRA approval for Mesalazine Suppositories.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
