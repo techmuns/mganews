@@ -1,13 +1,129 @@
 {
-  "generated_at": "2026-11-09T23:32:26.540Z",
+  "generated_at": "2026-11-10T10:16:03.734Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 128,
+    "watchlist": 133,
     "universe": 0,
-    "total": 128
+    "total": 133
   },
   "items": [
+    {
+      "id": "nea034f08b6b7",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q2 2027 Hindustan Oil Exploration Company Ltd Earnings Call Transcript",
+      "url": "https://gurufocus.com/news/9186739/q2-2027-hindustan-oil-exploration-company-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-11-10T10:15:43.012Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration released Q2 FY2027 earnings call transcript.",
+      "sources_count": 5,
+      "enriched": true
+    },
+    {
+      "id": "ncc8431f040e9",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T bags Noida Metro Rail order for Aqua Line: 10 elevated stations; Botanical Garden, Sec 142, Depot, Boraki – details | Mint",
+      "url": "https://www.livemint.com/industry/infrastructure/lt-bags-noida-metro-rail-order-for-aqua-line-10-elevated-stations-botanical-garden-sec-142-depot-boraki-ke-11794223765121.html",
+      "source": "livemint.com",
+      "date": "2026-11-10T10:15:40.774Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins Noida Metro Rail contract for 10 elevated stations on Aqua Line.",
+      "enriched": true
+    },
+    {
+      "id": "ndf18537c8d0e",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan India Ltd (BOM:543275) (Q2 2027) Earnings Call Highlights: 21% Revenue Growth, Bliss GVS Acquisition, and a INR17,496 Crore Order Book",
+      "url": "https://gurufocus.com/news/9187087/anupam-rasayan-india-ltd-bom543275-q2-2027-earnings-call-highlights-21-revenue-growth-bliss-gvs-acquisition-and-a-inr17496-crore-order-book",
+      "source": "gurufocus.com",
+      "date": "2026-11-10T10:15:37.626Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completes Bliss GVS acquisition, reports 21% revenue growth and strong order book.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n6938ff27526c",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan Q2 Profit At Rs 500 Crore; Completes Bliss GVS Acquisition | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-Q2-Profit-At-Rs-500-Crore-Completes-Bliss-GVS-Acquisition/6aeda8dfc6c6dccbb916ea97",
+      "source": "whalesbook.com",
+      "date": "2026-11-10T10:15:37.626Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan reports Q2 profit of Rs 500 crore and completes Bliss GVS acquisition.",
+      "enriched": true
+    },
+    {
+      "id": "nb82532fd1856",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan Projects FY27 Revenue Of ₹4,800–5,000 Crore With 23% Margin",
+      "url": "https://www.sahi.com/news/anupam-rasayan-projects-fy27-revenue-of-4-800-5-000-crore-with-23-margin",
+      "source": "sahi.com",
+      "date": "2026-11-10T10:15:37.626Z",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan projects FY27 revenue of Rs 4,800-5,000 crore with 23% margin.",
+      "enriched": true
+    },
+    {
+      "id": "n16e6ffb29362",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan promoters revise pledge disclosure to name lenders",
+      "url": "https://scanx.trade/stock-market-news/companies/anupam-rasayan-promoter-revises-pledge-disclosure-name-lenders/55748342",
+      "source": "scanx.trade",
+      "date": "2026-11-10T10:15:37.626Z",
+      "topic": "Other",
+      "keyword": "Acquisition",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Anupam Rasayan promoters revise pledge disclosure to name lenders.",
+      "enriched": true
+    },
     {
       "id": "n49cb6330cd6b",
       "ticker": "LT",
@@ -26,7 +142,7 @@
       "mood": "positive",
       "takeaway": "L&T wins Rs 1,000-2,500 crore contract to build 10 stations for Noida Metro Aqua Line.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 12
     },
     {
       "id": "nf63750273dca",
@@ -45,26 +161,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "GMM Pfaudler reports record Rs 1,200 crore order inflow in Q2, backlog stands at Rs 2,446 crore.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "ne5d54c33b021",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration HINDOILEXP Q2 FY27 Earnings Call | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/announcements/hindustan-oil-exploration-nsehindoilexp-what-is-the-q2-fy27-earnings-call-about",
-      "source": "kalkine.co.in",
-      "date": "2026-11-08T18:58:43.466Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration held its Q2 FY27 earnings call.",
       "sources_count": 4,
       "enriched": true
     },
@@ -123,6 +219,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Anupam Rasayan reports 21% revenue growth in H1 FY27 at Rs 1,489 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n6c4dfb9e20e0",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Ltd (BOM:505255) (Q2 2027) Earnings Call Highlights",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxORV9vWThCQkY0SjhBVFNyUUFtMEN2WUhlbTB2OGNvRTRkV0I1XzJPMjBlOWVHb081bGNrMzM2QnFIa3VpaFl6blRtSkg4ZExPWnJfcnVPdXQ2QjJxdndwdHVOX3k2UG9pc1ozUkJHcG1XV0diSm1fdGNqZWJPcGtobGVGaDdMUERTeGRWMXFYRjVtaWVCMnhuT2JWZmhsLWhhQUx0Sk9lNERYc0s0S3VpWWVhVnhVdGJuYVhlVnFZVF9kZGs2UTUxcWMzb2hjRlo4QjZBakdFSnJYMHdhY09GUGVhekZCUHhNekZyYzVGczFHTk5QQVozSXkteWIyU3g0X01BRFlrOWt5d2RHY3o0WmtRNU94akRxYkNDekVsQ0VCcFpXQnc?oc=5",
+      "source": "GuruFocus",
+      "date": "2026-11-07T10:18:45.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler released Q2 FY2027 earnings call highlights.",
       "enriched": true
     },
     {
@@ -278,7 +393,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "UK unit received MHRA approval for Mesalazine Suppositories.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -724,26 +839,6 @@
       "enriched": true
     },
     {
-      "id": "n00f84516c1d0",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T bags Dhaka Metro order worth up to ₹10,000 crore; here’s how stock is faring ahead of Q2 earnings",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWW1LcGNzcHZScURmMzhkLU50Nmg5UmFmbkhiYl9fdngta05SZnVvOHA4R05TdXZLcFVKdE1FM1dBRFV4bWVmc1NlbUdrRlluLW11MVAtRDZkTXhIc0pfTHZHWDVGa0lkcFVJLUd0T2ptbFQ0M25GcFpCTjRIeWZwcEljSmJHTWxlVFotcG9HWmlidWVmVFM1Ml9qZ3h3b0JURTdwSjN4NlNmY1A0UmJNaFpyVmlNRE9Zb3gwR2lNQzFVRWZBRmE5MzBRT3EzbXNkbE40NGppbzlCeWdYRjYybG14UlRodUxnanVCR21vcEwzT1lx?oc=5",
-      "source": "Upstox",
-      "date": "2026-10-27T06:10:51.000Z",
-      "topic": "Orders",
-      "keyword": "Earnings",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T won Dhaka Metro contract worth up to ₹10,000 crore.",
-      "enriched": true,
-      "sources_count": 2
-    },
-    {
       "id": "n122d3181197c",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -1013,7 +1108,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 3
     },
     {
       "id": "n79eb036318cd",
@@ -2346,6 +2441,25 @@
       "enriched": true
     },
     {
+      "id": "nbe4e50d42d8e",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Q1 FY27 Earnings Presentation Key Updates",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG1hV2ZwSTgtaGh1bm9sM09MZ1lDbnNRaDktVWNxQ0pFelRldWI3Z0JwZkIxNUk2NnhramYybWliOE5Uemx6dl9iQ2N1MF9CbWJIUUU0SUNxMXJkWk0yQmF5Mmk4eGtwWEtvWERhTWtsLVRfWjR3YmUybkttZnJ6eTdOcnloNGYwUFpSQ2dWWks1bGJDdXA4ZkgwcGFyMkxTN0hVdEcyLU1aTmtIaVh3bnQxQWwwRGdpVWV5Zzdsc2N1RkRiTmNNaHlnOUZ5UQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-08-13T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration released Q1 FY27 earnings presentation.",
+      "enriched": true
+    },
+    {
       "id": "n85e9414d4161",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -2381,25 +2495,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T wins mega order with Together AI to build India's largest NVIDIA B300 AI factory.",
-      "enriched": true
-    },
-    {
-      "id": "nbe4e50d42d8e",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Q1 FY27 Earnings Presentation Key Updates",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG1hV2ZwSTgtaGh1bm9sM09MZ1lDbnNRaDktVWNxQ0pFelRldWI3Z0JwZkIxNUk2NnhramYybWliOE5Uemx6dl9iQ2N1MF9CbWJIUUU0SUNxMXJkWk0yQmF5Mmk4eGtwWEtvWERhTWtsLVRfWjR3YmUybkttZnJ6eTdOcnloNGYwUFpSQ2dWWks1bGJDdXA4ZkgwcGFyMkxTN0hVdEcyLU1aTmtIaVh3bnQxQWwwRGdpVWV5Zzdsc2N1RkRiTmNNaHlnOUZ5UQ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration released Q1 FY27 earnings presentation.",
       "enriched": true
     },
     {
