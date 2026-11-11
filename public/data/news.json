@@ -1,31 +1,70 @@
 {
-  "generated_at": "2026-11-10T20:57:37.444Z",
-  "source": "google-news+valuepickr+claude",
+  "generated_at": "2026-11-11T09:46:30.055Z",
+  "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 134,
+    "watchlist": 135,
     "universe": 0,
-    "total": 134
+    "total": 135
   },
   "items": [
     {
-      "id": "nea034f08b6b7",
+      "id": "n00a16acdd602",
       "ticker": "HINDUSTANO",
       "company": "Hindustan Oil Exploration Company",
       "sector": "",
       "scope": [
         "watchlist"
       ],
-      "title": "Q2 2027 Hindustan Oil Exploration Company Ltd Earnings Call Transcript",
-      "url": "https://gurufocus.com/news/9186739/q2-2027-hindustan-oil-exploration-company-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-11-10T10:15:43.012Z",
+      "title": "Hindustan Oil Exploration Co Ltd (BOM:500186) (Q2 2027) Earnings Call Highlights: Revenue Jumps ... By GuruFocus",
+      "url": "https://ca.investing.com/news/company-news/hindustan-oil-exploration-co-ltd-bom500186-q2-2027-earnings-call-highlights-revenue-jumps--4945565",
+      "source": "ca.investing.com",
+      "date": "2026-11-11T09:46:15.770Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Hindustan Oil Exploration reported revenue jump in Q2 FY27 earnings.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "ne5d54c33b021",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration HINDOILEXP Q2 FY27 Earnings Call | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/announcements/hindustan-oil-exploration-nsehindoilexp-what-is-the-q2-fy27-earnings-call-about",
+      "source": "kalkine.co.in",
+      "date": "2026-11-11T09:46:15.770Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration released Q2 FY2027 earnings call transcript.",
-      "sources_count": 3,
+      "takeaway": "Hindustan Oil Exploration held Q2 FY27 earnings call.",
+      "enriched": true
+    },
+    {
+      "id": "nc60bdaddbb33",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma, ETManufacturing",
+      "url": "https://manufacturing.economictimes.indiatimes.com/amp/news/chemicals/anupam-rasayan-completes-acquisition-of-48-2-stake-in-bliss-gvs-pharma/134581283",
+      "source": "manufacturing.economictimes.indiatimes.com",
+      "date": "2026-11-11T09:45:58.601Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
+      "sources_count": 4,
       "enriched": true
     },
     {
@@ -46,7 +85,7 @@
       "mood": "positive",
       "takeaway": "L&T wins Noida Metro Rail contract for 10 elevated stations on Aqua Line.",
       "enriched": true,
-      "sources_count": 8
+      "sources_count": 14
     },
     {
       "id": "ndf18537c8d0e",
@@ -124,45 +163,6 @@
       "mood": "neutral",
       "takeaway": "Anupam Rasayan promoters revise pledge disclosure to name lenders.",
       "enriched": true
-    },
-    {
-      "id": "nbb84bc21aed3",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Wins Noida Metro Aqua Line Extension Order For 15.1 Km Corridor",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12Nm0wT190anpyT0FwVk1Qb0NBM1VDZUg5SGU2cE9CUDRkTmJsTWZiQ3J3enoyLWtFcE1jaFJURE9SUEE0T2dPOTBHazgwRmluVk5yOXhVWE1LcUdQMjJJX0M2U0xjWFVmbFZ3MU9UR1Uxd2VJU2c?oc=5",
-      "source": "Business Connect India",
-      "date": "2026-11-10T06:27:24.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T won order to build 15.1 km extension of Noida Metro Aqua Line.",
-      "enriched": true
-    },
-    {
-      "id": "n49cb6330cd6b",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T to build 10 stations for Noida Metro Aqua Line under Rs 1,000 to 2,500 crore order - The Economic Times",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/construction/lt-to-build-10-stations-for-noida-metro-aqua-line-for-rs-1000-to-2500-crore-botanical-garden-to-sector-142/articleshow/135673410.cms",
-      "source": "economictimes.indiatimes.com",
-      "date": "2026-11-09T23:32:13.777Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins Rs 1,000-2,500 crore contract to build 10 stations for Noida Metro Aqua Line.",
-      "enriched": true,
-      "sources_count": 12
     },
     {
       "id": "nf63750273dca",
@@ -258,7 +258,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "GMM Pfaudler released Q2 FY2027 earnings call highlights.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n0795731e08f0",
@@ -316,6 +317,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Engineers India expects infrastructure to contribute 20-25% of order inflow.",
+      "enriched": true
+    },
+    {
+      "id": "n89a49ac75bb3",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2 FY27 Earnings Call Audio Now Available",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeG1EMW12YTZianN4eWJZWWJ2Z2c2R3U4aE5YZndYYmFqWEw3UUpWU2RRNkdxYmNOV1JDc1FSUnk2UVMyTXltaUx3R2VEZ1JFUGV1SDFNQldRc1lQLTJvd0UxWGFiU3lTczFKVGZrbjc3Q0pfSlpfWXo1YmcwWnhsbkhlQnYxbWFGTTBnTW9zVDZTcjZjcG1nRDlFZlZZQ1E2WW4xV0ExUmVkYXByRS1Pcnc5RlhHUQ?oc=5",
+      "source": "Kalkine India",
+      "date": "2026-11-05T11:35:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler Q2 FY27 earnings call audio available.",
       "enriched": true
     },
     {
@@ -413,7 +433,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "UK unit received MHRA approval for Mesalazine Suppositories.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -433,6 +453,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Q2 profit rose 65% with order book standing at Rs 20,421 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n408382d327b1",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler (NSE:GMMPFAUDLR) Reports Strong H1 FY27 Performance with 17% Revenue Growth and Record Order Backlog",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNa1BkM2dMS3pfd0pDWk44WTBWaXhGb0h3Z3FFckd6a05aN21pMkhWZ1k5OUZUVkp4MC1oVUVrME43ZlJvMkU0OTRZbzc5LVdoTE9VbnctbkZ1bVF0bTl5bWk2NGE2SXlualU1UU1uRGs0SklaSVFpOUpvTVRGNDBPTmJqd0pISHZ0LVp6V2NGcVkyblFKU1JjUFJZd0RnMmROZndLUU5GV0IzRFg3ZTZKel9QVWUxdHkxNTE4X0xOMTFKX2lLUEVieTVLRUxFUE1FTENxeFo5bDNhckZ0aVh3ODBBX3FndUdjRnNzbQ?oc=5",
+      "source": "Kalkine Media",
+      "date": "2026-11-04T11:39:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "GMM Pfaudler reported 17% revenue growth in H1 FY27 with record order backlog.",
       "enriched": true
     },
     {
@@ -1128,7 +1167,7 @@
       "mood": "positive",
       "takeaway": "Anupam Rasayan acquires control of Bliss GVS Pharma in a Rs 1,750 crore deal.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n79eb036318cd",
@@ -1726,26 +1765,6 @@
       "mood": "positive",
       "takeaway": "Bliss GVS acquisition enables Anupam Rasayan to enter finished medicines segment.",
       "enriched": true
-    },
-    {
-      "id": "nf95b06d2adb0",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan completes acquisition of 48.2% stake in Bliss GVS Pharma",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOXRyMVJ4dlN1c0I1Y2hOcnVSWFBSR2xOQVlnNnYxOFlwM1NmOWk5N1Q5MDVlQ1hhNUhOXy13T2FfVXJtTWd3dERtS1RfYnU5eU9tWjhiQ3V0YjM0dnZUNkd3ZWJ0NWJ3SVR4eTliaXB6amdvU2xQOXNwdFN1NnlGOVpRQlU2MG9NLVh1c3ZxOS11d2tnRmhrR2VNVmZzZWQxSG9RY245TXAxbjNUbDA1N19EOXlocFpwMG9ZN3V6czhpMzhYS1ZiN1VybFFkVk5Rb3VhZmhzX1h5TElxbklv0gHkAUFVX3lxTE56N3M5MnhjUnBiVE9IQ09uY2pkNTk3cjhnRnhYWE14X3Uwb043ckE4c1hFREVsbUxXOENZS1prVUhFQndtMGdlQ0F5R0hMN0h0dHlpTXpmUkFDb1l6a2xQZE0tTlAxcDVHTW9Ka01OS3FScnZGVHFZZGdEN0pqRHdZTVVweGkxTW01QUV1bmY3SHU1U2p0UFhIV01tcGlhcmtsVnlvbWtZdXdBUW1pbHlCaE9QbEwySzRWTzdUandTTzl1UGhzbktUZFRXS3ZQWkxoc1NQM2VBYUhfelY4dExVS0FxNg?oc=5",
-      "source": "ET Manufacturing",
-      "date": "2026-09-30T07:00:00.000Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan acquired 48.2% stake in Bliss GVS Pharma, gaining control of the company.",
-      "enriched": true,
-      "sources_count": 2
     },
     {
       "id": "n4f57203acc64",
