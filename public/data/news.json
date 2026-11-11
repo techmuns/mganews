@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T09:46:30.055Z",
+  "generated_at": "2026-11-11T21:30:19.127Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -9,42 +9,61 @@
   },
   "items": [
     {
-      "id": "n00a16acdd602",
+      "id": "nea034f08b6b7",
       "ticker": "HINDUSTANO",
       "company": "Hindustan Oil Exploration Company",
       "sector": "",
       "scope": [
         "watchlist"
       ],
-      "title": "Hindustan Oil Exploration Co Ltd (BOM:500186) (Q2 2027) Earnings Call Highlights: Revenue Jumps ... By GuruFocus",
-      "url": "https://ca.investing.com/news/company-news/hindustan-oil-exploration-co-ltd-bom500186-q2-2027-earnings-call-highlights-revenue-jumps--4945565",
-      "source": "ca.investing.com",
-      "date": "2026-11-11T09:46:15.770Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Hindustan Oil Exploration reported revenue jump in Q2 FY27 earnings.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "ne5d54c33b021",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration HINDOILEXP Q2 FY27 Earnings Call | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/announcements/hindustan-oil-exploration-nsehindoilexp-what-is-the-q2-fy27-earnings-call-about",
-      "source": "kalkine.co.in",
-      "date": "2026-11-11T09:46:15.770Z",
+      "title": "Q2 2027 Hindustan Oil Exploration Company Ltd Earnings Call Transcript",
+      "url": "https://gurufocus.com/news/9186739/q2-2027-hindustan-oil-exploration-company-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-11-11T21:30:05.733Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration held Q2 FY27 earnings call.",
+      "takeaway": "Hindustan Oil Exploration released its Q2 2027 earnings call transcript.",
+      "sources_count": 6,
+      "enriched": true
+    },
+    {
+      "id": "n40bdfb487ff0",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T bags ‘significant’ order between ₹1,000-2,500 cr for Noida Metro Aqua Line Extension project | Details | Mint",
+      "url": "https://www.livemint.com/industry/infrastructure/lt-bags-significant-order-between-rs-1-000-2-500-cr-for-noida-metro-aqua-line-extension-project-details-11794385499847.html",
+      "source": "livemint.com",
+      "date": "2026-11-11T21:30:02.964Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
+      "enriched": true
+    },
+    {
+      "id": "n5b1c119b1e33",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Dharwad Water Project Delay: L&T Faces Blacklisting Order",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0w1OURqSjZGeTdsWWI4T1YyUENUV3hoeE9ZYkNZaUFXVHlWcEZjc2JIS1hEYkVmUXpKSjVjS1B4bHdUY2F5VTIzQS1BOHVSQkV3YlhkSFNoSVBDeUp0cGhXLTM3aERtUmdfeWJDb29oajVZX1BVZXZBQ0xudWoyR1M0UUhYSjR4R0pDaFUyLW5CbXc?oc=5",
+      "source": "urbanacres.in",
+      "date": "2026-11-11T15:41:36.000Z",
+      "topic": "Trouble",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "negative",
+      "takeaway": "L&T faces blacklisting order due to delays in Dharwad Water Project.",
       "enriched": true
     },
     {
@@ -85,7 +104,7 @@
       "mood": "positive",
       "takeaway": "L&T wins Noida Metro Rail contract for 10 elevated stations on Aqua Line.",
       "enriched": true,
-      "sources_count": 14
+      "sources_count": 10
     },
     {
       "id": "ndf18537c8d0e",
@@ -2477,25 +2496,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India reports stronger profit in Q1 2026.",
-      "enriched": true
-    },
-    {
-      "id": "nbe4e50d42d8e",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration Q1 FY27 Earnings Presentation Key Updates",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG1hV2ZwSTgtaGh1bm9sM09MZ1lDbnNRaDktVWNxQ0pFelRldWI3Z0JwZkIxNUk2NnhramYybWliOE5Uemx6dl9iQ2N1MF9CbWJIUUU0SUNxMXJkWk0yQmF5Mmk4eGtwWEtvWERhTWtsLVRfWjR3YmUybkttZnJ6eTdOcnloNGYwUFpSQ2dWWks1bGJDdXA4ZkgwcGFyMkxTN0hVdEcyLU1aTmtIaVh3bnQxQWwwRGdpVWV5Zzdsc2N1RkRiTmNNaHlnOUZ5UQ?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration released Q1 FY27 earnings presentation.",
       "enriched": true
     },
     {
