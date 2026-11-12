@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-11T21:32:24.539Z",
+  "generated_at": "2026-11-12T10:33:07.787Z",
   "source": "nse",
   "counts": {
-    "NSE": 103,
+    "NSE": 104,
     "BSE": 0,
-    "total": 103
+    "total": 104
   },
   "items": [
     {
@@ -46,6 +46,16 @@
       "category": "Disclosure",
       "title": "Bliss GVS Pharma Limited has informed the Exchange regarding 'Intimation under Regulations 30 of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 Grant of Marketing Authorisation from MHRA, UK for Mesalazine 1g Suppositories'.",
       "url": "https://nsearchives.nseindia.com/corporate/BLISSGVS_04112026171435_Intimation_Grant_Marketing_Authorization.pdf"
+    },
+    {
+      "id": "fee0834a29154",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "exchange": "NSE",
+      "date": "2026-11-02T17:56:36.000Z",
+      "category": "Investor Presentation",
+      "title": "Larsen & Toubro Limited has informed the Exchange about Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/PAM_02112026175603_TranscriptSep2026.pdf"
     },
     {
       "id": "fb08d748b5a43",
