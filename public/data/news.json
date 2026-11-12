@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T21:30:19.127Z",
+  "generated_at": "2026-11-12T10:15:36.201Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -9,23 +9,43 @@
   },
   "items": [
     {
-      "id": "nea034f08b6b7",
+      "id": "n00a16acdd602",
       "ticker": "HINDUSTANO",
       "company": "Hindustan Oil Exploration Company",
       "sector": "",
       "scope": [
         "watchlist"
       ],
-      "title": "Q2 2027 Hindustan Oil Exploration Company Ltd Earnings Call Transcript",
-      "url": "https://gurufocus.com/news/9186739/q2-2027-hindustan-oil-exploration-company-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-11-11T21:30:05.733Z",
+      "title": "Hindustan Oil Exploration Co Ltd (BOM:500186) (Q2 2027) Earnings Call Highlights: Revenue Jumps ... By GuruFocus",
+      "url": "https://ca.investing.com/news/company-news/hindustan-oil-exploration-co-ltd-bom500186-q2-2027-earnings-call-highlights-revenue-jumps--4945565",
+      "source": "ca.investing.com",
+      "date": "2026-11-12T10:07:05.921Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Hindustan Oil Exploration reported revenue jump in Q2 FY27 earnings call.",
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "ne5d54c33b021",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration HINDOILEXP Q2 FY27 Earnings Call | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/announcements/hindustan-oil-exploration-nsehindoilexp-what-is-the-q2-fy27-earnings-call-about",
+      "source": "kalkine.co.in",
+      "date": "2026-11-12T10:07:05.921Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration released its Q2 2027 earnings call transcript.",
-      "sources_count": 6,
+      "takeaway": "Hindustan Oil Exploration held Q2 FY27 earnings call.",
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -45,7 +65,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 11
     },
     {
       "id": "n5b1c119b1e33",
@@ -83,28 +104,8 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
-    },
-    {
-      "id": "ncc8431f040e9",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T bags Noida Metro Rail order for Aqua Line: 10 elevated stations; Botanical Garden, Sec 142, Depot, Boraki – details | Mint",
-      "url": "https://www.livemint.com/industry/infrastructure/lt-bags-noida-metro-rail-order-for-aqua-line-10-elevated-stations-botanical-garden-sec-142-depot-boraki-ke-11794223765121.html",
-      "source": "livemint.com",
-      "date": "2026-11-10T10:15:40.774Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins Noida Metro Rail contract for 10 elevated stations on Aqua Line.",
-      "enriched": true,
-      "sources_count": 10
     },
     {
       "id": "ndf18537c8d0e",
