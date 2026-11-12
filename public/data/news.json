@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-11-12T10:15:36.201Z",
+  "generated_at": "2026-11-12T21:33:07.444Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 135,
+    "watchlist": 134,
     "universe": 0,
-    "total": 135
+    "total": 134
   },
   "items": [
     {
-      "id": "n00a16acdd602",
+      "id": "nea034f08b6b7",
       "ticker": "HINDUSTANO",
       "company": "Hindustan Oil Exploration Company",
       "sector": "",
       "scope": [
         "watchlist"
       ],
-      "title": "Hindustan Oil Exploration Co Ltd (BOM:500186) (Q2 2027) Earnings Call Highlights: Revenue Jumps ... By GuruFocus",
-      "url": "https://ca.investing.com/news/company-news/hindustan-oil-exploration-co-ltd-bom500186-q2-2027-earnings-call-highlights-revenue-jumps--4945565",
-      "source": "ca.investing.com",
-      "date": "2026-11-12T10:07:05.921Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Hindustan Oil Exploration reported revenue jump in Q2 FY27 earnings call.",
-      "sources_count": 4,
-      "enriched": true
-    },
-    {
-      "id": "ne5d54c33b021",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Hindustan Oil Exploration HINDOILEXP Q2 FY27 Earnings Call | Kalkine India",
-      "url": "https://www.kalkine.co.in/article/announcements/hindustan-oil-exploration-nsehindoilexp-what-is-the-q2-fy27-earnings-call-about",
-      "source": "kalkine.co.in",
-      "date": "2026-11-12T10:07:05.921Z",
+      "title": "Q2 2027 Hindustan Oil Exploration Company Ltd Earnings Call Transcript",
+      "url": "https://gurufocus.com/news/9186739/q2-2027-hindustan-oil-exploration-company-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-11-12T21:32:53.610Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration held Q2 FY27 earnings call.",
+      "takeaway": "Hindustan Oil Exploration held its Q2 2027 earnings call to discuss quarterly financial results.",
+      "sources_count": 5,
+      "enriched": true
+    },
+    {
+      "id": "n1f3469e87e00",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
+      "source": "whalesbook.com",
+      "date": "2026-11-12T21:32:48.164Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option schemes.",
       "sources_count": 2,
       "enriched": true
     },
@@ -66,7 +66,7 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 11
+      "sources_count": 2
     },
     {
       "id": "n5b1c119b1e33",
@@ -703,26 +703,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T plans to expand its presence in Middle East markets to grow overseas business.",
-      "enriched": true
-    },
-    {
-      "id": "ncb6fb836dbea",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
-      "source": "scanx.trade",
-      "date": "2026-10-28T14:57:43.000Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
-      "sources_count": 2,
       "enriched": true
     },
     {
