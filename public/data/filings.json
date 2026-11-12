@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-12T10:33:07.787Z",
+  "generated_at": "2026-11-12T21:35:49.544Z",
   "source": "nse",
   "counts": {
-    "NSE": 104,
+    "NSE": 102,
     "BSE": 0,
-    "total": 104
+    "total": 102
   },
   "items": [
     {
@@ -1026,26 +1026,6 @@
       "category": "Investor Presentation",
       "title": "Larsen & Toubro Limited has informed the Exchange about Schedule of meet",
       "url": "https://nsearchives.nseindia.com/corporate/PAM_06082026134416_Intimation06082026.pdf"
-    },
-    {
-      "id": "f1a63ebf56e17",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T19:50:21.000Z",
-      "category": "Acquisition",
-      "title": "Larsen & Toubro Limited has informed the Exchange about Scheme of Arrangement - Summary of Proceedings, Voting Results and Scrutinizer's Report of the NCLT convened meeting of equity shareholders of the Company held on August 4, 2026",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_04082026195008_OutcomeNCLTConvenedMeeting04082026_1.pdf"
-    },
-    {
-      "id": "f0bb337da909f",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "exchange": "NSE",
-      "date": "2026-08-04T19:47:27.000Z",
-      "category": "Shareholders meeting",
-      "title": "Larsen & Toubro Limited has informed the Exchange regarding Proceedings of NCLT Convened Meeting held on August 04, 2026. Further, the company has submitted the Exchange a copy of Srutinizers report along with voting results.",
-      "url": "https://nsearchives.nseindia.com/corporate/PAM_04082026194655_OutcomeNCLTConvenedMeeting04082026_1.pdf"
     }
   ]
 }
