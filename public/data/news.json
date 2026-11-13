@@ -1,51 +1,89 @@
 {
-  "generated_at": "2026-11-12T21:33:07.444Z",
+  "generated_at": "2026-11-13T09:53:14.323Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 134,
+    "watchlist": 137,
     "universe": 0,
-    "total": 134
+    "total": 137
   },
   "items": [
     {
-      "id": "nea034f08b6b7",
+      "id": "ne5d54c33b021",
       "ticker": "HINDUSTANO",
       "company": "Hindustan Oil Exploration Company",
       "sector": "",
       "scope": [
         "watchlist"
       ],
-      "title": "Q2 2027 Hindustan Oil Exploration Company Ltd Earnings Call Transcript",
-      "url": "https://gurufocus.com/news/9186739/q2-2027-hindustan-oil-exploration-company-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-11-12T21:32:53.610Z",
+      "title": "Hindustan Oil Exploration HINDOILEXP Q2 FY27 Earnings Call | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/announcements/hindustan-oil-exploration-nsehindoilexp-what-is-the-q2-fy27-earnings-call-about",
+      "source": "kalkine.co.in",
+      "date": "2026-11-13T09:53:00.316Z",
       "topic": "Money",
       "keyword": "Earnings",
       "importance": "medium",
       "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration held its Q2 2027 earnings call to discuss quarterly financial results.",
+      "takeaway": "Hindustan Oil Exploration held Q2 FY27 earnings call to discuss quarterly results.",
       "sources_count": 5,
       "enriched": true
     },
     {
-      "id": "n1f3469e87e00",
+      "id": "n00a16acdd602",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration Co Ltd (BOM:500186) (Q2 2027) Earnings Call Highlights: Revenue Jumps ... By GuruFocus",
+      "url": "https://ca.investing.com/news/company-news/hindustan-oil-exploration-co-ltd-bom500186-q2-2027-earnings-call-highlights-revenue-jumps--4945565",
+      "source": "ca.investing.com",
+      "date": "2026-11-13T09:53:00.316Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Hindustan Oil Exploration reported revenue jump in Q2 2027 earnings call.",
+      "enriched": true
+    },
+    {
+      "id": "nd10326e4eeb9",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2-FY27 Earnings Call Date and Details | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/announcements/gmm-pfaudler-nsegmmpfaudlr-what-is-the-q2-fy27-earnings-call-about",
+      "source": "kalkine.co.in",
+      "date": "2026-11-13T09:52:58.298Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler scheduled Q2 FY27 earnings call.",
+      "sources_count": 2,
+      "enriched": true
+    },
+    {
+      "id": "n03b646b98a81",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
       "sector": "Healthcare",
       "scope": [
         "watchlist"
       ],
-      "title": "Bliss GVS Pharma Seeks Shareholder Approval for New ESOP Schemes | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Seeks-Shareholder-Approval-for-New-ESOP-Schemes/6ae202f5c6c6dccbb90a3ed6",
-      "source": "whalesbook.com",
-      "date": "2026-11-12T21:32:48.164Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option schemes.",
-      "sources_count": 2,
+      "title": "Anupam Rasayan Reports Positive Results | Chemical Industry Digest",
+      "url": "https://chemindigest.com/anupam-rasayan-reports-positive-results/",
+      "source": "chemindigest.com",
+      "date": "2026-11-13T09:52:54.599Z",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan reported positive quarterly results.",
       "enriched": true
     },
     {
@@ -66,7 +104,7 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 7
     },
     {
       "id": "n5b1c119b1e33",
@@ -104,7 +142,26 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 3,
+      "sources_count": 4,
+      "enriched": true
+    },
+    {
+      "id": "nb82532fd1856",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan Projects FY27 Revenue Of ₹4,800–5,000 Crore With 23% Margin",
+      "url": "https://www.sahi.com/news/anupam-rasayan-projects-fy27-revenue-of-4-800-5-000-crore-with-23-margin",
+      "source": "sahi.com",
+      "date": "2026-11-10T10:15:37.626Z",
+      "topic": "Money",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan projects FY27 revenue of Rs 4,800-5,000 crore with 23% margin.",
       "enriched": true
     },
     {
@@ -144,25 +201,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan reports Q2 profit of Rs 500 crore and completes Bliss GVS acquisition.",
-      "enriched": true
-    },
-    {
-      "id": "nb82532fd1856",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan Projects FY27 Revenue Of ₹4,800–5,000 Crore With 23% Margin",
-      "url": "https://www.sahi.com/news/anupam-rasayan-projects-fy27-revenue-of-4-800-5-000-crore-with-23-margin",
-      "source": "sahi.com",
-      "date": "2026-11-10T10:15:37.626Z",
-      "topic": "Money",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan projects FY27 revenue of Rs 4,800-5,000 crore with 23% margin.",
       "enriched": true
     },
     {
@@ -224,25 +262,6 @@
       "enriched": true
     },
     {
-      "id": "n4106f869a8db",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan records Rs 1,022.394 crore provisional goodwill | Market News & Analysis",
-      "url": "https://www.multibagg.ai/market-pulse/articles/anupam-rasayan-bliss-gvs-acquisition-announcement-cmw4tccib0035xk2rv2wqnsv8",
-      "source": "multibagg.ai",
-      "date": "2026-11-07T18:59:36.746Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Anupam Rasayan records provisional goodwill of Rs 1,022 crore from acquisition.",
-      "enriched": true
-    },
-    {
       "id": "n7d7b5efa852b",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
@@ -259,6 +278,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Anupam Rasayan reports 21% revenue growth in H1 FY27 at Rs 1,489 crore.",
+      "enriched": true
+    },
+    {
+      "id": "n4106f869a8db",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan records Rs 1,022.394 crore provisional goodwill | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/anupam-rasayan-bliss-gvs-acquisition-announcement-cmw4tccib0035xk2rv2wqnsv8",
+      "source": "multibagg.ai",
+      "date": "2026-11-07T18:59:36.746Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Anupam Rasayan records provisional goodwill of Rs 1,022 crore from acquisition.",
       "enriched": true
     },
     {
@@ -722,6 +760,26 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Engineers India scheduled Q2FY27 earnings call for October 30, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "ncb6fb836dbea",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma seeks shareholder approval for new ESOP plans",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2lJRjJMLWY5b0J0RzNiNUxXcTJYNmRLMkFsZE91ZUFzZHcweXNrM1lRdV9mZEdXWkxsM29oc1pGV0VvOUdvb1JlcFA5QmRuVWVNZVpnbzlOMVRtNXBMRjdRODB2OUU3ZG5OMS1jRVZBX01iNFk2dHlKTjQtR1pqREpxWDVFSHVoS0k5OU1FT0NIREoyNUE3TGNYc2xlWjZySGVMMU85aHlfREdla1JCVFE2dFR0UQ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-10-28T07:00:00.000Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "Bliss GVS Pharma seeks shareholder approval for new employee stock option plans.",
+      "sources_count": 2,
       "enriched": true
     },
     {
