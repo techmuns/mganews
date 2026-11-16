@@ -1,31 +1,49 @@
 {
-  "generated_at": "2026-11-16T10:04:15.139Z",
+  "generated_at": "2026-11-16T23:28:34.265Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 134,
+    "watchlist": 135,
     "universe": 0,
-    "total": 134
+    "total": 135
   },
   "items": [
     {
-      "id": "nea034f08b6b7",
-      "ticker": "HINDUSTANO",
-      "company": "Hindustan Oil Exploration Company",
-      "sector": "",
+      "id": "na3804f8fadfb",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
       "scope": [
         "watchlist"
       ],
-      "title": "Q2 2027 Hindustan Oil Exploration Company Ltd Earnings Call Transcript",
-      "url": "https://gurufocus.com/news/9186739/q2-2027-hindustan-oil-exploration-company-ltd-earnings-call-transcript",
-      "source": "gurufocus.com",
-      "date": "2026-11-16T10:04:03.626Z",
-      "topic": "Money",
-      "keyword": "Earnings",
+      "title": "Bliss GVS Pharma Subsidiary Receives UK MHRA Approval for Mesalazine Suppositories | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Subsidiary-Receives-UK-MHRA-Approval-for-Mesalazine-Suppositories/6aeb19b5c6c6dccbb912adb9",
+      "source": "whalesbook.com",
+      "date": "2026-11-16T23:28:16.643Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
       "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Hindustan Oil Exploration held its Q2 2027 earnings call to discuss quarterly financial results.",
-      "sources_count": 5,
+      "mood": "positive",
+      "takeaway": "Bliss GVS Pharma's subsidiary received UK regulatory approval for Mesalazine Suppositories.",
+      "enriched": true
+    },
+    {
+      "id": "n9f1bf71ee487",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Ultracab wins Rs 50 crore work order from Larsen & Toubro for EPC project",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSmQzUzFkemxTWGY3bWQwdlh5RWFqT3BuRHExaHdMQnRfX1FYNmtaaUhUSFI2bTV0VUxZcnlaWXFZNVFDZE5zYTU0VEVmVXNKTFl3dUVpUVVLVFNhdzh2QzQteFlvWWJXeGVLV3ZaaXdnOWh1SHBFNWNWbUoxQkpqM3k3c0RaQTZiVTVOWjBIS3ZYeWdOc28xVXFCQjVDTVJwTERQaVBuYkFMNGNkd3ROZ29GTGFSQnBUUXhJ?oc=5",
+      "source": "scanx.trade",
+      "date": "2026-11-16T21:47:27.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "low",
+      "mood": "positive",
+      "takeaway": "Ultracab secured Rs 50 crore order from L&T for an EPC project.",
       "enriched": true
     },
     {
@@ -123,7 +141,7 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 9
+      "sources_count": 13
     },
     {
       "id": "n5b1c119b1e33",
@@ -258,7 +276,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "GMM Pfaudler reports record Rs 1,200 crore order inflow in Q2, backlog stands at Rs 2,446 crore.",
-      "sources_count": 4,
+      "sources_count": 3,
       "enriched": true
     },
     {
@@ -1976,7 +1994,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured a major ₹4,300 crore order from Dangote Group for a petrochemical project.",
-      "sources_count": 2,
+      "sources_count": 3,
       "enriched": true
     },
     {
