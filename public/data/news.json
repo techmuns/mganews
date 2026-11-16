@@ -1,13 +1,33 @@
 {
-  "generated_at": "2026-11-15T19:55:05.770Z",
+  "generated_at": "2026-11-16T10:04:15.139Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 133,
+    "watchlist": 134,
     "universe": 0,
-    "total": 133
+    "total": 134
   },
   "items": [
+    {
+      "id": "nea034f08b6b7",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Q2 2027 Hindustan Oil Exploration Company Ltd Earnings Call Transcript",
+      "url": "https://gurufocus.com/news/9186739/q2-2027-hindustan-oil-exploration-company-ltd-earnings-call-transcript",
+      "source": "gurufocus.com",
+      "date": "2026-11-16T10:04:03.626Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration held its Q2 2027 earnings call to discuss quarterly financial results.",
+      "sources_count": 5,
+      "enriched": true
+    },
     {
       "id": "n5e081b1607ee",
       "ticker": "BLISSGVS",
@@ -103,7 +123,7 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 8
+      "sources_count": 9
     },
     {
       "id": "n5b1c119b1e33",
