@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T23:28:34.265Z",
+  "generated_at": "2026-11-17T11:00:11.109Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -9,22 +9,22 @@
   },
   "items": [
     {
-      "id": "na3804f8fadfb",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
+      "id": "n16a6f111164f",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
       "scope": [
         "watchlist"
       ],
-      "title": "Bliss GVS Pharma Subsidiary Receives UK MHRA Approval for Mesalazine Suppositories | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Subsidiary-Receives-UK-MHRA-Approval-for-Mesalazine-Suppositories/6aeb19b5c6c6dccbb912adb9",
-      "source": "whalesbook.com",
-      "date": "2026-11-16T23:28:16.643Z",
-      "topic": "Approvals&IP",
-      "keyword": "Approval",
-      "importance": "medium",
+      "title": "GMM Pfaudler Limited Reports Record Rs 1,198 Crore Q2 Order Inflow | Market News & Analysis",
+      "url": "https://www.multibagg.ai/market-pulse/articles/gmm-pfaudler-record-order-inflow-cmwf1qlqr006b2sqrh8rrco0y",
+      "source": "multibagg.ai",
+      "date": "2026-11-17T10:59:55.386Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
       "mood": "positive",
-      "takeaway": "Bliss GVS Pharma's subsidiary received UK regulatory approval for Mesalazine Suppositories.",
+      "takeaway": "GMM Pfaudler secured record order inflow of Rs 1,198 crore in Q2.",
       "enriched": true
     },
     {
@@ -179,7 +179,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 4,
+      "sources_count": 5,
       "enriched": true
     },
     {
