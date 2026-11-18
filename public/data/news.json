@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:32:49.747Z",
+  "generated_at": "2026-11-18T22:14:14.534Z",
   "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
@@ -123,7 +123,7 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "nc09aa0f41a89",
@@ -180,7 +180,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 6,
+      "sources_count": 5,
       "enriched": true
     },
     {
