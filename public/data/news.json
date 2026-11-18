@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-17T22:34:19.803Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-18T10:32:49.747Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 134,
+    "watchlist": 135,
     "universe": 0,
-    "total": 134
+    "total": 135
   },
   "items": [
     {
@@ -123,7 +123,26 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 15
+      "sources_count": 3
+    },
+    {
+      "id": "nc09aa0f41a89",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Noida Metro Aqua Line Extension: L&T secures order from NMRC to build 15.1-km elevated viaduct – Inside the contract",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQXZfc214dkUwSEEtQ1RRU0IzT2lWbEk5RENHM0hOb1d4YUhYc0xCdnU1bUJudnp4akdMbXB5UmVBV2xvMzNPQVhyVkszM2sybkFuZzBlMF9lU1JZQ1p6b19kdm5WTWNWWWhNZE1PQndfYmhzdXh2OHo1V0Z3SkNIZmJvcEZMUnl3dTRwNlFtS1NlWkY2UjJCM2xhYkhlUWF4c29jM3BDc2Ria0Nhb2g2Mm5XNkFhVHBUbnVSM0VqUkRSRkZwNkkzeWQxTHdyc1JrRjI3VHVxalRSVzhNTWM3eHdiQnVaeUpCSzIxV2pRemxzd3d6cTJpYUJaS0x4NGlNX05F0gGIAkFVX3lxTE10YVA3ck1CNXRFYlV6RmI1bVBtLTJvYTRUYlVGVkp3VkRtd285WlQ1V0YwNWVEeTNqd2laQ1JEMEt1VUg0MWhBZjZfbk1lYU5qZktrN3VRWHdiUWs3NEVYYlB0V0FkTDVGbERpQVVZWmRBQ0NpdUhsY2dVZUdWZ01oRXdNRmF5TEZ2b19zZmhyemljV25fakZ2SWV1dHUzc2loU1hTdW1seU9QNGYzWGxqcXhlb0RuZHhwY3ZVU0diN0FpcjluUlhhX2JSZ2VwQmI3bE5MaEpPNEpST1pMRy1FOFFWWFZUV1NZV0pjYlp6dmFwNXdZeG1tT2Zmc3VPYzZCMWNGNUwwUQ?oc=5",
+      "source": "Livemint",
+      "date": "2026-11-11T15:52:11.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T wins contract from NMRC to build 15.1-km elevated viaduct for Noida Metro Aqua Line extension.",
+      "enriched": true
     },
     {
       "id": "n5b1c119b1e33",
@@ -161,7 +180,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 2,
+      "sources_count": 6,
       "enriched": true
     },
     {
@@ -335,7 +354,8 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Hindustan Oil Exploration released Q2 FY27 earnings presentation with operational and financial updates.",
-      "enriched": true
+      "enriched": true,
+      "sources_count": 2
     },
     {
       "id": "n0795731e08f0",
@@ -509,7 +529,7 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "UK unit received MHRA approval for Mesalazine Suppositories.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -759,6 +779,25 @@
       "importance": "low",
       "mood": "neutral",
       "takeaway": "Engineers India scheduled Q2FY27 earnings call for October 30, 2026.",
+      "enriched": true
+    },
+    {
+      "id": "nacc547e44788",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler (NSE:GMMPFAUDLR) Announces Q2-FY27 Earnings Release and Investor Call Details",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOajdDNEZSeXJwcEw1VV9JT2hjNVpoU1oydGlwZkh5QXM5QUg4UzRUc3lFRHFSRnpJLW80Y3ZpUnN1R3pwekZsUkpjQUY4VW50dXFDUTk2dXhyTTJqbWVwdVBNOVZuemZ2NDRBcXlNdmQ0NUZwTHJGTVctU0Nld0RBX2RmdXhHeUIwY2FNSlRsVWFVczdRX1JhUjU1Q0Q4NXhlM0tJZFJQaWJ6R0J0d21KN2s3MmUzWGtIX05mRE9IUERjWWJGdjIzLU9kYnExb0E?oc=5",
+      "source": "Kalkine Media",
+      "date": "2026-10-28T07:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "low",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler announces Q2-FY27 earnings release and investor call schedule.",
       "enriched": true
     },
     {
@@ -2282,7 +2321,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won ultra-mega order for strategic offshore project in Middle East.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -2571,25 +2610,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "Engineers India reports Q1 earnings with year-over-year comparison to ₹65.4 crore base.",
-      "enriched": true
-    },
-    {
-      "id": "nc0ed852a53fb",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Engineers India Q1FY27 Earnings Call Date and Details",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1VIWXBPTDBQbmVuNU1oY0dFZlZDZHp2TmNvZXhDRjBndUNMV09BNElsLW5hNXJrckc3STg0WHhBTHM5MTB2Ym0zeVZ1U1RYRm5LRzBuSS1QdHQ3Y3Fwdy1NX1dKd3UxUTRYanFIVHNTdGh4VVJ0QkdyajFPMnhlemQ1UnFpcWNTZU9tWW5aQkFMQUF1QkF3NTR1RndHMHloMm1XMjFfTWhxcmVkWEQtbnZpVzROekhOeERn?oc=5",
-      "source": "Kalkine India",
-      "date": "2026-08-10T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "low",
-      "mood": "neutral",
-      "takeaway": "Engineers India announces Q1FY27 earnings call date.",
       "enriched": true
     }
   ]
