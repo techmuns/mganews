@@ -1,13 +1,32 @@
 {
-  "generated_at": "2026-11-19T10:40:00.371Z",
+  "generated_at": "2026-11-19T22:22:49.515Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 133,
+    "watchlist": 134,
     "universe": 0,
-    "total": 133
+    "total": 134
   },
   "items": [
+    {
+      "id": "n47884ac1477e",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T Share Price: CLSA target suggests over 16% upside on 1.4 billion dollar Nvidia AI-factory win, 10x data centre push",
+      "url": "https://www.zeebiz.com/markets/stocks/news-lt-share-price-target-clsa-target-suggests-over-16-upside-on-14-billion-nvidia-ai-factory-win-10x-data-centre-push-405711",
+      "source": "zeebiz.com",
+      "date": "2026-11-19T22:22:34.574Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "L&T won $1.4 billion Nvidia AI-factory order, expanding data centre business 10x.",
+      "enriched": true
+    },
     {
       "id": "n5e081b1607ee",
       "ticker": "BLISSGVS",
@@ -142,7 +161,7 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 6
+      "sources_count": 2
     },
     {
       "id": "n5b1c119b1e33",
@@ -180,7 +199,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 5,
+      "sources_count": 2,
       "enriched": true
     },
     {
@@ -1975,7 +1994,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Engineers India secured a major ₹4,300 crore order from Dangote Group for a petrochemical project.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
