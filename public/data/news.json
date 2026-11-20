@@ -1,13 +1,89 @@
 {
-  "generated_at": "2026-11-20T10:21:00.301Z",
+  "generated_at": "2026-11-20T21:55:57.282Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 135,
+    "watchlist": 139,
     "universe": 0,
-    "total": 135
+    "total": 139
   },
   "items": [
+    {
+      "id": "nd10326e4eeb9",
+      "ticker": "GMMPFAUDLE",
+      "company": "GMM Pfaudler",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "GMM Pfaudler Q2-FY27 Earnings Call Date and Details | Kalkine India",
+      "url": "https://www.kalkine.co.in/article/announcements/gmm-pfaudler-nsegmmpfaudlr-what-is-the-q2-fy27-earnings-call-about",
+      "source": "kalkine.co.in",
+      "date": "2026-11-20T21:55:35.410Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "GMM Pfaudler announces Q2 FY27 earnings call date.",
+      "enriched": true
+    },
+    {
+      "id": "n83bb9eaa1354",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "NCLT Mumbai Dispenses With L&T Shareholder, Creditor Meetings For Subsidiary Merger",
+      "url": "https://www.livelawbiz.com/nclt/nclt-mumbai-dispenses-with-lt-shareholder-creditor-meetings-for-subsidiary-merger-559364",
+      "source": "livelawbiz.com",
+      "date": "2026-11-20T21:55:34.453Z",
+      "topic": "Deals",
+      "keyword": "Merger",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "NCLT Mumbai waives shareholder and creditor meetings for L&T subsidiary merger.",
+      "enriched": true
+    },
+    {
+      "id": "n6938ff27526c",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Anupam Rasayan Q2 Profit At Rs 500 Crore; Completes Bliss GVS Acquisition | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-Q2-Profit-At-Rs-500-Crore-Completes-Bliss-GVS-Acquisition/6aeda8dfc6c6dccbb916ea97",
+      "source": "whalesbook.com",
+      "date": "2026-11-20T21:55:31.526Z",
+      "topic": "Deals",
+      "keyword": "Acquisition",
+      "importance": "high",
+      "mood": "positive",
+      "takeaway": "Anupam Rasayan completed acquisition of Bliss GVS Pharma.",
+      "enriched": true
+    },
+    {
+      "id": "na3804f8fadfb",
+      "ticker": "BLISSGVS",
+      "company": "Bliss GVS Pharma Limited",
+      "sector": "Healthcare",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Bliss GVS Pharma Subsidiary Receives UK MHRA Approval for Mesalazine Suppositories | Whalesbook Corporate News",
+      "url": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/Bliss-GVS-Pharma-Subsidiary-Receives-UK-MHRA-Approval-for-Mesalazine-Suppositories/6aeb19b5c6c6dccbb912adb9",
+      "source": "whalesbook.com",
+      "date": "2026-11-20T21:55:31.526Z",
+      "topic": "Approvals&IP",
+      "keyword": "Approval",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Bliss GVS subsidiary received UK regulatory approval for Mesalazine suppositories.",
+      "enriched": true
+    },
     {
       "id": "n47884ac1477e",
       "ticker": "LT",
@@ -181,7 +257,7 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 4
+      "sources_count": 2
     },
     {
       "id": "n5b1c119b1e33",
@@ -219,7 +295,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 5,
+      "sources_count": 3,
       "enriched": true
     },
     {
