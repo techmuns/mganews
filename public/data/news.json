@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T22:22:49.515Z",
+  "generated_at": "2026-11-20T10:21:00.301Z",
   "source": "google-news+munshot+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 134,
+    "watchlist": 135,
     "universe": 0,
-    "total": 134
+    "total": 135
   },
   "items": [
     {
@@ -64,7 +64,7 @@
       "mood": "positive",
       "takeaway": "GMM Pfaudler secured record order inflow of Rs 1,198 crore in Q2.",
       "enriched": true,
-      "sources_count": 3
+      "sources_count": 2
     },
     {
       "id": "n9f1bf71ee487",
@@ -125,6 +125,26 @@
       "enriched": true
     },
     {
+      "id": "n5116f7495338",
+      "ticker": "HINDUSTANO",
+      "company": "Hindustan Oil Exploration Company",
+      "sector": "",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Hindustan Oil Exploration (NSE:HINDOILEXP) Q2 FY27 Earnings Call Insights: Key Management Updates",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOS0NEa05NZmZlN09GUnREeG9KemlkSEt4bFlKMmR4ZGNXcGkyeW5VZ0MzdEYzQlNQN1loWWdHOFB6bFc0dkdrMlpLVmlXUk01NFNSZ2w0anAzY3JfMWtnWVhtUm9iQ0M0c19zRnJBdDRTV2xwTjhuR0MzclU4Qlo4ZGVRaUpMYU94S0lrMUR0SHA2cjdTajkzRWlKc19BZWZVVzlhUjhfb1JKN2N1RkxLdnhNR1hlZGQwR3Njc01XdXBfeDFZekVOQzNIWXhiOWNZUHhQLURQMA?oc=5",
+      "source": "Kalkine Media",
+      "date": "2026-11-13T15:33:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "Hindustan Oil Exploration shared Q2 FY27 results and management updates in earnings call.",
+      "sources_count": 3,
+      "enriched": true
+    },
+    {
       "id": "n03b646b98a81",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
@@ -161,7 +181,7 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 4
     },
     {
       "id": "n5b1c119b1e33",
@@ -199,46 +219,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "ndf18537c8d0e",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan India Ltd (BOM:543275) (Q2 2027) Earnings Call Highlights: 21% Revenue Growth, Bliss GVS Acquisition, and a INR17,496 Crore Order Book",
-      "url": "https://gurufocus.com/news/9187087/anupam-rasayan-india-ltd-bom543275-q2-2027-earnings-call-highlights-21-revenue-growth-bliss-gvs-acquisition-and-a-inr17496-crore-order-book",
-      "source": "gurufocus.com",
-      "date": "2026-11-10T10:15:37.626Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan completes Bliss GVS acquisition, reports 21% revenue growth and strong order book.",
-      "sources_count": 2,
-      "enriched": true
-    },
-    {
-      "id": "n6938ff27526c",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan Q2 Profit At Rs 500 Crore; Completes Bliss GVS Acquisition | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-Q2-Profit-At-Rs-500-Crore-Completes-Bliss-GVS-Acquisition/6aeda8dfc6c6dccbb916ea97",
-      "source": "whalesbook.com",
-      "date": "2026-11-10T10:15:37.626Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan reports Q2 profit of Rs 500 crore and completes Bliss GVS acquisition.",
+      "sources_count": 5,
       "enriched": true
     },
     {
@@ -567,6 +548,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India reported record order book of Rs 20,421 crore in Q2 FY27.",
+      "enriched": true
+    },
+    {
+      "id": "n43f0b8113ed5",
+      "ticker": "ENGINERSIN",
+      "company": "Engineers India Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Engineers India: Consultancy-led growth and record order book strengthen earnings outlook",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNclJGZ3NTOWVkXzdZTTctc1lxalZkTFRsb1RPbEhoNlY4WWV4ZWp6anFXSks5VloyVGlSQmtNVS1Vai1sNEVXcXpiWTlld0FKTTNRR1dUaGtwZEFHWkpLdE5EajB2YU5ORW5Ha21ickUtWkFobTllZXcxbzJyQTNVUjZpYU1sZ0lhZ0JWVkJ1Z0xoNGlFeFRQMmZBSnBJV1ZJVDdGLVhPR3Z4WkhoZXdJY2x3b3pyZE1FN0h0UFY0dkdQTjFoaDNmWUtaR1F3cHFwak1JLXZWaEp6eGZVdG05a3ZVbS14QVE0TUZSeVBUWGJ4c0VNMUVobDBza9IBgAJBVV95cUxQRDQxeHlwelFUbXdIUVhLdE1CMEpiSDV4SDhHb2ZrUVVxVG5oUW5HdU8yVEtfMEtTYVJtZ2tNX2Q3US1tZXczUWlMRzRkYUQ4eFpTT3MtaUdGNkVBeHVodTlEVzNGSF9tZDBxd1VCbGZUeXRaVklVdnF3TmpsZ0lObTU3OG5zMVNTTDh0QjFIWVBDV1BGRXNicEE4RFJRYWdvVXAyVUJXWlBUTmpWczVrV0VUSnVIeVp6aS1oekJIMUJkWnZiTGY4dTBZaDRYSXlxR0ZEWlVXZVFSOWdFUUJYd2VGWW9nSmxWUFhBbEtOWEZVcnJYZGNPYzhQenZITXNh?oc=5",
+      "source": "Moneycontrol.com",
+      "date": "2026-11-03T08:00:00.000Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "Engineers India reports strong earnings outlook driven by consultancy growth and record order book.",
       "enriched": true
     },
     {
@@ -951,6 +951,25 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Quarterly profit jumped 33% driven by healthy order inflow.",
+      "enriched": true
+    },
+    {
+      "id": "nd1ea0311f84f",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T wins order from Dhaka Metro",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGNLREVZREd6cElucnhJQXBLbzBla0ZPeGtZWFdlV3VkS2g5eE1nM0lqTGluLUtPc3pJNi1fT3VSd1hpbG9lRjR0OWFXTFQzU0k4a3g4dkRWYUZuZkVtbDNmR2FiTzhoeHRxMERqb2hpdk1LdUt5M2FhY0J6cENOQlVYVG9rQmdTcE5NSkV3?oc=5",
+      "source": "Deccan Herald",
+      "date": "2026-10-27T07:00:00.000Z",
+      "topic": "Orders",
+      "keyword": "Order",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T wins contract for Dhaka Metro project.",
       "enriched": true
     },
     {
@@ -1667,7 +1686,7 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extends deadline for selling its Hyderabad Metro stake to December 31.",
-      "sources_count": 3,
+      "sources_count": 2,
       "enriched": true
     },
     {
