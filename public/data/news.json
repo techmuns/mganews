@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-20T21:55:57.282Z",
-  "source": "google-news+munshot+valuepickr+claude",
+  "generated_at": "2026-11-21T10:06:08.189Z",
+  "source": "google-news+valuepickr+claude",
   "counts": {
     "portfolio": 0,
-    "watchlist": 139,
+    "watchlist": 135,
     "universe": 0,
-    "total": 139
+    "total": 135
   },
   "items": [
     {
@@ -47,25 +47,6 @@
       "enriched": true
     },
     {
-      "id": "n6938ff27526c",
-      "ticker": "BLISSGVS",
-      "company": "Bliss GVS Pharma Limited",
-      "sector": "Healthcare",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Anupam Rasayan Q2 Profit At Rs 500 Crore; Completes Bliss GVS Acquisition | Whalesbook Corporate News",
-      "url": "https://www.whalesbook.com/corporate-news/English/chemicals/Anupam-Rasayan-Q2-Profit-At-Rs-500-Crore-Completes-Bliss-GVS-Acquisition/6aeda8dfc6c6dccbb916ea97",
-      "source": "whalesbook.com",
-      "date": "2026-11-20T21:55:31.526Z",
-      "topic": "Deals",
-      "keyword": "Acquisition",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "Anupam Rasayan completed acquisition of Bliss GVS Pharma.",
-      "enriched": true
-    },
-    {
       "id": "na3804f8fadfb",
       "ticker": "BLISSGVS",
       "company": "Bliss GVS Pharma Limited",
@@ -101,6 +82,44 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "L&T won $1.4 billion Nvidia AI-factory order, expanding data centre business 10x.",
+      "enriched": true
+    },
+    {
+      "id": "n2221f583851e",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "HAL, BEL to Lead Spending Gains as L&T, BEML and Bharat Forge Emerge as Potential Beneficiaries of 20% Defence Capex Hike",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa3hXWlJ0d21odlZKeTliZWFScDgwTEJBa2d6VTVRcURoS1ZPM2tReHJnR19rOGlWTHJ6dklka01WU2Qtcy1vcHUtc2hjV3FDNzM4T3lTeFFyZ3A4Q2JrSi02RGh6SV95Q21WeFY5MGRPdUIyUmxZYlktbFEyS0RpRmdpdWp1WGJlMVItLURZLU9FNVJ6OVE?oc=5",
+      "source": "Kotak Neo",
+      "date": "2026-11-19T15:13:47.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T among potential beneficiaries of 20% increase in government defence capital spending.",
+      "enriched": true
+    },
+    {
+      "id": "n9416d96e9d34",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "Beyond BEL and HAL: L&T, Bharat Forge, BEML among 5 defence stocks that could benefit from proposed 20% capex boost",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNVnhtdWktUUtqNzZKRHF6NHNPMEs3LTNYVzliZ0VqaVBsZUdBNlpuSGFrcjVsRDYxMnlldFg3QmxnU2ZRM2lsMGJuZFktLV9pVzdPZGtRbERLeG5sVUNTVVZkTEtTb2tTVVdDWUFwZkZoMk1MOTBKd3Jra2k4VW5za0tnOFAyMTVBOTJtOWlYUnhxTW9nUnFlT01SbWZld0RnUlhwTDEzNmVUc2VhQzR3dEVBYnlBdjJjelR0SzlqdjM3UmlZdndkNXJXQ2hMRkVxelFJaUdxUDZRZ2h6d0JXRmpRY3RLQjQ0NFAyelJmX1FOTXJ1OXFPRzJubmZsOFo3T2ozRTBiMkU2dW_SAZACQVVfeXFMTzMyb19RWjNFLUxzbmRiT0wwemNGbVVkUGJRaGVtb3BxSk81Q1A2c0JOd2dZUVJEWFhSMjlMSE1BWFdMcHEyaExkX1VlS2xmaU50UFY0amJSNVREQV9rTFR1X3ZfaWh2NW5wQkVQdU0wQVpDMDNkZWdEUEUycDJDbkh2eUJYRFpfOHlrNG9Ka1ROYVFlR2F0NnktWWFqbm1WMzZmWFFoSVJJM2R0Z1BiNHVhOWVsdThUek1XZy1UUUZLaDdtdklUUll2SE5wRGFYTU9qeWxZR0wtNEpHUzB0a1ExVkUxTWlBZkpQSjI2azhQQmNWYWQwbmZoMkloTjhHY3N0UWxiM1k4cHJSVEhLZ3Q?oc=5",
+      "source": "Livemint",
+      "date": "2026-11-19T13:35:31.000Z",
+      "topic": "Growth",
+      "keyword": "Capex",
+      "importance": "medium",
+      "mood": "positive",
+      "takeaway": "L&T identified as potential beneficiary of proposed 20% defence capital spending boost.",
       "enriched": true
     },
     {
@@ -257,7 +276,7 @@
       "mood": "positive",
       "takeaway": "L&T won a significant order worth ₹1,000-2,500 crore for Noida Metro Aqua Line Extension project.",
       "enriched": true,
-      "sources_count": 2
+      "sources_count": 8
     },
     {
       "id": "n5b1c119b1e33",
@@ -295,7 +314,7 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Anupam Rasayan completed acquisition of 48.2% stake in Bliss GVS Pharma.",
-      "sources_count": 3,
+      "sources_count": 7,
       "enriched": true
     },
     {
@@ -646,25 +665,6 @@
       "enriched": true
     },
     {
-      "id": "n35dcc45472e5",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T publishes Q2 FY27 earnings call transcript | InvestyWise",
-      "url": "https://www.investywise.com/larsen-toubro-transcript-of-q2h1-fy27-earnings-call-uploaded",
-      "source": "investywise.com",
-      "date": "2026-11-02T22:51:24.420Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "L&T published its Q2 FY27 earnings call transcript.",
-      "enriched": true
-    },
-    {
       "id": "nf7de36408e2e",
       "ticker": "LT",
       "company": "Larsen & Toubro Limited",
@@ -681,6 +681,25 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "L&T targets 15% revenue growth for its services arms LTM and LTTS.",
+      "enriched": true
+    },
+    {
+      "id": "n35dcc45472e5",
+      "ticker": "LT",
+      "company": "Larsen & Toubro Limited",
+      "sector": "Capital Goods",
+      "scope": [
+        "watchlist"
+      ],
+      "title": "L&T publishes Q2 FY27 earnings call transcript | InvestyWise",
+      "url": "https://www.investywise.com/larsen-toubro-transcript-of-q2h1-fy27-earnings-call-uploaded",
+      "source": "investywise.com",
+      "date": "2026-11-02T22:51:24.420Z",
+      "topic": "Money",
+      "keyword": "Earnings",
+      "importance": "medium",
+      "mood": "neutral",
+      "takeaway": "L&T published its Q2 FY27 earnings call transcript.",
       "enriched": true
     },
     {
@@ -777,25 +796,6 @@
       "importance": "medium",
       "mood": "neutral",
       "takeaway": "L&T extended deadline for Vyoma.AI deal and stake sale to March 2027.",
-      "enriched": true
-    },
-    {
-      "id": "n293d37257473",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T Targets Doubling Order Book By 2031 Via Global Expansion",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNW9mZ29TNnlESnQ1dkhMOGZVUFk2ZFNsNUlGVTd4cWl1Vm1hbXBoVlItd3lDQkFxT3QtbWlfMWNQM1poaGMxams0YXNmRFYxRF83aWZEWmRpWkRLbmlSN21zTnVmVnMtdlpYTHpWVFNuWkYzTzVOdzk4ODNBdTBnQXNRY3JMeldqbXozUVM1WQ?oc=5",
-      "source": "Sahi",
-      "date": "2026-10-29T04:02:23.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T targets doubling its order book by 2031 through global expansion.",
       "enriched": true
     },
     {
@@ -1027,25 +1027,6 @@
       "importance": "high",
       "mood": "positive",
       "takeaway": "Quarterly profit jumped 33% driven by healthy order inflow.",
-      "enriched": true
-    },
-    {
-      "id": "nd1ea0311f84f",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "L&T wins order from Dhaka Metro",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeGNLREVZREd6cElucnhJQXBLbzBla0ZPeGtZWFdlV3VkS2g5eE1nM0lqTGluLUtPc3pJNi1fT3VSd1hpbG9lRjR0OWFXTFQzU0k4a3g4dkRWYUZuZkVtbDNmR2FiTzhoeHRxMERqb2hpdk1LdUt5M2FhY0J6cENOQlVYVG9rQmdTcE5NSkV3?oc=5",
-      "source": "Deccan Herald",
-      "date": "2026-10-27T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "medium",
-      "mood": "positive",
-      "takeaway": "L&T wins contract for Dhaka Metro project.",
       "enriched": true
     },
     {
@@ -2628,63 +2609,6 @@
       "importance": "medium",
       "mood": "positive",
       "takeaway": "Engineers India reports stronger profit in Q1 2026.",
-      "enriched": true
-    },
-    {
-      "id": "n85e9414d4161",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "India's Larsen and Toubro secures AI data centre order worth up to $1.57 billion",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjd5OHJBUmlVRjZJclVLaGdiOW5oVkVEcXpwdzQ2Y3BIaHNpQWpIaHFUTW5tUnFqUGk2TDFORVRLeFZCcHI3cDJUd1IzQ090b1BXTWo3SVQyMnk1aVFKMjRBX2ZiZ1Q5WVY0bFJrZl95UXFGX1F0ZjNEUXU4a1pFN1lqOTFVUmJVd0tycGRLM0UwdUg3VnlWSVJvcDUwc2RMdy1MUlFmMTNzQQ?oc=5",
-      "source": "Reuters",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Order",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T secures AI data centre order worth up to $1.57 billion.",
-      "enriched": true
-    },
-    {
-      "id": "ne3efd01ba64c",
-      "ticker": "LT",
-      "company": "Larsen & Toubro Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Larsen & Toubro Secures Mega* Order as part of a strategic partnership with Together AI to build India’s largest NVIDIA B300 AI Factory",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOQTZYdkt6anF0ZFZ1eHg3SlNianhCRXBxUmlCS19jX2RiMW9NNzlTQUlhUG9RcFpPckVUbFRQT1drR1QwWnRZWFZUdlpZZ0FuWWg3bkNoVEd4U1pEdlBMUVdId0Y1Wk1Kay1ObXROWjdVNHd4N2lGYUUxVTBOOTM3QnBYaGpnWkJqUzA1dWRHNTJ5ajNZOEEyTDkwejU1Ml9jbFhaQVBfR180aURac1FxOEZiT3NlYnBuOFRJako2Rk9HNWhSMUE4SHlpSmRjcUZvMzRpWXB6cVp6OWNtU2xVcUJwOEdJOTJicHJFZHVKS29PbzlLb3l1UG9fSFNnSFhsVG5seUxnVXlHQkdBTHZPd3NOaTRlWGhEU2Nj?oc=5",
-      "source": "Larsen & Toubro",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Orders",
-      "keyword": "Partnership",
-      "importance": "high",
-      "mood": "positive",
-      "takeaway": "L&T wins mega order with Together AI to build India's largest NVIDIA B300 AI factory.",
-      "enriched": true
-    },
-    {
-      "id": "n4aa73406eeb5",
-      "ticker": "ENGINERSIN",
-      "company": "Engineers India Limited",
-      "sector": "Capital Goods",
-      "scope": [
-        "watchlist"
-      ],
-      "title": "Engineers India Reports Q1 Earnings Against YoY Base of ₹65.4 Crore",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHBlT1M3cHBaeVJzYUx6Y0dvckF2aXVBX0Y1NmwxYkJKeGZEMFJQeDRqN08tYUE1bXJvQTVFbHNUV0drbjBBT1A0bmlkeDVXVUJyYTRNM2QzNV82eUlQdGNjX28wZDh3Rl9BZGJyZ3daSGVvM0xhUzhDeW9HMzdqbG5hVUlKQW9HWnBYdlRLcWNva2lfWmlXSlRxS3REYzZvQU1PbG5EWWE?oc=5",
-      "source": "Sahi",
-      "date": "2026-08-13T07:00:00.000Z",
-      "topic": "Money",
-      "keyword": "Earnings",
-      "importance": "medium",
-      "mood": "neutral",
-      "takeaway": "Engineers India reports Q1 earnings with year-over-year comparison to ₹65.4 crore base.",
       "enriched": true
     }
   ]
